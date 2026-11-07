@@ -1,0 +1,58 @@
+{
+ "questionPacks": [
+  {
+   "file": "packs/questions/official-samples.json",
+   "title": "Official samples"
+  },
+  {
+   "file": "packs/questions/mock-a-part1.json",
+   "title": "Mock A – Part 1 聴解"
+  },
+  {
+   "file": "packs/questions/mock-a-part2.json",
+   "title": "Mock A – Part 2 聴読解"
+  },
+  {
+   "file": "packs/questions/mock-a-part3.json",
+   "title": "Mock A – Part 3 読解"
+  },
+  {
+   "file": "packs/questions/mock-b-part1.json",
+   "title": "Mock B – Part 1 聴解"
+  },
+  {
+   "file": "packs/questions/mock-b-part2.json",
+   "title": "Mock B – Part 2 聴読解"
+  },
+  {
+   "file": "packs/questions/mock-b-part3.json",
+   "title": "Mock B – Part 3 読解"
+  },
+  {
+   "file": "packs/questions/drill-2-3-extra.json",
+   "title": "Drill – 総合聴読解 extra"
+  }
+ ],
+ "cardPacks": [
+  {
+   "file": "packs/cards/business-vocab-1.json",
+   "title": "Business vocabulary 1"
+  },
+  {
+   "file": "packs/cards/kanji-n1-1.json",
+   "title": "N1 kanji for business 1"
+  },
+  {
+   "file": "packs/cards/keigo-1.json",
+   "title": "Keigo essentials"
+  },
+  {
+   "file": "packs/cards/phrases-1.json",
+   "title": "Business set phrases"
+  },
+  {
+   "file": "packs/cards/grammar-n1-1.json",
+   "title": "N1 grammar for business"
+  }
+ ]
+}

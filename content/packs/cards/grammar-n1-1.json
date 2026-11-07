@@ -1,0 +1,807 @@
+{
+ "id": "grammar-n1-1",
+ "title": "N1 grammar for business",
+ "deck": "grammar",
+ "cards": [
+  {
+   "id": "gr1-001",
+   "front": "〜をもって",
+   "reading": "をもって",
+   "meaning": "by means of; as of (a time)",
+   "example": "本日をもちまして、受付を終了いたします。",
+   "exampleEn": "As of today, we are closing applications.",
+   "note": "N + をもって. (1) means/basis: 書面をもって; (2) time limit/end: 本日をもって. Formal notices.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-002",
+   "front": "〜に際して",
+   "reading": "にさいして",
+   "meaning": "on the occasion of, when",
+   "example": "契約に際して、身分証明書をご提示ください。",
+   "exampleEn": "Please present ID when signing the contract.",
+   "note": "N / V-dict + に際して. Special one-time events; formal.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-003",
+   "front": "〜に先立ち",
+   "reading": "にさきだち",
+   "meaning": "prior to, ahead of",
+   "example": "新製品の発売に先立ち、記者発表会を行います。",
+   "exampleEn": "Ahead of the new product launch, we'll hold a press conference.",
+   "note": "N / V-dict + に先立ち（に先立って）. Something done in preparation before an event.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-004",
+   "front": "〜いかんでは",
+   "reading": "いかんでは",
+   "meaning": "depending on",
+   "example": "交渉の結果いかんでは、計画を見直す可能性もある。",
+   "exampleEn": "Depending on the outcome of negotiations, we may revise the plan.",
+   "note": "N(の) + いかんでは. The outcome may change (often to something unusual).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-005",
+   "front": "〜いかんにかかわらず",
+   "reading": "いかんにかかわらず",
+   "meaning": "regardless of",
+   "example": "理由のいかんにかかわらず、返金はいたしかねます。",
+   "exampleEn": "Regardless of the reason, we cannot issue refunds.",
+   "note": "N(の) + いかんにかかわらず／いかんによらず. Formal notices and terms.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-006",
+   "front": "〜をよそに",
+   "reading": "をよそに",
+   "meaning": "ignoring, in defiance of",
+   "example": "周囲の心配をよそに、新店舗は初月から黒字となった。",
+   "exampleEn": "Despite everyone's worries, the new store was profitable from its first month.",
+   "note": "N + をよそに. Disregarding others' concerns/expectations; slightly critical tone.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-007",
+   "front": "〜とあって",
+   "reading": "とあって",
+   "meaning": "because (it is a special situation)",
+   "example": "大型連休とあって、空港は朝から混雑している。",
+   "exampleEn": "Since it's a long holiday, the airport has been crowded since morning.",
+   "note": "Plain form (N/なA without だ) + とあって. Notable circumstance → natural result. News style.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-008",
+   "front": "〜べく",
+   "reading": "べく",
+   "meaning": "in order to",
+   "example": "海外市場を開拓すべく、現地法人を設立した。",
+   "exampleEn": "We set up a local subsidiary in order to develop overseas markets.",
+   "note": "V-dict + べく (する→すべく). Formal purpose; not used with requests/commands.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-009",
+   "front": "〜を余儀なくされる",
+   "reading": "をよぎなくされる",
+   "meaning": "be forced to",
+   "example": "資材不足により、工場は操業停止を余儀なくされた。",
+   "exampleEn": "Due to material shortages, the factory was forced to suspend operations.",
+   "note": "N + を余儀なくされる. Unavoidable circumstances force an unwanted action. News style.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-010",
+   "front": "〜ともなると",
+   "reading": "ともなると",
+   "meaning": "when it comes to (a higher level)",
+   "example": "管理職ともなると、部下の育成も重要な仕事になる。",
+   "exampleEn": "Once you become a manager, developing staff becomes an important part of the job.",
+   "note": "N / V-dict + ともなると（ともなれば）. At this advanced stage/position, naturally X.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-011",
+   "front": "〜にかかわらず",
+   "reading": "にかかわらず",
+   "meaning": "regardless of",
+   "example": "経験の有無にかかわらず、応募を歓迎します。",
+   "exampleEn": "We welcome applications regardless of experience.",
+   "note": "N + にかかわらず; also V-dict V-ない (参加するしないにかかわらず). Covers contrasting cases.",
+   "level": "N2"
+  },
+  {
+   "id": "gr1-012",
+   "front": "〜に即して",
+   "reading": "にそくして",
+   "meaning": "in line with, in accordance with (facts)",
+   "example": "実態に即した支援策を検討する必要がある。",
+   "exampleEn": "We need to consider support measures that match actual conditions.",
+   "note": "N + に即して（に即した N）. Conforming to actual conditions or rules.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-013",
+   "front": "〜を踏まえて",
+   "reading": "をふまえて",
+   "meaning": "based on, taking into account",
+   "example": "前回の反省を踏まえて、スケジュールに余裕を持たせた。",
+   "exampleEn": "Learning from last time, we built extra slack into the schedule.",
+   "note": "N + を踏まえて（を踏まえた N）. Basing a decision on prior results/opinions.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-014",
+   "front": "〜であれ",
+   "reading": "であれ",
+   "meaning": "whether / even if it is",
+   "example": "理由が何であれ、無断欠勤は認められない。",
+   "exampleEn": "Whatever the reason, absence without notice is not allowed.",
+   "note": "N + であれ; N であれ N であれ (whether A or B). Same applies in all cases.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-015",
+   "front": "〜ならでは",
+   "reading": "ならでは",
+   "meaning": "unique to, only possible for",
+   "example": "老舗ならではのきめ細かなサービスが評価された。",
+   "exampleEn": "The attentive service unique to a long-established firm was praised.",
+   "note": "N + ならでは（の N）. Praises distinctive strengths.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-016",
+   "front": "〜にひきかえ",
+   "reading": "にひきかえ",
+   "meaning": "in contrast to",
+   "example": "好調な国内事業にひきかえ、海外事業は苦戦している。",
+   "exampleEn": "In contrast to strong domestic business, overseas operations are struggling.",
+   "note": "N / plain(なの) + にひきかえ. Contrast with evaluative feeling (often negative for one side).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-017",
+   "front": "〜とはいえ",
+   "reading": "とはいえ",
+   "meaning": "although, even though",
+   "example": "景気が回復したとはいえ、中小企業の経営は依然厳しい。",
+   "exampleEn": "Although the economy has recovered, small businesses still face hardship.",
+   "note": "Plain form / N + とはいえ. Admits fact, then states a reality that differs from expectation.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-018",
+   "front": "〜までもない",
+   "reading": "までもない",
+   "meaning": "there's no need to",
+   "example": "言うまでもなく、納期厳守が最優先です。",
+   "exampleEn": "Needless to say, meeting the deadline is the top priority.",
+   "note": "V-dict + までもない. Obvious; doing it would be superfluous.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-019",
+   "front": "〜をおいて",
+   "reading": "をおいて",
+   "meaning": "other than (only)",
+   "example": "この案件を任せられるのは、彼をおいてほかにいない。",
+   "exampleEn": "There is no one but him we can entrust this project to.",
+   "note": "N + をおいて（ほかに）〜ない. Praises the sole suitable candidate.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-020",
+   "front": "〜ずにはおかない",
+   "reading": "ずにはおかない",
+   "meaning": "will certainly cause / inevitably",
+   "example": "今回の不祥事は、業界全体に影響を与えずにはおかないだろう。",
+   "exampleEn": "This scandal will inevitably affect the whole industry.",
+   "note": "V-ない stem + ずにはおかない (する→せずには). Something inevitably brings about an effect.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-021",
+   "front": "〜に至っては",
+   "reading": "にいたっては",
+   "meaning": "as for (extreme case)",
+   "example": "売上は全店で減少し、新宿店に至っては前年の半分だった。",
+   "exampleEn": "Sales fell at every store; Shinjuku was down to half of last year.",
+   "note": "N + に至っては. Introduces the most extreme example, usually negative.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-022",
+   "front": "〜に至るまで",
+   "reading": "にいたるまで",
+   "meaning": "all the way to, even",
+   "example": "設計から梱包に至るまで、すべて自社で行っています。",
+   "exampleEn": "We handle everything in-house, from design down to packaging.",
+   "note": "N + に至るまで. Emphasizes range extending to the smallest/farthest item.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-023",
+   "front": "〜をものともせず",
+   "reading": "をものともせず",
+   "meaning": "undaunted by",
+   "example": "厳しい市場環境をものともせず、同社は増益を達成した。",
+   "exampleEn": "Undaunted by the harsh market, the company achieved higher profits.",
+   "note": "N + をものともせず. Overcoming difficulty with courage; about others, praise.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-024",
+   "front": "〜を皮切りに",
+   "reading": "をかわきりに",
+   "meaning": "starting with",
+   "example": "東京店を皮切りに、全国十都市に出店する予定だ。",
+   "exampleEn": "Starting with Tokyo, we plan to open in ten cities nationwide.",
+   "note": "N + を皮切りに（として）. First in a series of expanding events.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-025",
+   "front": "〜にあって",
+   "reading": "にあって",
+   "meaning": "in (a situation/position)",
+   "example": "この不況下にあって、同社の業績は際立っている。",
+   "exampleEn": "Amid this recession, the company's results stand out.",
+   "note": "N + にあって. In a special circumstance; formal written style.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-026",
+   "front": "〜を禁じ得ない",
+   "reading": "をきんじえない",
+   "meaning": "cannot help feeling",
+   "example": "今回の不正には、怒りを禁じ得ない。",
+   "exampleEn": "I can't help feeling anger at this fraud.",
+   "note": "N (emotion) + を禁じ得ない. Strong emotion, formal; e.g. 驚き・同情・怒り.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-027",
+   "front": "〜を限りに",
+   "reading": "をかぎりに",
+   "meaning": "as of (last time)",
+   "example": "今月を限りに、この製品の販売を終了します。",
+   "exampleEn": "We will discontinue this product at the end of this month.",
+   "note": "N (time) + を限りに. Marks the final point after which something ends.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-028",
+   "front": "〜をもってすれば",
+   "reading": "をもってすれば",
+   "meaning": "with (this ability), even",
+   "example": "御社の技術力をもってすれば、実現は難しくないはずです。",
+   "exampleEn": "With your technical capabilities, it shouldn't be hard to achieve.",
+   "note": "N + をもってすれば. With such strength, even hard things are possible.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-029",
+   "front": "〜たりとも",
+   "reading": "たりとも",
+   "meaning": "not even one",
+   "example": "この予算は一円たりとも無駄にできない。",
+   "exampleEn": "We cannot waste even a single yen of this budget.",
+   "note": "一 + counter + たりとも〜ない. Strong negation of the smallest amount.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-030",
+   "front": "〜ながらも",
+   "reading": "ながらも",
+   "meaning": "although, while",
+   "example": "小規模ながらも、同社は高い技術力を誇る。",
+   "exampleEn": "Although small, the company boasts high technical capability.",
+   "note": "V-stem / A / N + ながらも. Concession: despite X, Y.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-031",
+   "front": "〜とは裏腹に",
+   "reading": "とはうらはらに",
+   "meaning": "contrary to",
+   "example": "好調な予測とは裏腹に、実際の売上は伸び悩んだ。",
+   "exampleEn": "Contrary to the optimistic forecast, actual sales stagnated.",
+   "note": "N + とは裏腹に. Result opposite to appearance/expectation/words.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-032",
+   "front": "〜に足る",
+   "reading": "にたる",
+   "meaning": "worthy of, sufficient to",
+   "example": "彼の報告は信頼に足る内容だった。",
+   "exampleEn": "His report was trustworthy.",
+   "note": "V-dict / N + に足る. Has enough value; often 信頼に足る.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-033",
+   "front": "〜に堪えない",
+   "reading": "にたえない",
+   "meaning": "unbearable to; deeply (feel)",
+   "example": "多大なるご支援を賜り、感謝に堪えません。",
+   "exampleEn": "We are deeply grateful for your tremendous support.",
+   "note": "(1) V-dict + に堪えない: too bad to bear (見るに堪えない); (2) N + に堪えない: deeply feel (感謝に堪えない).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-034",
+   "front": "〜てやまない",
+   "reading": "てやまない",
+   "meaning": "sincerely (wish), never cease to",
+   "example": "皆様のご活躍を心より願ってやみません。",
+   "exampleEn": "I sincerely hope for your continued success.",
+   "note": "V-て + やまない. Strong, lasting feelings (願う・期待する・祈る). Speeches and letters.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-035",
+   "front": "〜てしかるべき",
+   "reading": "てしかるべき",
+   "meaning": "ought to, should naturally",
+   "example": "これだけの成果を上げたのだから、評価されてしかるべきだ。",
+   "exampleEn": "With such results, they deserve recognition.",
+   "note": "V-て + しかるべきだ. It would be appropriate/natural to.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-036",
+   "front": "〜はおろか",
+   "reading": "はおろか",
+   "meaning": "let alone, not to mention",
+   "example": "利益はおろか、人件費さえ賄えない状況だ。",
+   "exampleEn": "We can't even cover labor costs, let alone make a profit.",
+   "note": "N + はおろか, N も〜. Mostly negative contexts.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-037",
+   "front": "〜もさることながら",
+   "reading": "もさることながら",
+   "meaning": "not only ... but (even more)",
+   "example": "価格もさることながら、品質の高さが選ばれる理由だ。",
+   "exampleEn": "Price matters, but it's the high quality that makes us the choice.",
+   "note": "N + もさることながら. Acknowledges A, emphasizes B more.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-038",
+   "front": "〜のみならず",
+   "reading": "のみならず",
+   "meaning": "not only",
+   "example": "国内のみならず、アジア各国でも販売を開始した。",
+   "exampleEn": "We began sales not only domestically but across Asia.",
+   "note": "Plain form / N + のみならず. Formal version of だけでなく.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-039",
+   "front": "〜ならいざ知らず",
+   "reading": "ならいざしらず",
+   "meaning": "it would be one thing if ... but",
+   "example": "新人ならいざ知らず、ベテランがこのミスをするとは。",
+   "exampleEn": "It'd be one thing for a newcomer, but a veteran making this mistake?",
+   "note": "N / plain + ならいざ知らず. Exception for A, but B is different/unacceptable.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-040",
+   "front": "〜にもまして",
+   "reading": "にもまして",
+   "meaning": "even more than",
+   "example": "今年は例年にもまして受注が好調だ。",
+   "exampleEn": "Orders are even stronger this year than usual.",
+   "note": "N / 疑問詞 + にもまして. Degree exceeds the comparison.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-041",
+   "front": "〜を機に",
+   "reading": "をきに",
+   "meaning": "taking the opportunity of",
+   "example": "創業五十周年を機に、ロゴを一新した。",
+   "exampleEn": "We refreshed our logo on the occasion of our 50th anniversary.",
+   "note": "N + を機に（して）. An event triggers a new action.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-042",
+   "front": "〜を受けて",
+   "reading": "をうけて",
+   "meaning": "in response to",
+   "example": "消費者からの苦情を受けて、表示を改善した。",
+   "exampleEn": "In response to consumer complaints, we improved the labeling.",
+   "note": "N + を受けて. Action taken in reaction to an event/report.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-043",
+   "front": "〜に照らして",
+   "reading": "にてらして",
+   "meaning": "in light of, against",
+   "example": "社内規定に照らして、処分を決定する。",
+   "exampleEn": "We will decide on the penalty in light of company rules.",
+   "note": "N + に照らして（照らし合わせて）. Judging against rules/standards.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-044",
+   "front": "〜に鑑み",
+   "reading": "にかんがみ",
+   "meaning": "in view of, considering",
+   "example": "昨今の情勢に鑑み、出張を当面自粛いたします。",
+   "exampleEn": "In view of current circumstances, we will refrain from business trips for now.",
+   "note": "N + に鑑み（鑑みて）. Very formal; official decisions and notices.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-045",
+   "front": "〜に則って",
+   "reading": "にのっとって",
+   "meaning": "in accordance with (rules)",
+   "example": "法令に則って、適切に処理いたします。",
+   "exampleEn": "We will handle it appropriately in accordance with the law.",
+   "note": "N + に則って（に則り）. Follows established rules, laws, procedures.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-046",
+   "front": "〜を前提に",
+   "reading": "をぜんていに",
+   "meaning": "on the premise of",
+   "example": "長期契約を前提に、単価を下げることが可能です。",
+   "exampleEn": "We can lower the unit price on the premise of a long-term contract.",
+   "note": "N + を前提に（として）. A condition assumed beforehand.",
+   "level": "BJT"
+  },
+  {
+   "id": "gr1-047",
+   "front": "〜かたがた",
+   "reading": "かたがた",
+   "meaning": "while also, partly to",
+   "example": "ご挨拶かたがた、新任の担当者をご紹介に伺います。",
+   "exampleEn": "We'll visit to pay our respects and introduce the new person in charge.",
+   "note": "N (action noun) + かたがた. Doing two purposes at once; formal, letters (お礼かたがた).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-048",
+   "front": "〜がてら",
+   "reading": "がてら",
+   "meaning": "while (also doing)",
+   "example": "取引先回りがてら、新店舗の様子を見てきます。",
+   "exampleEn": "While visiting clients, I'll check on the new store.",
+   "note": "N / V-stem + がてら. Using one action as an opportunity for another; casual-ish.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-049",
+   "front": "〜かたわら",
+   "reading": "かたわら",
+   "meaning": "while also (side activity)",
+   "example": "彼は本業のかたわら、地域の起業支援も行っている。",
+   "exampleEn": "Besides his main job, he also supports local startups.",
+   "note": "N の / V-dict + かたわら. Long-term parallel activity besides main work.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-050",
+   "front": "〜や否や",
+   "reading": "やいなや",
+   "meaning": "as soon as",
+   "example": "新商品は発売されるや否や、売り切れた。",
+   "exampleEn": "The new product sold out the moment it was released.",
+   "note": "V-dict + や否や（や）. The next event happens instantly; written style.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-051",
+   "front": "〜が早いか",
+   "reading": "がはやいか",
+   "meaning": "no sooner than",
+   "example": "社長が会議室に入るが早いか、報告が始まった。",
+   "exampleEn": "No sooner had the president entered than the reports began.",
+   "note": "V-dict / V-た + が早いか. Immediately after; not for own volition.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-052",
+   "front": "〜そばから",
+   "reading": "そばから",
+   "meaning": "no sooner ... than (repeatedly)",
+   "example": "在庫を補充するそばから注文が入り、追いつかない。",
+   "exampleEn": "Orders come in as soon as we restock, and we can't keep up.",
+   "note": "V-dict / V-た + そばから. Repeated frustration: as soon as X, Y undoes it.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-053",
+   "front": "〜ずくめ",
+   "reading": "ずくめ",
+   "meaning": "full of, nothing but",
+   "example": "今期は増収増益、新規受注と、いいことずくめだ。",
+   "exampleEn": "This term has been all good news: higher sales, profits, and new orders.",
+   "note": "N + ずくめ. Filled entirely with (often good things: いいことずくめ).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-054",
+   "front": "〜きらいがある",
+   "reading": "きらいがある",
+   "meaning": "tend to (negative)",
+   "example": "当社は前例にとらわれるきらいがある。",
+   "exampleEn": "Our company tends to be bound by precedent.",
+   "note": "V-dict / N の + きらいがある. Undesirable tendency; critical.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-055",
+   "front": "〜ばそれまでだ",
+   "reading": "ばそれまでだ",
+   "meaning": "if ... then it's all over",
+   "example": "いくら良い商品でも、知られなければそれまでだ。",
+   "exampleEn": "No matter how good a product is, if no one knows about it, that's the end.",
+   "note": "V-ば + それまでだ. All effort becomes meaningless if that happens.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-056",
+   "front": "〜までだ",
+   "reading": "までだ",
+   "meaning": "will simply; it's just that",
+   "example": "断られたら、別の取引先を探すまでだ。",
+   "exampleEn": "If they turn us down, we'll simply look for another supplier.",
+   "note": "V-dict + までだ: resolve (I'll just do X); V-た + までだ: I merely did X.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-057",
+   "front": "〜まじき",
+   "reading": "まじき",
+   "meaning": "unbefitting, should not",
+   "example": "顧客情報の流出は、企業としてあるまじき失態だ。",
+   "exampleEn": "Leaking customer data is a blunder unacceptable for a company.",
+   "note": "V-dict + まじき N（する→すまじき）. Conduct unacceptable for a role.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-058",
+   "front": "〜ともあろう",
+   "reading": "ともあろう",
+   "meaning": "someone of such (status)",
+   "example": "大手銀行ともあろうものが、このような不正をするとは。",
+   "exampleEn": "That a major bank, of all things, would commit such fraud.",
+   "note": "N + ともあろう + N. Criticizes someone whose position should prevent the act.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-059",
+   "front": "〜ではあるまいし",
+   "reading": "ではあるまいし",
+   "meaning": "it's not as if",
+   "example": "新入社員ではあるまいし、報告くらい自分でできるだろう。",
+   "exampleEn": "You're not a new hire—surely you can report on your own.",
+   "note": "N + ではあるまいし（じゃあるまいし）. Rebuke/advice, conversational.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-060",
+   "front": "〜ずにはすまない",
+   "reading": "ずにはすまない",
+   "meaning": "cannot get by without",
+   "example": "これだけの損失を出しては、責任を問われずにはすまない。",
+   "exampleEn": "With losses this large, someone will inevitably be held responsible.",
+   "note": "V-ない stem + ずにはすまない（する→せずには）. Obliged by social norms/circumstance.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-061",
+   "front": "〜ないものでもない",
+   "reading": "ないものでもない",
+   "meaning": "it's not impossible that",
+   "example": "条件次第では、値引きに応じないものでもない。",
+   "exampleEn": "Depending on the terms, we might be willing to offer a discount.",
+   "note": "V-ない + ものでもない. Reluctant possibility.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-062",
+   "front": "〜にかこつけて",
+   "reading": "にかこつけて",
+   "meaning": "using ... as a pretext",
+   "example": "出張にかこつけて観光ばかりするのは困る。",
+   "exampleEn": "It's a problem to use business trips as an excuse for sightseeing.",
+   "note": "N + にかこつけて. Uses an excuse to do something else.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-063",
+   "front": "〜とあれば",
+   "reading": "とあれば",
+   "meaning": "if it is (for)",
+   "example": "お客様のご要望とあれば、休日でも対応いたします。",
+   "exampleEn": "If it's a customer's request, we'll respond even on holidays.",
+   "note": "N / plain + とあれば. If that's the special case, will do anything.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-064",
+   "front": "〜ものを",
+   "reading": "ものを",
+   "meaning": "if only (regret/complaint)",
+   "example": "早めに相談してくれれば対応できたものを。",
+   "exampleEn": "If only you'd consulted us earlier, we could have dealt with it.",
+   "note": "Plain form + ものを. Regret that a better outcome was possible.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-065",
+   "front": "〜にしたところで",
+   "reading": "にしたところで",
+   "meaning": "even for, even if",
+   "example": "部長にしたところで、この決定には不満だろう。",
+   "exampleEn": "Even the manager is probably unhappy with this decision.",
+   "note": "N + にしたところで（にしたって）. Even from that standpoint, same conclusion.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-066",
+   "front": "〜ところを",
+   "reading": "ところを",
+   "meaning": "despite (your situation)",
+   "example": "お休みのところを申し訳ありませんが、至急ご確認ください。",
+   "exampleEn": "Sorry to disturb your day off, but please check urgently.",
+   "note": "Plain form / N の + ところを. Polite set phrases: お忙しいところを, お休みのところを.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-067",
+   "front": "〜と相まって",
+   "reading": "とあいまって",
+   "meaning": "combined with",
+   "example": "円安と相まって、輸出企業の業績が好調だ。",
+   "exampleEn": "Combined with the weak yen, exporters are performing well.",
+   "note": "N + と相まって. Two factors together intensify an effect.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-068",
+   "front": "〜を経て",
+   "reading": "をへて",
+   "meaning": "after going through",
+   "example": "三回の面接を経て、採用が決まった。",
+   "exampleEn": "After three interviews, the hiring was decided.",
+   "note": "N + を経て. Passing through stages/procedures.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-069",
+   "front": "〜んがため",
+   "reading": "んがため",
+   "meaning": "in order to (strong will)",
+   "example": "目標を達成せんがため、全社一丸となって取り組んだ。",
+   "exampleEn": "In order to achieve the goal, the whole company worked as one.",
+   "note": "V-ない stem + んがため（に）(する→せんがため). Literary, strong purpose.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-070",
+   "front": "〜にとどまらず",
+   "reading": "にとどまらず",
+   "meaning": "not limited to",
+   "example": "この問題は一企業にとどまらず、業界全体の課題だ。",
+   "exampleEn": "This issue isn't limited to one company; it affects the entire industry.",
+   "note": "N / V-dict + にとどまらず. Range extends beyond.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-071",
+   "front": "〜の至り",
+   "reading": "のいたり",
+   "meaning": "the height of, utmost",
+   "example": "このような賞をいただき、光栄の至りです。",
+   "exampleEn": "Receiving such an award is the greatest honor.",
+   "note": "N + の至り. Set phrases: 光栄の至り, 恐縮の至り, 若気の至り.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-072",
+   "front": "〜の極み",
+   "reading": "のきわみ",
+   "meaning": "the peak of, extreme",
+   "example": "大切な顧客を失ったのは、痛恨の極みだ。",
+   "exampleEn": "Losing an important client is extremely regrettable.",
+   "note": "N + の極み. Extreme degree (痛恨の極み, 贅沢の極み).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-073",
+   "front": "〜を押して",
+   "reading": "をおして",
+   "meaning": "despite (pushing through)",
+   "example": "社長は体調不良を押して、株主総会に出席した。",
+   "exampleEn": "Despite feeling unwell, the president attended the shareholders' meeting.",
+   "note": "N + を押して. Doing something despite difficulty (病・反対).",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-074",
+   "front": "〜にあたり",
+   "reading": "にあたり",
+   "meaning": "upon, on the occasion of",
+   "example": "新年度を迎えるにあたり、組織を再編いたしました。",
+   "exampleEn": "As we begin the new fiscal year, we have reorganized.",
+   "note": "N / V-dict + にあたり（にあたって）. Formal; starting something important. Similar to に際して but forward-looking.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-075",
+   "front": "〜を兼ねて",
+   "reading": "をかねて",
+   "meaning": "also serving as",
+   "example": "研修を兼ねて、新人を展示会に同行させた。",
+   "exampleEn": "We took the new hire to the trade show, which also served as training.",
+   "note": "N + を兼ねて. One action with two purposes.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-076",
+   "front": "〜とおぼしき",
+   "reading": "とおぼしき",
+   "meaning": "apparently, seemingly",
+   "example": "関係者とおぼしき人物から情報が漏れたようだ。",
+   "exampleEn": "Information seems to have leaked from someone apparently involved.",
+   "note": "N + とおぼしき N. Written/news style; \"seems to be.\"",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-077",
+   "front": "〜をもってしても",
+   "reading": "をもってしても",
+   "meaning": "even with",
+   "example": "最新の技術をもってしても、原因の特定は困難だった。",
+   "exampleEn": "Even with the latest technology, identifying the cause was difficult.",
+   "note": "N + をもってしても〜ない. Even this strong means isn't enough.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-078",
+   "front": "〜べくもない",
+   "reading": "べくもない",
+   "meaning": "there's no way to",
+   "example": "大手の資金力には、到底太刀打ちすべくもない。",
+   "exampleEn": "There's no way we can compete with the financial power of big firms.",
+   "note": "V-dict + べくもない. Impossible from the start; literary.",
+   "level": "N1"
+  },
+  {
+   "id": "gr1-079",
+   "front": "〜とみられる",
+   "reading": "とみられる",
+   "meaning": "is believed to be",
+   "example": "今期の営業利益は過去最高になるとみられる。",
+   "exampleEn": "Operating profit this term is expected to hit a record high.",
+   "note": "Plain form + とみられる. News reporting of estimates.",
+   "level": "BJT"
+  },
+  {
+   "id": "gr1-080",
+   "front": "〜をめどに",
+   "reading": "をめどに",
+   "meaning": "aiming at, targeting",
+   "example": "年内をめどに、新システムを導入する予定です。",
+   "exampleEn": "We plan to introduce the new system by around the end of the year.",
+   "note": "N (time/amount) + をめどに. Rough target in plans.",
+   "level": "BJT"
+  }
+ ]
+}

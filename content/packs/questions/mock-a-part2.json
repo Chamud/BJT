@@ -1,0 +1,1834 @@
+{
+ "id": "mock-a-part2",
+ "title": "Mock A – Part 2 聴読解",
+ "mock": "A",
+ "questions": [
+  {
+   "id": "A2-1-01",
+   "part": 2,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "meeting-room",
+    "schedule"
+   ],
+   "scene": "オフィスの席で、男性社員と女性社員が話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と女の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "来週の定例なんだけど、いつもの第2会議室、空調の工事で使えないらしいんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "そうなんですか。じゃあ、第5会議室はどうでしょう。あそこなら空いていると思います。"
+     },
+     {
+      "spk": "A",
+      "text": "うーん、第5は12人しか入らないんだよね。支店のメンバーにはオンラインで参加してもらおうか。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、支店の方には接続用のリンクをお送りしておきます。"
+     }
+    ],
+    "question": "二人は何について話していますか。"
+   },
+   "prompt": "二人は何について話していますか。",
+   "choices": [
+    "会議室の空調工事の日程",
+    "会議室の新しい予約方法",
+    "来週の定例会議の場所と参加方法",
+    "オンライン会議システムの導入"
+   ],
+   "answer": 2,
+   "explanation": "The usual room is unavailable (「第2会議室、空調の工事で使えない」), so they choose 第5会議室 and have branch members join online (「オンラインで参加してもらおう」). The conversation is about where and how next week's meeting will be held. The construction is only the reason, not the topic, and no new online system is being introduced."
+  },
+  {
+   "id": "A2-1-02",
+   "part": 2,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "expenses",
+    "next-action"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "経理部社員"
+     },
+     "B": {
+      "gender": "m",
+      "role": "営業部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "経理部の女の人と営業部の男の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "山田さん、先月の大阪出張の精算書なんですが、新幹線の領収書が添付されていないんです。"
+     },
+     {
+      "spk": "B",
+      "text": "あ、すみません。交通系のICカードで乗ったので、領収書はもらっていないんです。利用履歴を印刷したものでもいいですか。"
+     },
+     {
+      "spk": "A",
+      "text": "はい、それで結構です。精算書はこのままで大丈夫ですので、今週中にお願いします。"
+     }
+    ],
+    "question": "男の人はこのあと何をしますか。"
+   },
+   "prompt": "男の人はこのあと何をしますか。",
+   "choices": [
+    "ICカードの利用履歴を印刷して提出する",
+    "駅で新幹線の領収書を発行してもらう",
+    "精算書を書き直して再提出する",
+    "経理部に出張の日程を報告する"
+   ],
+   "answer": 0,
+   "explanation": "He asks whether 「利用履歴を印刷したもの」 is acceptable and she says 「それで結構です」, so he will print and submit the IC card usage history. She explicitly says 「精算書はこのままで大丈夫」, ruling out rewriting the form, and he says he never received a receipt."
+  },
+  {
+   "id": "A2-1-03",
+   "part": 2,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "recruiting",
+    "meeting"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "部長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "人事部社員"
+     },
+     "C": {
+      "gender": "m",
+      "role": "人事部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "人事部で、三人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "来月から載せる中途採用の広告だけど、「営業経験5年以上」というのは厳しすぎないかな。"
+     },
+     {
+      "spk": "B",
+      "text": "昨年はそれで応募がかなり少なかったですからね。3年以上にしてはどうでしょうか。"
+     },
+     {
+      "spk": "C",
+      "text": "その代わりに、「中小企業診断士の資格があれば優遇」と書き加えるのはいかがですか。"
+     },
+     {
+      "spk": "A",
+      "text": "うん、それでいこう。じゃ、原稿を直して、広告代理店に送っておいてくれる？"
+     }
+    ],
+    "question": "三人は何について話していますか。"
+   },
+   "prompt": "三人は何について話していますか。",
+   "choices": [
+    "昨年の応募者の評価",
+    "広告代理店の選び方",
+    "社員の資格取得の支援",
+    "求人広告の応募条件の見直し"
+   ],
+   "answer": 3,
+   "explanation": "They discuss changing 「営業経験5年以上」 to 「3年以上」 and adding 「資格があれば優遇」 to the job ad, i.e. revising the application requirements. The qualification is mentioned only as a preferential condition for applicants, not as a support program for employees."
+  },
+  {
+   "id": "A2-1-04",
+   "part": 2,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "survey",
+    "next-action"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と女の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "今回の顧客満足度調査、回答率が去年の半分ぐらいしかないんだよ。"
+     },
+     {
+      "spk": "B",
+      "text": "質問が40問もありましたからね。途中で回答をやめてしまった方が多いようです。"
+     },
+     {
+      "spk": "A",
+      "text": "なるほどね。次回は質問の数をもっと絞り込もうか。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。では、まずどの質問を残すべきか、優先順位をつけて整理してみます。"
+     }
+    ],
+    "question": "女の人はこのあと何をしますか。"
+   },
+   "prompt": "女の人はこのあと何をしますか。",
+   "choices": [
+    "回答しなかった顧客に連絡する",
+    "アンケートの質問項目を整理する",
+    "回答率を去年と比較する",
+    "調査を外部の会社に依頼する"
+   ],
+   "answer": 1,
+   "explanation": "She says 「どの質問を残すべきか、優先順位をつけて整理してみます」, so she will sort out the survey questions. The comparison with last year's response rate has already been made by the man (「去年の半分ぐらい」), so it is not her next step."
+  },
+  {
+   "id": "A2-1-05",
+   "part": 2,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "exhibition",
+    "logistics",
+    "problem"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "主任"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、女の人と男の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "展示会の搬入、当日の朝だと思っていたら、前日の午後なんだって。主催者からさっき連絡があったの。"
+     },
+     {
+      "spk": "B",
+      "text": "えっ、前日ですか。トラック、当日の朝7時で頼んでしまっていますよ。"
+     },
+     {
+      "spk": "A",
+      "text": "じゃあ、すぐに運送会社に連絡して、日にちを変えてもらって。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。前日の午後に間に合うかどうか、確認してみます。"
+     }
+    ],
+    "question": "何が問題になっていますか。"
+   },
+   "prompt": "何が問題になっていますか。",
+   "choices": [
+    "展示会の会場が変更になったこと",
+    "ブースの場所がまだ決まっていないこと",
+    "トラックの手配日が搬入日と合っていないこと",
+    "運送会社と連絡がとれないこと"
+   ],
+   "answer": 2,
+   "explanation": "Move-in is 「前日の午後」, but the truck was booked for 「当日の朝7時」, so the truck date does not match the move-in date. The venue has not changed, and the carrier has not yet been contacted, so there is no sign that they can't be reached."
+  },
+  {
+   "id": "A2-2-01",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "sales",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "経営企画部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社の説明会で、男の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "当社の売上高は、この5年間、毎年伸び続けています。"
+     },
+     {
+      "spk": "A",
+      "text": "ただ、売上高が初めて50億円を超えた年度は、原材料費の高騰の影響で、営業利益が前の年度を下回ってしまいました。"
+     },
+     {
+      "spk": "A",
+      "text": "その後、価格の見直しを行い、利益は再び増加に転じています。"
+     }
+    ],
+    "question": "男の人が説明している、利益が下がった年度の営業利益はいくらですか。"
+   },
+   "prompt": "利益が下がった年度の営業利益はいくらですか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "bar",
+     "title": "売上高と営業利益の推移",
+     "unit": "億円",
+     "labels": [
+      "2021年度",
+      "2022年度",
+      "2023年度",
+      "2024年度",
+      "2025年度"
+     ],
+     "series": [
+      {
+       "name": "売上高",
+       "values": [
+        38,
+        42,
+        47,
+        53,
+        58
+       ]
+      },
+      {
+       "name": "営業利益",
+       "values": [
+        3.1,
+        3.6,
+        4.0,
+        3.4,
+        4.5
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "4.0億円",
+    "3.4億円",
+    "4.5億円",
+    "3.1億円"
+   ],
+   "answer": 1,
+   "explanation": "Sales first exceeded 50億円 in 2024年度 (53億円), and that year operating profit fell from 4.0 to 3.4億円, matching 「営業利益が前の年度を下回ってしまいました」. 4.0億円 is the previous year's (2023年度) figure, the main trap."
+  },
+  {
+   "id": "A2-2-02",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "market-share",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "営業部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "営業会議で、女の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "これは業務用プリンターの国内市場シェアです。当社は現在、2番目の位置にいます。"
+     },
+     {
+      "spk": "A",
+      "text": "もちろんトップを目指したいのですが、まず注意すべきなのは、当社とのシェアの差がいちばん小さい会社です。"
+     },
+     {
+      "spk": "A",
+      "text": "来期は、この会社の動きを特に注視しながら営業戦略を立ててください。"
+     }
+    ],
+    "question": "女の人が特に注意すべきだと言っているのはどの会社ですか。"
+   },
+   "prompt": "特に注意すべきだと言っているのはどの会社ですか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "pie",
+     "title": "業務用プリンター国内市場シェア（2025年）",
+     "unit": "%",
+     "labels": [
+      "A社",
+      "当社",
+      "B社",
+      "C社",
+      "D社",
+      "その他"
+     ],
+     "series": [
+      {
+       "name": "シェア",
+       "values": [
+        31,
+        24,
+        18,
+        12,
+        9,
+        6
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "A社",
+    "C社",
+    "D社",
+    "B社"
+   ],
+   "answer": 3,
+   "explanation": "The company with 「当社とのシェアの差がいちばん小さい」 is B社: 24 − 18 = 6 points, while the leader A社 is 31 − 24 = 7 points ahead. A社 is the tempting distractor because she mentions aiming for the top, but its gap is larger."
+  },
+  {
+   "id": "A2-2-03",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "price-list",
+    "phone"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "顧客"
+     },
+     "B": {
+      "gender": "f",
+      "role": "販売会社社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "電話で、客と販売会社の社員が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "LX-300を40台注文しようと思っていたんですが、別の支店の分の20台もまとめて注文することにしました。"
+     },
+     {
+      "spk": "B",
+      "text": "ありがとうございます。保守契約はいかがなさいますか。"
+     },
+     {
+      "spk": "A",
+      "text": "保守は今回は結構です。本体だけでお願いします。"
+     }
+    ],
+    "question": "LX-300の1台あたりの価格はいくらになりますか。"
+   },
+   "prompt": "LX-300の1台あたりの価格はいくらになりますか。",
+   "material": {
+    "kind": "html",
+    "title": "新製品価格表（税抜）",
+    "html": "<table><thead><tr><th>型番</th><th>1〜49台</th><th>50〜99台</th><th>100台以上</th></tr></thead><tbody><tr><td>LX-200</td><td>48,000円</td><td>45,000円</td><td>42,000円</td></tr><tr><td>LX-300</td><td>62,000円</td><td>58,000円</td><td>55,000円</td></tr></tbody></table><p><small>※保守契約：1台につき年額3,000円（任意）</small></p>"
+   },
+   "choices": [
+    "58,000円",
+    "62,000円",
+    "55,000円",
+    "45,000円"
+   ],
+   "answer": 0,
+   "explanation": "40台 plus 「別の支店の分の20台」 makes 60 units, which falls in the 50〜99台 column: LX-300 = 58,000円. 62,000円 is the price for the original 40 units only, and maintenance (「保守は今回は結構です」) is not added."
+  },
+  {
+   "id": "A2-2-04",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "employee-survey",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "人事部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "人事部の会議で、女の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "今年の社員アンケートでは、ほとんどの項目で満足度が上がりました。特に研修制度は大きく改善しています。"
+     },
+     {
+      "spk": "A",
+      "text": "一方で、前の年より数字が下がってしまった項目が一つだけあります。"
+     },
+     {
+      "spk": "A",
+      "text": "来年度は、この項目に重点的に取り組みたいと考えています。"
+     }
+    ],
+    "question": "女の人が来年度、重点的に取り組むと言っているのはどの項目ですか。"
+   },
+   "prompt": "来年度、重点的に取り組むのはどの項目ですか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "bar",
+     "title": "社員アンケート「満足している」と答えた割合",
+     "unit": "%",
+     "labels": [
+      "評価制度",
+      "休暇の取りやすさ",
+      "在宅勤務制度",
+      "研修制度",
+      "福利厚生"
+     ],
+     "series": [
+      {
+       "name": "2024年",
+       "values": [
+        45,
+        62,
+        70,
+        38,
+        58
+       ]
+      },
+      {
+       "name": "2025年",
+       "values": [
+        42,
+        68,
+        75,
+        51,
+        60
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "研修制度",
+    "在宅勤務制度",
+    "評価制度",
+    "福利厚生"
+   ],
+   "answer": 2,
+   "explanation": "The item whose figure went down is 評価制度 (45% → 42%); every other item rose. 研修制度 is the trap: it is mentioned in the audio, but as the item that improved most (38% → 51%)."
+  },
+  {
+   "id": "A2-2-05",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "recruiting",
+    "job-ad"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "求職者"
+     },
+     "B": {
+      "gender": "m",
+      "role": "友人"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "女の人と男の人が求人広告を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "簿記の資格を持っているから、経理の仕事を生かしたかったんだけど、これ、最初は契約社員なんだね。"
+     },
+     {
+      "spk": "B",
+      "text": "正社員になれる可能性はあるみたいだけど。"
+     },
+     {
+      "spk": "A",
+      "text": "うーん、私は最初から正社員じゃないと困るの。それに、家庭の事情で大阪には行けないし、英語も得意じゃないから……やっぱりこれにする。"
+     }
+    ],
+    "question": "女の人が応募するのはどの職種ですか。"
+   },
+   "prompt": "女の人が応募するのはどの職種ですか。",
+   "material": {
+    "kind": "html",
+    "title": "スタッフ募集",
+    "html": "<h4>株式会社ミナト商事　スタッフ募集</h4><table><thead><tr><th>職種</th><th>勤務地</th><th>雇用形態</th><th>応募条件</th></tr></thead><tbody><tr><td>営業事務</td><td>東京本社</td><td>正社員</td><td>経験不問</td></tr><tr><td>法人営業</td><td>大阪支店</td><td>正社員</td><td>営業経験3年以上</td></tr><tr><td>経理</td><td>東京本社</td><td>契約社員（正社員登用あり）</td><td>日商簿記2級以上</td></tr><tr><td>翻訳・通訳</td><td>東京本社</td><td>パート（週3日〜）</td><td>TOEIC 850点以上</td></tr></tbody></table>"
+   },
+   "choices": [
+    "経理",
+    "営業事務",
+    "法人営業",
+    "翻訳・通訳"
+   ],
+   "answer": 1,
+   "explanation": "She needs 「最初から正社員」 (rules out 経理, which starts as 契約社員, and 翻訳・通訳, which is パート), cannot go to 大阪 (rules out 法人営業), and is not good at English. Only 営業事務 (東京本社, 正社員, 経験不問) fits. 経理 is the trap because it matches her bookkeeping qualification."
+  },
+  {
+   "id": "A2-2-06",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "logistics",
+    "cost",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "物流部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "物流部の会議で、男の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "来年度の運送会社を一社にまとめることにしました。"
+     },
+     {
+      "spk": "A",
+      "text": "当社の出荷はほとんどが関西と九州向けで、関東と北海道向けはごくわずかです。"
+     },
+     {
+      "spk": "A",
+      "text": "ですので、この二つの地域の運賃がどちらも最も安い会社と契約します。"
+     }
+    ],
+    "question": "どの運送会社と契約しますか。"
+   },
+   "prompt": "どの運送会社と契約しますか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "bar",
+     "title": "運送会社別 1ケースあたりの運賃",
+     "unit": "円",
+     "labels": [
+      "関東",
+      "関西",
+      "九州",
+      "北海道"
+     ],
+     "series": [
+      {
+       "name": "A社",
+       "values": [
+        520,
+        610,
+        780,
+        950
+       ]
+      },
+      {
+       "name": "B社",
+       "values": [
+        480,
+        650,
+        820,
+        900
+       ]
+      },
+      {
+       "name": "C社",
+       "values": [
+        550,
+        590,
+        740,
+        980
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "C社",
+    "A社",
+    "B社",
+    "地域ごとに別の会社"
+   ],
+   "answer": 0,
+   "explanation": "For 関西 and 九州, C社 is cheapest in both (590円 and 740円, vs A社 610/780 and B社 650/820). B社 is cheapest for 関東 and 北海道, but he says those regions are 「ごくわずか」. 「一社にまとめる」 rules out using different companies by region."
+  },
+  {
+   "id": "A2-2-07",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "meeting-room",
+    "booking"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、女の人と男の人が会議室の空き状況を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "木曜日のお客様との打ち合わせ、2時からの予定だったけど、先方の都合で3時からに変わったの。2時間ぐらいかかると思う。"
+     },
+     {
+      "spk": "B",
+      "text": "人数は10人でしたね。モニターのある部屋でいいですか。"
+     },
+     {
+      "spk": "A",
+      "text": "ううん、図面を大きく映したいから、プロジェクターは必要。それで予約しておいて。"
+     }
+    ],
+    "question": "男の人はどの会議室を予約しますか。"
+   },
+   "prompt": "男の人はどの会議室を予約しますか。",
+   "material": {
+    "kind": "html",
+    "title": "会議室空き状況（木曜日午後）",
+    "html": "<table><thead><tr><th>会議室</th><th>定員</th><th>設備</th><th>空いている時間</th></tr></thead><tbody><tr><td>A室</td><td>6名</td><td>モニター</td><td>13:00〜17:00</td></tr><tr><td>B室</td><td>12名</td><td>プロジェクター</td><td>15:00〜17:00</td></tr><tr><td>C室</td><td>20名</td><td>プロジェクター・マイク</td><td>13:00〜15:00</td></tr><tr><td>D室</td><td>10名</td><td>モニター</td><td>13:00〜17:00</td></tr></tbody></table>"
+   },
+   "choices": [
+    "A室",
+    "D室",
+    "C室",
+    "B室"
+   ],
+   "answer": 3,
+   "explanation": "The meeting is now 15:00–17:00 (「3時からに変わった」「2時間ぐらい」) for 10 people with a projector. B室 (12名, プロジェクター, free 15:00〜17:00) fits. C室 would have worked for the original 2 o'clock start but is only free until 15:00; D室 has only a monitor."
+  },
+  {
+   "id": "A2-2-08",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "customer-satisfaction",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "営業本部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "店長会議で、男の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "これは上半期の店舗別の顧客満足度スコアです。全体としては上向きです。"
+     },
+     {
+      "spk": "A",
+      "text": "ただ、2か月続けてスコアが下がった店があります。最近は回復していますが、原因と改善策を来週までに報告してください。"
+     }
+    ],
+    "question": "男の人が報告を求めているのはどの店ですか。"
+   },
+   "prompt": "報告を求められているのはどの店ですか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "line",
+     "title": "店舗別 顧客満足度スコア（100点満点）",
+     "unit": "点",
+     "labels": [
+      "4月",
+      "5月",
+      "6月",
+      "7月",
+      "8月",
+      "9月"
+     ],
+     "series": [
+      {
+       "name": "本店",
+       "values": [
+        78,
+        80,
+        79,
+        82,
+        83,
+        85
+       ]
+      },
+      {
+       "name": "駅前店",
+       "values": [
+        72,
+        74,
+        70,
+        68,
+        73,
+        76
+       ]
+      },
+      {
+       "name": "空港店",
+       "values": [
+        65,
+        69,
+        72,
+        74,
+        77,
+        80
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "本店",
+    "空港店",
+    "駅前店",
+    "すべての店"
+   ],
+   "answer": 2,
+   "explanation": "駅前店 fell two months in a row (74 → 70 → 68 in May–July) and then recovered (73, 76), matching 「2か月続けてスコアが下がった」「最近は回復」. 本店 dipped only once (80 → 79), and 空港店 rose every month."
+  },
+  {
+   "id": "A2-2-09",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "training",
+    "schedule",
+    "notice"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "福岡支店課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "部下"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "福岡支店で、男の人と女の人が研修の案内を見ながら話しています。今日は10月1日です。"
+     },
+     {
+      "spk": "A",
+      "text": "新任管理職研修、どれかに申し込まないといけないんだけど、東京まで行く時間はないから、オンラインで受けたいんだよね。"
+     },
+     {
+      "spk": "B",
+      "text": "それでしたら、オンラインに対応している回で、締め切りがまだ過ぎていないものですね。"
+     },
+     {
+      "spk": "A",
+      "text": "そうだね。あ、でも16日の週は決算の準備で手が離せないんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "では、こちらの回でお申し込みしておきます。"
+     }
+    ],
+    "question": "男の人はどの回の研修を受けますか。"
+   },
+   "prompt": "男の人はどの回の研修を受けますか。",
+   "material": {
+    "kind": "html",
+    "title": "新任管理職研修のご案内",
+    "html": "<table><thead><tr><th>回</th><th>日程</th><th>会場</th><th>オンライン参加</th><th>申込締切</th></tr></thead><tbody><tr><td>第1回</td><td>10月7日（火）</td><td>本社</td><td>不可</td><td>9月24日</td></tr><tr><td>第2回</td><td>10月16日（木）</td><td>大阪支店</td><td>可</td><td>10月2日</td></tr><tr><td>第3回</td><td>10月23日（木）</td><td>本社</td><td>可</td><td>10月9日</td></tr><tr><td>第4回</td><td>11月6日（木）</td><td>本社</td><td>不可</td><td>10月23日</td></tr></tbody></table>"
+   },
+   "choices": [
+    "10月23日の回",
+    "10月16日の回",
+    "11月6日の回",
+    "10月7日の回"
+   ],
+   "answer": 0,
+   "explanation": "He needs online participation (第2回 or 第3回; 第1回 and 第4回 are 「不可」) and the deadline must not have passed (today is 10月1日, so both are still open). He is busy 「16日の週」, which rules out 第2回 on 10月16日, leaving 第3回 on 10月23日."
+  },
+  {
+   "id": "A2-2-10",
+   "part": 2,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "exhibition",
+    "chart"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "マーケティング部長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会議で、女の人がグラフを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "今年の展示会で当社ブースに来られたお客様の業種別の内訳です。"
+     },
+     {
+      "spk": "A",
+      "text": "製造業のお客様は、すでに十分取り込めていると思います。"
+     },
+     {
+      "spk": "A",
+      "text": "来年は、その次に多かった業種のお客様に向けた展示を充実させたいと考えています。"
+     }
+    ],
+    "question": "来年、展示を充実させるのはどの業種向けですか。"
+   },
+   "prompt": "来年、展示を充実させるのはどの業種向けですか。",
+   "material": {
+    "kind": "chart",
+    "chart": {
+     "type": "pie",
+     "title": "当社ブース来場者の業種別内訳",
+     "unit": "%",
+     "labels": [
+      "製造業",
+      "小売業",
+      "IT・通信",
+      "物流業",
+      "その他"
+     ],
+     "series": [
+      {
+       "name": "来場者",
+       "values": [
+        38,
+        22,
+        17,
+        13,
+        10
+       ]
+      }
+     ]
+    }
+   },
+   "choices": [
+    "物流業",
+    "小売業",
+    "IT・通信",
+    "製造業"
+   ],
+   "answer": 1,
+   "explanation": "The industry 「その次に多かった」 after 製造業 (38%) is 小売業 (22%). 製造業 itself is excluded because it is already 「十分取り込めている」, and IT・通信 (17%) is third."
+  },
+  {
+   "id": "A2-3-01",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "quotation",
+    "phone",
+    "revision"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "顧客担当者"
+     },
+     "B": {
+      "gender": "m",
+      "role": "販売会社営業"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "電話で、会社の担当者と販売会社の営業担当者が見積書について話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "先日いただいた見積書の件で、いくつか変更をお願いしたいんですが。"
+     },
+     {
+      "spk": "B",
+      "text": "はい、どのような点でしょうか。"
+     },
+     {
+      "spk": "A",
+      "text": "モニターなんですが、5台は社内に余っているものを使うことになりました。"
+     },
+     {
+      "spk": "B",
+      "text": "承知しました。では、モニターは15台に変更いたします。"
+     },
+     {
+      "spk": "A",
+      "text": "それから、保守契約を1年ではなく3年にできますか。"
+     },
+     {
+      "spk": "B",
+      "text": "可能です。3年契約ですと、1台あたり2万円になります。"
+     },
+     {
+      "spk": "A",
+      "text": "わかりました。パソコンの台数と機種は、このままでお願いします。"
+     },
+     {
+      "spk": "B",
+      "text": "かしこまりました。なお、モニターの設置台数が減りますので、設定作業費も少しお値引きさせていただきます。"
+     },
+     {
+      "spk": "A",
+      "text": "ありがとうございます。助かります。"
+     }
+    ],
+    "question": "修正後の見積書で、変わらないのはどの項目ですか。"
+   },
+   "prompt": "修正後の見積書で、変わらないのはどの項目ですか。",
+   "material": {
+    "kind": "html",
+    "title": "御見積書",
+    "html": "<h4>御見積書</h4><p>株式会社サクラ物産 御中</p><table><thead><tr><th>No.</th><th>品目</th><th>数量</th><th>単価</th><th>金額</th></tr></thead><tbody><tr><td>1</td><td>ノートパソコン NB-15</td><td>20台</td><td>120,000円</td><td>2,400,000円</td></tr><tr><td>2</td><td>24型モニター</td><td>20台</td><td>25,000円</td><td>500,000円</td></tr><tr><td>3</td><td>設定作業</td><td>1式</td><td>150,000円</td><td>150,000円</td></tr><tr><td>4</td><td>保守契約（1年）</td><td>20台</td><td>8,000円</td><td>160,000円</td></tr><tr><td></td><td colspan=\"3\">小計</td><td>3,210,000円</td></tr><tr><td></td><td colspan=\"3\">消費税（10%）</td><td>321,000円</td></tr><tr><td></td><td colspan=\"3\"><b>合計</b></td><td><b>3,531,000円</b></td></tr></tbody></table>"
+   },
+   "choices": [
+    "24型モニター",
+    "保守契約",
+    "設定作業",
+    "ノートパソコン"
+   ],
+   "answer": 3,
+   "explanation": "Monitors change from 20 to 15台, maintenance changes to a 3-year contract at 2万円/台, and 設定作業 will be discounted (「設定作業費も少しお値引き」). Only the notebook PCs stay the same (「パソコンの台数と機種は、このままで」). 設定作業 is the main trap, since its change is mentioned only at the end."
+  },
+  {
+   "id": "A2-3-02",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "expenses",
+    "travel",
+    "calculation"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "主任"
+     },
+     "B": {
+      "gender": "f",
+      "role": "経理部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と経理部の女の人が出張旅費の規程を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "先週の大阪出張の精算をしたいんですが、2泊3日で行ってきました。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。木村さんは主任でしたね。管理職ではないので、一般社員の基準になります。"
+     },
+     {
+      "spk": "A",
+      "text": "1泊目のホテルが1万3千円だったんです。展示会と重なって、どこも高くて。"
+     },
+     {
+      "spk": "B",
+      "text": "そうですか。規程の上限を超えた分はお支払いできないんですが……。"
+     },
+     {
+      "spk": "A",
+      "text": "それで、2泊目は別のホテルに移ったんです。そちらは9千5百円でした。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、宿泊費はそれぞれ上限の範囲内で計算しますね。日当は3日分です。"
+     },
+     {
+      "spk": "A",
+      "text": "交通費は別に申請します。よろしくお願いします。"
+     }
+    ],
+    "question": "男の人が精算できる宿泊費と日当の合計はいくらですか。"
+   },
+   "prompt": "精算できる宿泊費と日当の合計はいくらですか。",
+   "material": {
+    "kind": "html",
+    "title": "出張旅費規程（抜粋）",
+    "html": "<table><thead><tr><th>区分</th><th>日当（1日）</th><th>宿泊費上限（1泊）</th><th>宿泊費上限（東京・大阪）</th></tr></thead><tbody><tr><td>一般社員</td><td>2,000円</td><td>10,000円</td><td>12,000円</td></tr><tr><td>管理職</td><td>3,000円</td><td>13,000円</td><td>15,000円</td></tr></tbody></table><ul><li>宿泊費は実費を支給する。ただし上限を超えた分は自己負担とする。</li><li>日帰り出張の日当は半額とする。</li><li>交通費は実費（新幹線は普通車指定席まで）。</li></ul>"
+   },
+   "choices": [
+    "27,500円",
+    "28,500円",
+    "30,000円",
+    "25,500円"
+   ],
+   "answer": 0,
+   "explanation": "As an 一般社員 in 大阪, his hotel cap is 12,000円/泊. Night 1: 13,000円 → capped at 12,000円; night 2: 9,500円 (actual cost, under the cap). 日当 2,000円 × 3日 = 6,000円. Total 12,000 + 9,500 + 6,000 = 27,500円. 28,500円 ignores the cap; 30,000円 wrongly pays the cap for both nights."
+  },
+  {
+   "id": "A2-3-03",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "exhibition",
+    "floor-plan"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と女の人が展示会の会場図を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "ブースの申し込み、どこにしようか。お客様に立ち寄ってもらいやすいように、入口に近い列がいいよね。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。ただ、「済」になっているところは、もう他社が決まっています。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか。それと、ステージの隣はやめておこう。去年、音がうるさくて商談にならなかったから。"
+     },
+     {
+      "spk": "B",
+      "text": "斜めの位置なら大丈夫でしょうか。"
+     },
+     {
+      "spk": "A",
+      "text": "うん、横か上下で接していなければいいよ。"
+     },
+     {
+      "spk": "B",
+      "text": "そうすると、残るのは角のブースですね。角は追加料金がかかりますが……。"
+     },
+     {
+      "spk": "A",
+      "text": "目立つし、それぐらいなら出そう。そこで申し込んでおいて。"
+     }
+    ],
+    "question": "女の人はどのブースを申し込みますか。"
+   },
+   "prompt": "女の人はどのブースを申し込みますか。",
+   "material": {
+    "kind": "html",
+    "title": "展示会場 ブース配置図",
+    "html": "<table><thead><tr><th></th><th>1</th><th>2</th><th>3</th><th>4</th></tr></thead><tbody><tr><th>A列</th><td>A-1（角）</td><td>A-2</td><td>A-3</td><td>A-4（角）済</td></tr><tr><th>B列</th><td>B-1（角）</td><td>ステージ</td><td>ステージ</td><td>B-4（角）</td></tr><tr><th>C列</th><td>C-1（角）済</td><td>C-2</td><td>C-3 済</td><td>C-4（角）</td></tr></tbody></table><p>▼ 入口（C列側）</p><p><small>※角ブースは追加料金 30,000円</small></p>"
+   },
+   "choices": [
+    "C-2",
+    "A-1",
+    "C-4",
+    "B-4"
+   ],
+   "answer": 2,
+   "explanation": "The entrance is on the C列 side, so they want row C. C-1 and C-3 are 「済」, and C-2 touches the stage directly above it, which he rules out (「横か上下で接していなければいい」). C-4 is diagonal to the stage, so it is acceptable, and it is a corner booth, matching 「残るのは角のブース」. B-4 is directly beside the stage; A-1 is far from the entrance."
+  },
+  {
+   "id": "A2-3-04",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "training",
+    "schedule",
+    "change"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "人事部社員"
+     },
+     "B": {
+      "gender": "f",
+      "role": "人事部主任"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "人事部で、男の人と女の人が研修のスケジュールを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "主任、横浜工場から連絡がありまして、13日の午後は設備の点検が入ったので、見学を午前にしてほしいそうです。"
+     },
+     {
+      "spk": "B",
+      "text": "そう。じゃあ、13日午前の座談会はどうしようか。"
+     },
+     {
+      "spk": "A",
+      "text": "先輩社員の方に確認したら、14日の午後なら大丈夫だそうです。"
+     },
+     {
+      "spk": "B",
+      "text": "じゃあ、座談会は14日の発表のあとにしましょう。見学は何時から？"
+     },
+     {
+      "spk": "A",
+      "text": "10時からです。最初は本社に集まってバスで行く案も考えたんですが……。"
+     },
+     {
+      "spk": "B",
+      "text": "それだと朝早くなりすぎるから、工場に直接集合してもらいましょう。15分前には着くように伝えて。"
+     },
+     {
+      "spk": "A",
+      "text": "わかりました。参加者に連絡しておきます。"
+     }
+    ],
+    "question": "参加者は13日、何時にどこへ行けばいいですか。"
+   },
+   "prompt": "参加者は13日、何時にどこへ行けばいいですか。",
+   "material": {
+    "kind": "html",
+    "title": "新入社員フォローアップ研修 日程表",
+    "html": "<table><thead><tr><th>日付</th><th>時間</th><th>内容</th><th>会場</th></tr></thead><tbody><tr><td>11月12日（水）</td><td>9:30〜12:00</td><td>ビジネスマナー復習</td><td>本社7階 研修室</td></tr><tr><td>11月12日（水）</td><td>13:00〜17:00</td><td>グループワーク</td><td>本社7階 研修室</td></tr><tr><td>11月13日（木）</td><td>10:00〜12:00</td><td>先輩社員との座談会</td><td>本社7階 研修室</td></tr><tr><td>11月13日（木）</td><td>13:30〜17:00</td><td>工場見学</td><td>横浜工場</td></tr><tr><td>11月14日（金）</td><td>9:30〜12:00</td><td>プレゼン発表</td><td>本社7階 研修室</td></tr></tbody></table>"
+   },
+   "choices": [
+    "10時に本社7階研修室",
+    "9時45分に横浜工場",
+    "13時15分に横浜工場",
+    "9時30分に本社7階研修室"
+   ],
+   "answer": 1,
+   "explanation": "The factory tour moves to the morning of the 13th starting at 10:00, and participants go 「工場に直接集合」 and arrive 「15分前」, i.e. 9:45 at 横浜工場. 「10時に本社7階研修室」 is the printed schedule for the 座談会, which has moved to the 14th. 13:15 at the factory would only fit the old afternoon slot."
+  },
+  {
+   "id": "A2-3-05",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "product-comparison",
+    "spec-table"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "総務課長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "総務部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "総務部で、女の人と男の人が複合機の比較表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "新しい複合機だけど、カラー印刷ができて、リース料は月2万円以内に抑えたいの。"
+     },
+     {
+      "spk": "B",
+      "text": "印刷速度はどのくらい必要でしょうか。今の機械は遅いという声が多いので、40枚以上あったほうが……。"
+     },
+     {
+      "spk": "A",
+      "text": "そうすると予算を超えちゃうわね。今の機械が20枚だから、30枚以上あれば十分だと思う。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。それから、契約書をまとめて両面でスキャンしたいという要望が法務から来ています。"
+     },
+     {
+      "spk": "A",
+      "text": "ああ、それは必要ね。保守は平日だけで構わないわ。"
+     },
+     {
+      "spk": "B",
+      "text": "では、条件に合う機種で手続きを進めます。"
+     }
+    ],
+    "question": "二人はどの機種を選びますか。"
+   },
+   "prompt": "二人はどの機種を選びますか。",
+   "material": {
+    "kind": "html",
+    "title": "複合機 リースプラン比較表",
+    "html": "<table><thead><tr><th>機種</th><th>印刷速度（枚/分）</th><th>カラー</th><th>両面スキャン</th><th>保守対応</th><th>月額リース料</th></tr></thead><tbody><tr><td>M-100</td><td>25</td><td>×（モノクロのみ）</td><td>○</td><td>平日のみ</td><td>8,000円</td></tr><tr><td>M-150</td><td>30</td><td>○</td><td>×</td><td>平日のみ</td><td>12,000円</td></tr><tr><td>M-200</td><td>35</td><td>○</td><td>○</td><td>平日のみ</td><td>15,000円</td></tr><tr><td>M-300</td><td>45</td><td>○</td><td>○</td><td>24時間</td><td>22,000円</td></tr></tbody></table>"
+   },
+   "choices": [
+    "M-100",
+    "M-150",
+    "M-300",
+    "M-200"
+   ],
+   "answer": 3,
+   "explanation": "Requirements: color, ≤ 20,000円/month, ≥ 30枚/分 (relaxed from 40 because 40+ 「予算を超えちゃう」), and 両面スキャン. M-300 is over budget (22,000円), M-150 lacks double-sided scanning, M-100 is monochrome. Only M-200 (35枚, カラー○, 両面○, 15,000円) meets all conditions."
+  },
+  {
+   "id": "A2-3-06",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "meeting",
+    "agenda",
+    "change"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "司会"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会議の前に、司会の女の人と男の人が会議次第を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "部長から連絡があって、急な来客で30分ほど遅れるそうなの。"
+     },
+     {
+      "spk": "B",
+      "text": "では、部長の議題はあとに回したほうがいいですね。"
+     },
+     {
+      "spk": "A",
+      "text": "ええ。それに佐藤さんも取引先から戻るのが10時半ごろになるって。"
+     },
+     {
+      "spk": "B",
+      "text": "そうすると、売上報告も最初のほうではできませんね。"
+     },
+     {
+      "spk": "A",
+      "text": "そうね。だから、議事録の確認が終わったら、山本さんの議題を先にやってもらいましょう。"
+     },
+     {
+      "spk": "B",
+      "text": "そのあと佐藤さんの報告、最後に部長の議題という順番ですね。"
+     },
+     {
+      "spk": "A",
+      "text": "ええ。山本さんには私から伝えておくわ。"
+     }
+    ],
+    "question": "議事録の確認の次に話し合うのはどの議題ですか。"
+   },
+   "prompt": "議事録の確認の次に話し合うのはどの議題ですか。",
+   "material": {
+    "kind": "html",
+    "title": "営業部定例会議 次第",
+    "html": "<p>日時：11月10日（月）10:00〜11:45　場所：第3会議室</p><table><thead><tr><th>No.</th><th>時間</th><th>議題</th><th>担当</th></tr></thead><tbody><tr><td>1</td><td>10:00〜10:15</td><td>前回議事録の確認</td><td>田中</td></tr><tr><td>2</td><td>10:15〜10:45</td><td>上期売上報告</td><td>佐藤</td></tr><tr><td>3</td><td>10:45〜11:15</td><td>新規顧客開拓の方針</td><td>部長</td></tr><tr><td>4</td><td>11:15〜11:30</td><td>年末年始の休業体制</td><td>山本（総務）</td></tr><tr><td>5</td><td>11:30〜11:45</td><td>その他</td><td>全員</td></tr></tbody></table>"
+   },
+   "choices": [
+    "上期売上報告",
+    "年末年始の休業体制",
+    "新規顧客開拓の方針",
+    "その他"
+   ],
+   "answer": 1,
+   "explanation": "They decide 「議事録の確認が終わったら、山本さんの議題を先に」. The agenda shows 山本's item is No.4 「年末年始の休業体制」. 上期売上報告 is next on the printed agenda but is postponed because 佐藤 returns around 10:30."
+  },
+  {
+   "id": "A2-3-07",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "logistics",
+    "cost",
+    "calculation"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "物流課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "物流部で、男の人と女の人が倉庫会社の料金表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "今の在庫量はパレット50枚分、出荷は月に1,000件ぐらいだよね。この条件だとX運輸が一番安いのかな。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。ただ、来年度からは在庫を大幅に減らす方針ですよね。"
+     },
+     {
+      "spk": "A",
+      "text": "そうなんだ。通販の部分を別会社に移すから、在庫はパレット20枚、出荷は月400件程度になる見込みなんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "その数字で計算し直すと、順位が変わりますね。基本料がかからないところが有利になります。"
+     },
+     {
+      "spk": "A",
+      "text": "本当だ。じゃあ、来年度の数字で一番安いところで検討を進めよう。"
+     }
+    ],
+    "question": "二人はどの会社で検討を進めますか。"
+   },
+   "prompt": "二人はどの会社で検討を進めますか。",
+   "material": {
+    "kind": "html",
+    "title": "倉庫・配送業者 料金比較",
+    "html": "<table><thead><tr><th>業者</th><th>月額基本料</th><th>保管料（1パレット/月）</th><th>出荷料（1件）</th></tr></thead><tbody><tr><td>X運輸</td><td>100,000円</td><td>3,000円</td><td>300円</td></tr><tr><td>Y物流</td><td>50,000円</td><td>4,000円</td><td>350円</td></tr><tr><td>Z倉庫</td><td>0円</td><td>5,000円</td><td>400円</td></tr></tbody></table>"
+   },
+   "choices": [
+    "Z倉庫",
+    "X運輸",
+    "Y物流",
+    "X運輸とY物流（同額）"
+   ],
+   "answer": 0,
+   "explanation": "With next year's figures (20 pallets, 400 shipments): X = 100,000 + 60,000 + 120,000 = 280,000円; Y = 50,000 + 80,000 + 140,000 = 270,000円; Z = 0 + 100,000 + 160,000 = 260,000円. Z倉庫 is cheapest (「基本料がかからないところが有利」). X運輸 is cheapest only under the current figures (550,000 vs 600,000 vs 650,000)."
+  },
+  {
+   "id": "A2-3-08",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "invoice",
+    "checking"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "経理部社員"
+     },
+     "B": {
+      "gender": "m",
+      "role": "総務部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、経理部の女の人と総務部の男の人が請求書を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "文具店からの請求書なんですが、注文の内容と合っているか確認していただけますか。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。コピー用紙は30箱で合っています。トナーは6本注文しましたが、1本不良品で返品したので、5本のはずです。"
+     },
+     {
+      "spk": "A",
+      "text": "単価はどうですか。"
+     },
+     {
+      "spk": "B",
+      "text": "トナーは1本1万2千円で合っています。ただ、ファイルは100冊以上で1冊120円という約束でした。"
+     },
+     {
+      "spk": "A",
+      "text": "送料は？　1万円以上は無料だと聞いていますが。"
+     },
+     {
+      "spk": "B",
+      "text": "今回は急ぎで翌日配送を頼んだので、送料はそのとおりで大丈夫です。"
+     },
+     {
+      "spk": "A",
+      "text": "わかりました。では、文具店に訂正をお願いします。"
+     }
+    ],
+    "question": "請求書で訂正が必要なのはどこですか。"
+   },
+   "prompt": "請求書で訂正が必要なのはどこですか。",
+   "material": {
+    "kind": "html",
+    "title": "請求書",
+    "html": "<h4>請求書</h4><p>株式会社ヒカリ工業 総務部 御中</p><table><thead><tr><th>品名</th><th>数量</th><th>単価</th><th>金額</th></tr></thead><tbody><tr><td>コピー用紙 A4（1箱）</td><td>30</td><td>2,800円</td><td>84,000円</td></tr><tr><td>トナーカートリッジ</td><td>6</td><td>12,000円</td><td>72,000円</td></tr><tr><td>クリアファイル</td><td>100</td><td>150円</td><td>15,000円</td></tr><tr><td>送料（翌日配送）</td><td>1</td><td>1,500円</td><td>1,500円</td></tr><tr><td colspan=\"3\">小計</td><td>172,500円</td></tr><tr><td colspan=\"3\">消費税（10%）</td><td>17,250円</td></tr><tr><td colspan=\"3\"><b>ご請求金額</b></td><td><b>189,750円</b></td></tr></tbody></table>"
+   },
+   "choices": [
+    "コピー用紙の数量とトナーの単価",
+    "ファイルの数量と送料",
+    "トナーの数量とファイルの単価",
+    "トナーの単価と送料"
+   ],
+   "answer": 2,
+   "explanation": "The toner quantity should be 5, not 6 (「1本不良品で返品したので、5本のはず」), and the file unit price should be 120円, not 150円 (「1冊120円という約束」). The toner unit price (「1万2千円で合っています」) and shipping (「そのとおりで大丈夫」) are correct, which eliminates the other choices."
+  },
+  {
+   "id": "A2-3-09",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "sales",
+    "branch",
+    "table"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "営業本部長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "営業企画課員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と女の人が支店別の売上実績表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "上期の社長賞、どの支店にしようか。"
+     },
+     {
+      "spk": "B",
+      "text": "前年からの伸びでいえば、仙台支店がいちばん大きいですね。"
+     },
+     {
+      "spk": "A",
+      "text": "確かに伸びてはいるけど、目標に届いていないからね。賞を出すなら、目標を達成していることが前提だよ。"
+     },
+     {
+      "spk": "B",
+      "text": "では、札幌支店でしょうか。達成率は最も高いですが。"
+     },
+     {
+      "spk": "A",
+      "text": "札幌は前年を下回っているだろう。目標を達成して、なおかつ前年より売上を伸ばしたところにしよう。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、その支店で準備を進めます。"
+     }
+    ],
+    "question": "社長賞を受けるのはどの支店ですか。"
+   },
+   "prompt": "社長賞を受けるのはどの支店ですか。",
+   "material": {
+    "kind": "html",
+    "title": "上期 支店別売上実績（単位：百万円）",
+    "html": "<table><thead><tr><th>支店</th><th>目標</th><th>実績</th><th>達成率</th><th>前年同期比</th></tr></thead><tbody><tr><td>札幌</td><td>120</td><td>126</td><td>105%</td><td>98%</td></tr><tr><td>仙台</td><td>90</td><td>81</td><td>90%</td><td>112%</td></tr><tr><td>名古屋</td><td>150</td><td>153</td><td>102%</td><td>104%</td></tr><tr><td>福岡</td><td>110</td><td>99</td><td>90%</td><td>95%</td></tr></tbody></table>"
+   },
+   "choices": [
+    "札幌支店",
+    "仙台支店",
+    "福岡支店",
+    "名古屋支店"
+   ],
+   "answer": 3,
+   "explanation": "The criteria are 「目標を達成して、なおかつ前年より売上を伸ばした」: 達成率 ≥ 100% and 前年同期比 > 100%. Only 名古屋 (102%, 104%) qualifies. 札幌 has the highest achievement rate but 98% year-on-year; 仙台 grew most (112%) but missed its target (90%)."
+  },
+  {
+   "id": "A2-3-10",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "email",
+    "scheduling"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "部下"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、女の人と男の人が取引先からのメールを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "林産業さんから打ち合わせの候補日が来たわね。18日は大阪出張から戻るのが午後になるから無理だわ。"
+     },
+     {
+      "spk": "B",
+      "text": "19日はいかがですか。"
+     },
+     {
+      "spk": "A",
+      "text": "19日は3時から4時まで社内会議があるの。抜けられない会議だから。"
+     },
+     {
+      "spk": "B",
+      "text": "私は20日が一日中外部研修なんです。課長お一人で行っていただくことは……。"
+     },
+     {
+      "spk": "A",
+      "text": "資料の説明はあなたの担当だから、一緒に行ってもらわないと。研修はずらせないの？"
+     },
+     {
+      "spk": "B",
+      "text": "研修は申し込み済みで変更できないんです。21日は有給休暇を取る予定でしたが、それは別の日にできます。"
+     },
+     {
+      "spk": "A",
+      "text": "じゃあ、悪いけどそうしてくれる？　先方にはその日でお返事しておいて。"
+     }
+    ],
+    "question": "男の人はどの日時で返事をしますか。"
+   },
+   "prompt": "男の人はどの日時で返事をしますか。",
+   "material": {
+    "kind": "html",
+    "title": "受信メール",
+    "html": "<div><b>件名：</b>次回お打ち合わせ日程のご相談<br><b>差出人：</b>林産業株式会社　営業部　岡本</div><div><p>いつもお世話になっております。林産業の岡本でございます。</p><p>次回のお打ち合わせにつきまして、下記の日程でご都合はいかがでしょうか。</p><ol><li>11月18日（火）10:00〜11:30</li><li>11月19日（水）15:00〜16:30</li><li>11月20日（木）13:00〜14:30</li><li>11月21日（金）10:00〜11:30</li></ol><p>ご多忙のところ恐縮ですが、ご都合のよい日時をお知らせいただけますと幸いです。</p></div>"
+   },
+   "choices": [
+    "11月21日（金）10時",
+    "11月18日（火）10時",
+    "11月19日（水）15時",
+    "11月20日（木）13時"
+   ],
+   "answer": 0,
+   "explanation": "18日 is out (the manager returns 「午後」), 19日 15:00 clashes with her 3–4 p.m. meeting, and 20日 is his all-day training, which cannot be moved. He will move his day off on 21日 (「別の日にできます」), so they reply with 11月21日 10:00. 19日 is the closest trap because 15:00 sounds acceptable unless you match it to her 「3時から4時」 meeting."
+  }
+ ]
+}

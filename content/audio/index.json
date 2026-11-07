@@ -1,0 +1,4972 @@
+{
+"A1-1-01": {
+"hash": "9bb647bd2775",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-1-02": {
+"hash": "19d473ec48ca",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-1-03": {
+"hash": "596a18df49bc",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-1-04": {
+"hash": "5cf6d15b7a23",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-1-05": {
+"hash": "5dbcfd9f7ef5",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-01": {
+"hash": "f19958cb376e",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "06.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "07.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-02": {
+"hash": "0ae53b453f08",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-03": {
+"hash": "31090454025b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-04": {
+"hash": "c8a53dd04a36",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-05": {
+"hash": "df03269b7361",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "06.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "07.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-06": {
+"hash": "00cdf2641fe4",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-07": {
+"hash": "c7de0b8b31c2",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-08": {
+"hash": "5fa91b4cfb69",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-09": {
+"hash": "7f373cbdd6f0",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-2-10": {
+"hash": "7939b9c62761",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-01": {
+"hash": "3cd9029d096d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "line",
+"i": 10
+},
+{
+"f": "11.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "15.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-02": {
+"hash": "568e85fb511c",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-03": {
+"hash": "1508f823da23",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-04": {
+"hash": "2fc5aeac112b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "line",
+"i": 10
+},
+{
+"f": "11.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "15.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-05": {
+"hash": "08321b60ab20",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-06": {
+"hash": "e1c265202cef",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "line",
+"i": 10
+},
+{
+"f": "11.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "15.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-07": {
+"hash": "4dbd8a6ffc56",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-08": {
+"hash": "1db395892114",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-09": {
+"hash": "db34a229698f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "line",
+"i": 10
+},
+{
+"f": "11.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "15.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A1-3-10": {
+"hash": "4a8455b2d097",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"A2-1-01": {
+"hash": "4413aafe8053",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-1-02": {
+"hash": "00af458d51a3",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-1-03": {
+"hash": "e8de08f2542a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-1-04": {
+"hash": "93d38da06b9a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-1-05": {
+"hash": "322731dbe8d7",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-01": {
+"hash": "5ccda6455bdc",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-02": {
+"hash": "65913a382023",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-03": {
+"hash": "dfb6a5ff4c1f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-04": {
+"hash": "2ad733fa10da",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-05": {
+"hash": "9a0dbb1192d5",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-06": {
+"hash": "d99ee838c98b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-07": {
+"hash": "a2ae2a53dc1f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-08": {
+"hash": "76736bcb552f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-09": {
+"hash": "0aea420396be",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-2-10": {
+"hash": "375d9e4d265f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-01": {
+"hash": "b1460529539a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-02": {
+"hash": "9c1162abf58d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-03": {
+"hash": "e5221ca41b3b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-04": {
+"hash": "853737fd16ec",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-05": {
+"hash": "c7df57be5638",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-06": {
+"hash": "34f297aa5f9f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-07": {
+"hash": "38af453a7b73",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-08": {
+"hash": "78c5c60cd035",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-09": {
+"hash": "3ebe73c940a8",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-10": {
+"hash": "624e78b7c067",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B1-1-01": {
+"hash": "2951691476ce",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-1-02": {
+"hash": "040c30add625",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-1-03": {
+"hash": "a275c9853b6d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-1-04": {
+"hash": "48727e2f4ed5",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-1-05": {
+"hash": "14323195a890",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-01": {
+"hash": "975951fa78a8",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-02": {
+"hash": "616fc1e8bf61",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-03": {
+"hash": "32b89cf437fd",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-04": {
+"hash": "6fdf226b0dfe",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-05": {
+"hash": "a997ad583f18",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-06": {
+"hash": "037dc9f02486",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-07": {
+"hash": "faf96fb54aa1",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-08": {
+"hash": "fef22304a79f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-09": {
+"hash": "0094f2a16d15",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-2-10": {
+"hash": "39797cc7d026",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "02.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "03.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "04.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "05.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-01": {
+"hash": "ae4e5c614d4c",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-02": {
+"hash": "67b4a415c4b3",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-03": {
+"hash": "f3e1887020af",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-04": {
+"hash": "443572d3d1ed",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "09.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-05": {
+"hash": "83ed28ea53e7",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-06": {
+"hash": "0246425f13bf",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-07": {
+"hash": "7e1501f3de74",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-08": {
+"hash": "9c9e4e1e5fca",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "09.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-09": {
+"hash": "86a70bbb7cbf",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "10.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B1-3-10": {
+"hash": "dfec66a19652",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+},
+{
+"f": "11.mp3",
+"kind": "choice",
+"i": 0
+},
+{
+"f": "12.mp3",
+"kind": "choice",
+"i": 1
+},
+{
+"f": "13.mp3",
+"kind": "choice",
+"i": 2
+},
+{
+"f": "14.mp3",
+"kind": "choice",
+"i": 3
+}
+]
+},
+"B2-1-01": {
+"hash": "370a8109956a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-1-02": {
+"hash": "131eaee6a77d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-1-03": {
+"hash": "74543b7f9993",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-1-04": {
+"hash": "1b2c7d6c5c5c",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-1-05": {
+"hash": "9366d2575835",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-01": {
+"hash": "b76ea34de116",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-02": {
+"hash": "8d7df796f10f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-03": {
+"hash": "7dfeb2a93460",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-04": {
+"hash": "925c39a00a8d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-05": {
+"hash": "08b78afe53fa",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-06": {
+"hash": "2ab91a52be0a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-07": {
+"hash": "3b0e7c35feb3",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-08": {
+"hash": "84fc10a20b4d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-2-09": {
+"hash": "10ccf3ee644a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+}
+]
+},
+"B2-2-10": {
+"hash": "d67a7edd7cbb",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-01": {
+"hash": "439718316c92",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-02": {
+"hash": "4a822cf5aa9f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "line",
+"i": 9
+},
+{
+"f": "10.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-03": {
+"hash": "34a5d9ec7a89",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-04": {
+"hash": "774752c4eae8",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-05": {
+"hash": "72d26c7fc128",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-06": {
+"hash": "30aecf836f76",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-07": {
+"hash": "f8e5c52cae2b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-08": {
+"hash": "768aa76e860b",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-09": {
+"hash": "a5d20a899827",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-10": {
+"hash": "5cb9330abbf1",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "line",
+"i": 8
+},
+{
+"f": "09.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-11": {
+"hash": "8eacfa337842",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-12": {
+"hash": "08fd6790e364",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-13": {
+"hash": "dcc62d982d0a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-14": {
+"hash": "e6228fab825d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"A2-3-15": {
+"hash": "b136aa8528a0",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-11": {
+"hash": "0a7d6d9e6b83",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-12": {
+"hash": "5bffebce6a0a",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-13": {
+"hash": "30acddf0ee3f",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-14": {
+"hash": "2e1cdafaca4d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "line",
+"i": 7
+},
+{
+"f": "08.mp3",
+"kind": "question",
+"i": 0
+}
+]
+},
+"B2-3-15": {
+"hash": "98cd2b55bb9d",
+"clips": [
+{
+"f": "00.mp3",
+"kind": "line",
+"i": 0
+},
+{
+"f": "01.mp3",
+"kind": "line",
+"i": 1
+},
+{
+"f": "02.mp3",
+"kind": "line",
+"i": 2
+},
+{
+"f": "03.mp3",
+"kind": "line",
+"i": 3
+},
+{
+"f": "04.mp3",
+"kind": "line",
+"i": 4
+},
+{
+"f": "05.mp3",
+"kind": "line",
+"i": 5
+},
+{
+"f": "06.mp3",
+"kind": "line",
+"i": 6
+},
+{
+"f": "07.mp3",
+"kind": "question",
+"i": 0
+}
+]
+}
+}

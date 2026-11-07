@@ -1,0 +1,729 @@
+{
+ "id": "drill-2-3-extra",
+ "title": "Drill – 総合聴読解 extra",
+ "questions": [
+  {
+   "id": "A2-3-11",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "customer-satisfaction",
+    "table"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "品質管理部長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会議で、男の人と女の人が顧客満足度調査の結果を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "今期、改善に取り組む項目を一つ決めたいんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "納期は業界平均より低いですね。"
+     },
+     {
+      "spk": "A",
+      "text": "でも、前回よりはかなり良くなっているよね。今回は、業界平均を下回っていて、しかも前回より下がった項目を優先しよう。"
+     },
+     {
+      "spk": "B",
+      "text": "そうしますと、二つ当てはまります。"
+     },
+     {
+      "spk": "A",
+      "text": "価格のほうは原材料の問題もあって、すぐにはどうにもならないからなあ。もう一つのほうにしよう。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、その項目の改善計画を作ります。"
+     }
+    ],
+    "question": "改善に取り組むのはどの項目ですか。"
+   },
+   "prompt": "改善に取り組むのはどの項目ですか。",
+   "material": {
+    "kind": "html",
+    "title": "顧客満足度調査 結果（5点満点）",
+    "html": "<table><thead><tr><th>項目</th><th>今回</th><th>前回</th><th>業界平均</th></tr></thead><tbody><tr><td>製品品質</td><td>4.3</td><td>4.2</td><td>4.0</td></tr><tr><td>価格</td><td>3.4</td><td>3.6</td><td>3.5</td></tr><tr><td>納期</td><td>3.8</td><td>3.5</td><td>3.9</td></tr><tr><td>サポート対応</td><td>3.6</td><td>3.9</td><td>3.7</td></tr><tr><td>営業担当の対応</td><td>4.1</td><td>4.0</td><td>3.8</td></tr></tbody></table>"
+   },
+   "choices": [
+    "価格",
+    "サポート対応",
+    "納期",
+    "製品品質"
+   ],
+   "answer": 1,
+   "explanation": "Items below the industry average AND lower than last time: 価格 (3.4 < 3.5; 3.6 → 3.4) and サポート対応 (3.6 < 3.7; 3.9 → 3.6). 価格 is set aside (「すぐにはどうにもならない」), so they choose サポート対応. 納期 is below average but improved (3.5 → 3.8)."
+  },
+  {
+   "id": "A2-3-12",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "meeting-room",
+    "booking",
+    "change"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と女の人が会議室の予約状況を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "来週の社内勉強会、参加者は14人だったよね。火曜か木曜の午後で取れるかな。"
+     },
+     {
+      "spk": "B",
+      "text": "はい、14人なら中会議室で大丈夫です。……あ、課長、さっき営業二課からも参加したいという連絡があって、18人になりました。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか。じゃあ中会議室では入りきらないね。"
+     },
+     {
+      "spk": "B",
+      "text": "大会議室ですと、火曜と木曜の午後はもう埋まっています。"
+     },
+     {
+      "spk": "A",
+      "text": "仕方ない、曜日は変えよう。ただ、金曜は部長が出張で、最初のあいさつをお願いできないんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "では、空いているもう一つの日で予約します。"
+     }
+    ],
+    "question": "女の人はいつ、どの会議室を予約しますか。"
+   },
+   "prompt": "女の人はいつ、どの会議室を予約しますか。",
+   "material": {
+    "kind": "html",
+    "title": "会議室予約状況（11月10日〜14日・午後）",
+    "html": "<table><thead><tr><th>会議室（定員）</th><th>月</th><th>火</th><th>水</th><th>木</th><th>金</th></tr></thead><tbody><tr><td>大会議室（30名）</td><td>×</td><td>×</td><td>○</td><td>×</td><td>○</td></tr><tr><td>中会議室A（15名）</td><td>○</td><td>×</td><td>×</td><td>○</td><td>○</td></tr><tr><td>中会議室B（15名）</td><td>×</td><td>○</td><td>○</td><td>×</td><td>×</td></tr><tr><td>小会議室（6名）</td><td>○</td><td>○</td><td>○</td><td>○</td><td>○</td></tr></tbody></table><p><small>○：空きあり　×：予約済み</small></p>"
+   },
+   "choices": [
+    "木曜午後の中会議室A",
+    "火曜午後の中会議室B",
+    "水曜午後の大会議室",
+    "金曜午後の大会議室"
+   ],
+   "answer": 2,
+   "explanation": "With 18 participants, only the 大会議室 (30名) is large enough. It is free only on 水 and 金 afternoons, and 金 is excluded because the 部長 is away (「金曜は部長が出張」). So she books 水曜午後の大会議室. The 中会議室 options fit the original 14 people and the original Tuesday/Thursday plan, but not 18."
+  },
+  {
+   "id": "A2-3-13",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "price-list",
+    "calculation",
+    "cloud-service"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "情報システム課長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、女の人と男の人がクラウドサービスの料金表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "利用者は25人ね。トラブルのときに電話で相談できるサポートは欲しいわ。"
+     },
+     {
+      "spk": "B",
+      "text": "24時間の電話サポートがあるビジネスプランにしますか。"
+     },
+     {
+      "spk": "A",
+      "text": "うちは夜や休日には使わないから、営業時間内の電話対応で十分よ。"
+     },
+     {
+      "spk": "B",
+      "text": "容量は、今使っているのが30ギガぐらいなので、100ギガあれば足ります。"
+     },
+     {
+      "spk": "A",
+      "text": "そうね。それから、月ごとじゃなくて年間契約にしましょう。割引があるみたいだから。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、その条件で月額を計算してみます。"
+     }
+    ],
+    "question": "1か月あたりの料金はいくらになりますか。"
+   },
+   "prompt": "1か月あたりの料金はいくらになりますか。",
+   "material": {
+    "kind": "html",
+    "title": "法人向けクラウドストレージ 料金プラン",
+    "html": "<table><thead><tr><th>プラン</th><th>月額（1ユーザー）</th><th>最低ユーザー数</th><th>容量</th><th>サポート</th></tr></thead><tbody><tr><td>ライト</td><td>800円</td><td>5人</td><td>10GB</td><td>メールのみ</td></tr><tr><td>スタンダード</td><td>1,500円</td><td>10人</td><td>100GB</td><td>メール・電話（平日9時〜18時）</td></tr><tr><td>ビジネス</td><td>2,500円</td><td>10人</td><td>1TB</td><td>メール・電話（24時間）</td></tr><tr><td>エンタープライズ</td><td>要相談</td><td>100人</td><td>無制限</td><td>専任担当者</td></tr></tbody></table><p><small>※年間契約の場合、月額料金から15%割引いたします。</small></p>"
+   },
+   "choices": [
+    "37,500円",
+    "53,125円",
+    "62,500円",
+    "31,875円"
+   ],
+   "answer": 3,
+   "explanation": "Phone support during business hours and 100GB point to スタンダード (1,500円/人). 25人 × 1,500円 = 37,500円, minus the 15% annual-contract discount (「年間契約にしましょう」) = 31,875円. 37,500円 forgets the discount; 53,125円 is the discounted ビジネス price, which she rejects."
+  },
+  {
+   "id": "A2-3-14",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "schedule",
+    "production",
+    "deadline"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "企画部課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "企画部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "企画部で、男の人と女の人がパンフレット制作のスケジュール表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "新製品の価格がまだ決まらなくて、原稿の確定が1週間遅れそうなんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "そうすると、全部1週間ずつずらすことになりますね。"
+     },
+     {
+      "spk": "A",
+      "text": "いや、納品日は動かせないよ。18日からの展示会で配るんだから。"
+     },
+     {
+      "spk": "B",
+      "text": "そうでした。印刷会社に確認したら、入稿から納品まで10日あれば間に合うそうです。"
+     },
+     {
+      "spk": "A",
+      "text": "じゃあ、デザイン案と校正は1週間ずつ遅らせて、入稿は納品のちょうど10日前にしよう。校正が終わってすぐだけど、何とかなるだろう。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。制作会社にもそう伝えます。"
+     }
+    ],
+    "question": "変更後の印刷入稿日はいつですか。"
+   },
+   "prompt": "変更後の印刷入稿日はいつですか。",
+   "material": {
+    "kind": "html",
+    "title": "新製品パンフレット 制作スケジュール",
+    "html": "<table><thead><tr><th>工程</th><th>期限</th><th>担当</th></tr></thead><tbody><tr><td>原稿確定</td><td>10月10日</td><td>企画部</td></tr><tr><td>デザイン案提出</td><td>10月17日</td><td>制作会社</td></tr><tr><td>校正</td><td>10月24日</td><td>企画部</td></tr><tr><td>印刷入稿</td><td>10月31日</td><td>制作会社</td></tr><tr><td>納品</td><td>11月14日</td><td>印刷会社</td></tr></tbody></table><p><small>※展示会：11月18日〜20日</small></p>"
+   },
+   "choices": [
+    "11月4日",
+    "10月31日",
+    "11月7日",
+    "11月14日"
+   ],
+   "answer": 0,
+   "explanation": "納品 stays at 11月14日 (「納品日は動かせない」), and submission is set 「納品のちょうど10日前」: 11月14日 − 10日 = 11月4日. This comes right after 校正, which moves from 10月24日 to 10月31日. 11月7日 would be the result of simply shifting everything by a week, which he rejects; 10月31日 is the original date."
+  },
+  {
+   "id": "A2-3-15",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "recruiting",
+    "candidate-list"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "営業部長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "人事部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社で、男の人と人事部の女の人が応募者の一覧表を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "二次面接に呼ぶ人を決めたいんだけど、条件は東京勤務ができること、営業経験4年以上、TOEIC850点以上だったね。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。ただ、その条件ですと、該当する方がいらっしゃらないんです。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか……。じゃあ、英語は800点以上あれば十分だということにしよう。入社後に伸ばしてもらえばいい。"
+     },
+     {
+      "spk": "B",
+      "text": "承知しました。それから、二次面接は役員の予定の関係で、22日までに行う必要があります。"
+     },
+     {
+      "spk": "A",
+      "text": "うん、それも条件に入れて。全部満たしている人に連絡してください。"
+     }
+    ],
+    "question": "二次面接に呼ばれるのは誰ですか。"
+   },
+   "prompt": "二次面接に呼ばれるのは誰ですか。",
+   "material": {
+    "kind": "html",
+    "title": "中途採用（営業職）応募者一覧",
+    "html": "<table><thead><tr><th>氏名</th><th>営業経験</th><th>TOEIC</th><th>希望勤務地</th><th>面接可能日</th></tr></thead><tbody><tr><td>青木</td><td>6年</td><td>780点</td><td>東京</td><td>11月20日</td></tr><tr><td>石田</td><td>4年</td><td>860点</td><td>大阪のみ</td><td>11月21日</td></tr><tr><td>上野</td><td>3年</td><td>900点</td><td>東京</td><td>11月25日</td></tr><tr><td>江藤</td><td>5年</td><td>820点</td><td>東京・大阪</td><td>11月21日</td></tr></tbody></table>"
+   },
+   "choices": [
+    "青木さん",
+    "江藤さん",
+    "上野さん",
+    "石田さん"
+   ],
+   "answer": 1,
+   "explanation": "After TOEIC is relaxed to 800, the conditions are: Tokyo OK, 営業経験 ≥ 4年, TOEIC ≥ 800, interview by 22日. 江藤 (5年, 820点, 東京・大阪, 11月21日) meets all of them. 青木 has only 780点, 石田 wants 「大阪のみ」, and 上野 has 3年 of experience and is available only on 25日."
+  },
+  {
+   "id": "B2-3-11",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "cafeteria",
+    "proposal-comparison"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "総務課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "総務部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "総務課長と女の社員が、社員食堂の改定案を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "アンケートの結果はどうだった?"
+     },
+     {
+      "spk": "B",
+      "text": "値上げには反対の声が多かったです。特に50円以上の値上げは困るという意見が目立ちました。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか。じゃあ価格が変わらないC案がいいかな。"
+     },
+     {
+      "spk": "B",
+      "text": "ただ、C案は営業時間が短くなります。工場の交代勤務の人は13時過ぎにお昼をとることが多いので、今より短くなるのは避けたほうがいいと思います。"
+     },
+     {
+      "spk": "A",
+      "text": "なるほど。それに、会社の追加負担は年間200万円までと言われているんだ。"
+     },
+     {
+      "spk": "B",
+      "text": "そうしますと、条件に合う案は一つになりますね。"
+     }
+    ],
+    "question": "選ばれそうなのはどれですか。"
+   },
+   "prompt": "選ばれそうなのはどれですか。",
+   "material": {
+    "kind": "html",
+    "title": "社員食堂 メニュー改定案",
+    "html": "<table><thead><tr><th></th><th>現行</th><th>A案</th><th>B案</th><th>C案</th></tr></thead><tbody><tr><td>定食価格</td><td>450円</td><td>500円</td><td>480円</td><td>450円</td></tr><tr><td>サラダバー</td><td>なし</td><td>あり</td><td>なし</td><td>あり</td></tr><tr><td>営業時間</td><td>11:30〜13:30</td><td>11:30〜13:30</td><td>11:00〜14:00</td><td>11:30〜13:00</td></tr><tr><td>会社の追加負担(年間)</td><td>―</td><td>120万円</td><td>180万円</td><td>300万円</td></tr></tbody></table>"
+   },
+   "choices": [
+    "A案",
+    "B案",
+    "現行のまま",
+    "C案"
+   ],
+   "answer": 1,
+   "explanation": "C案 is ruled out because it shortens hours to 13:00 and also exceeds the 200万円 cap (300万円). A案 raises the price by 50円, which falls under 「50円以上の値上げは困る」. B案 (+30円, longer hours 11:00–14:00, 180万円) satisfies every condition. Keeping the current system is not one of the proposals being compared."
+  },
+  {
+   "id": "B2-3-12",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "expenses",
+    "budget",
+    "table"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "営業部長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "営業部社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "営業部長と女の社員が、上半期の経費の実績を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "下半期は、予算を超えた費目を中心に削っていきたい。"
+     },
+     {
+      "spk": "B",
+      "text": "超えているのは、交通費、広告宣伝費、消耗品費の三つですね。"
+     },
+     {
+      "spk": "A",
+      "text": "うん。ただ広告宣伝費は、新製品のキャンペーンで本社から追加の承認をもらっているから、今回は対象外でいい。"
+     },
+     {
+      "spk": "B",
+      "text": "消耗品費はどうしましょうか。予算を一番大きく超えていますが。"
+     },
+     {
+      "spk": "A",
+      "text": "それはオフィス移転に伴う一時的な出費だから、下半期には自然に落ち着くはずだ。"
+     },
+     {
+      "spk": "B",
+      "text": "わかりました。では、残った費目について、部内に削減のお願いを出します。"
+     }
+    ],
+    "question": "下半期に重点的に削減するのはどの費目ですか。"
+   },
+   "prompt": "下半期に重点的に削減するのはどの費目ですか。",
+   "material": {
+    "kind": "html",
+    "title": "営業部 上半期 経費実績(単位:万円)",
+    "html": "<table><thead><tr><th>費目</th><th>予算</th><th>実績</th><th>予算比</th></tr></thead><tbody><tr><td>交通費</td><td>300</td><td>340</td><td>113%</td></tr><tr><td>交際費</td><td>200</td><td>180</td><td>90%</td></tr><tr><td>広告宣伝費</td><td>500</td><td>560</td><td>112%</td></tr><tr><td>通信費</td><td>80</td><td>78</td><td>98%</td></tr><tr><td>消耗品費</td><td>60</td><td>75</td><td>125%</td></tr></tbody></table>"
+   },
+   "choices": [
+    "広告宣伝費",
+    "消耗品費",
+    "交際費",
+    "交通費"
+   ],
+   "answer": 3,
+   "explanation": "Three items exceeded budget: 交通費 (113%), 広告宣伝費 (112%), 消耗品費 (125%). 広告宣伝費 is excluded because head office approved extra spending, and 消耗品費 — the largest overrun by ratio — is a one-off moving cost (「一時的な出費」). The remaining item is 交通費. 交際費 is under budget."
+  },
+  {
+   "id": "B2-3-13",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "advertising",
+    "email",
+    "response-rate"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "販売促進部長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "販売促進部の部長と男の社員が、広告代理店からのメールを見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "予算は100万円まで。その中で、反応1件あたりの費用が一番安くなるものを選びたいわね。"
+     },
+     {
+      "spk": "B",
+      "text": "1件あたりで見ると、プラン3が一番効率がいいんですが、予算をオーバーしています。"
+     },
+     {
+      "spk": "A",
+      "text": "本社に相談すれば、予算は150万円まで上げられるかもしれない。"
+     },
+     {
+      "spk": "B",
+      "text": "ただ、プラン3は開始が12月になると書いてあります。今回のキャンペーンは11月20日からですよね。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか、それじゃ間に合わないわね。じゃあ、予算内で考えましょう。"
+     }
+    ],
+    "question": "どのプランを選びますか。"
+   },
+   "prompt": "どのプランを選びますか。",
+   "material": {
+    "kind": "html",
+    "title": "受信メール",
+    "html": "<p><b>件名:</b>新商品キャンペーン 出稿プランのご提案<br><b>差出人:</b>株式会社アドリンク 営業部 小池</p><p>いつもお世話になっております。ご依頼いただいた出稿プランを以下のとおりご提案いたします。</p><table><thead><tr><th>プラン</th><th>媒体</th><th>費用</th><th>想定反応数</th></tr></thead><tbody><tr><td>プラン1</td><td>新聞+DM</td><td>120万円</td><td>600件</td></tr><tr><td>プラン2</td><td>Web広告</td><td>90万円</td><td>900件</td></tr><tr><td>プラン3</td><td>SNS+Web広告</td><td>150万円</td><td>1,800件</td></tr><tr><td>プラン4</td><td>雑誌</td><td>80万円</td><td>300件</td></tr></tbody></table><p><small>※いずれも11月中旬より掲載可能です。ただし、プラン3はSNS用コンテンツの制作に2週間を要するため、12月開始となります。</small></p>"
+   },
+   "choices": [
+    "プラン1",
+    "プラン2",
+    "プラン3",
+    "プラン4"
+   ],
+   "answer": 1,
+   "explanation": "Cost per response: プラン1 2,000円, プラン2 1,000円, プラン3 about 833円, プラン4 about 2,667円. プラン3 is the most efficient, but it cannot start until December, too late for the 11月20日 campaign (「それじゃ間に合わない」), so they stay within 100万円. Of プラン2 and プラン4, プラン2 has the lower cost per response. プラン1 is over budget anyway (120万円)."
+  },
+  {
+   "id": "B2-3-14",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "quality",
+    "defect-rate",
+    "production-line"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "工場長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "品質管理担当"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "工場長と品質管理担当の女の人が、ライン別の不良率を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "寸法ずれの原因は、金型がすり減っていることだったね。どのラインから金型を交換しようか。"
+     },
+     {
+      "spk": "B",
+      "text": "3か月続けて上がっているライン2が最優先かと思ったのですが、ライン2は先週、すでに金型を交換しました。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか。ライン4は9月だけ急に上がっているけど、これは測定機の設定ミスじゃないかと言っていたよね。"
+     },
+     {
+      "spk": "B",
+      "text": "はい、そう思っていたんですが、確認したところ、測定機には問題がなく、実際の数字でした。"
+     },
+     {
+      "spk": "A",
+      "text": "それなら放っておけないな。ライン3はどう?"
+     },
+     {
+      "spk": "B",
+      "text": "ライン3は塗装むらで、金型とは関係ありません。"
+     },
+     {
+      "spk": "A",
+      "text": "わかった。じゃあ、すぐに交換の手配をしよう。"
+     }
+    ],
+    "question": "金型の交換を最優先で行うのはどのラインですか。"
+   },
+   "prompt": "金型の交換を最優先で行うのはどのラインですか。",
+   "material": {
+    "kind": "html",
+    "title": "製造ライン別 不良率(%)",
+    "html": "<table><thead><tr><th>ライン</th><th>7月</th><th>8月</th><th>9月</th><th>主な不良内容</th></tr></thead><tbody><tr><td>ライン1</td><td>1.2</td><td>1.1</td><td>1.0</td><td>表面の傷</td></tr><tr><td>ライン2</td><td>0.9</td><td>1.5</td><td>2.2</td><td>寸法ずれ</td></tr><tr><td>ライン3</td><td>2.0</td><td>1.8</td><td>1.6</td><td>塗装むら</td></tr><tr><td>ライン4</td><td>1.0</td><td>1.0</td><td>1.9</td><td>寸法ずれ</td></tr></tbody></table>"
+   },
+   "choices": [
+    "ライン4",
+    "ライン2",
+    "ライン3",
+    "ライン1"
+   ],
+   "answer": 0,
+   "explanation": "The die-wear problem shows up as 寸法ずれ, found on lines 2 and 4. Line 2 would normally be first, but its die was already replaced last week (「先週、すでに金型を交換しました」). Line 4's September jump (1.0→1.9) turned out to be real, not a measurement error (「実際の数字でした」), so line 4 gets priority. Line 3's problem is painting, unrelated to dies."
+  },
+  {
+   "id": "B2-3-15",
+   "part": 2,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "ec-site",
+    "analytics",
+    "table"
+   ],
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "Web担当者"
+     },
+     "B": {
+      "gender": "m",
+      "role": "課長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "ECサイトの担当者と課長が、ページ別のアクセス解析を見ながら話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "離脱率が一番高いのはカートのページなので、ここから改善するのがいいと思います。"
+     },
+     {
+      "spk": "B",
+      "text": "カートは、来月のシステム更新で画面が全部新しくなるから、今手を入れても無駄になってしまうよ。"
+     },
+     {
+      "spk": "A",
+      "text": "あ、そうでした。では、決済入力のページはどうでしょうか。"
+     },
+     {
+      "spk": "B",
+      "text": "先月と変わっていないなら、急ぐ必要はないね。それより、先月から急に悪くなっているところを優先しよう。"
+     },
+     {
+      "spk": "A",
+      "text": "それでしたら、ここですね。先月から商品画像の表示が遅くなったという問い合わせも来ています。"
+     },
+     {
+      "spk": "B",
+      "text": "じゃあ、そこを最優先で頼む。"
+     }
+    ],
+    "question": "最優先で改善するのはどのページですか。"
+   },
+   "prompt": "最優先で改善するのはどのページですか。",
+   "material": {
+    "kind": "html",
+    "title": "ページ別アクセス解析(10月)",
+    "html": "<table><thead><tr><th>ページ</th><th>訪問数</th><th>離脱率</th><th>前月比</th></tr></thead><tbody><tr><td>トップページ</td><td>52,000</td><td>28%</td><td>−2ポイント</td></tr><tr><td>商品一覧</td><td>38,000</td><td>35%</td><td>+1ポイント</td></tr><tr><td>商品詳細</td><td>30,000</td><td>42%</td><td>+8ポイント</td></tr><tr><td>カート</td><td>9,000</td><td>55%</td><td>+3ポイント</td></tr><tr><td>決済入力</td><td>4,500</td><td>30%</td><td>±0</td></tr></tbody></table>"
+   },
+   "choices": [
+    "カート",
+    "トップページ",
+    "商品詳細",
+    "決済入力"
+   ],
+   "answer": 2,
+   "explanation": "カート has the highest exit rate (55%) but will be rebuilt in next month's system update, and 決済入力 is unchanged (±0). The manager wants the page that worsened sharply since last month (「先月から急に悪くなっているところ」): 商品詳細 at +8 points, consistent with complaints about slow product images."
+  }
+ ]
+}

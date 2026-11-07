@@ -1,0 +1,1454 @@
+{
+  "id": "business-vocab-1",
+  "title": "Business vocabulary 1",
+  "deck": "vocab",
+  "cards": [
+    {
+      "id": "bv1-001",
+      "front": "粗利",
+      "reading": "あらり",
+      "meaning": "gross profit",
+      "example": "値引きが続いたため、今期の粗利は大きく圧迫された。",
+      "exampleEn": "Repeated discounting has heavily squeezed gross profit this term.",
+      "note": "= 売上総利益. 粗利率 = gross margin.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-002",
+      "front": "減価償却",
+      "reading": "げんかしょうきゃく",
+      "meaning": "depreciation",
+      "example": "新工場の減価償却費が、利益を押し下げる見込みだ。",
+      "exampleEn": "Depreciation on the new plant is expected to push profits down.",
+      "note": "減価償却費 = depreciation expense.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-003",
+      "front": "連結決算",
+      "reading": "れんけつけっさん",
+      "meaning": "consolidated financial results",
+      "example": "買収した子会社の業績は、来期から連結決算に反映される。",
+      "exampleEn": "The acquired subsidiary's results will be reflected in the consolidated accounts from next term.",
+      "note": "vs 単体決算 (parent company only).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-004",
+      "front": "増収増益",
+      "reading": "ぞうしゅうぞうえき",
+      "meaning": "higher revenue and higher profit",
+      "example": "当社は三期連続の増収増益を達成した。",
+      "exampleEn": "We posted higher sales and profits for the third straight term.",
+      "note": "Variants: 増収減益 (sales up, profit down), 減収増益.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-005",
+      "front": "減収減益",
+      "reading": "げんしゅうげんえき",
+      "meaning": "lower revenue and lower profit",
+      "example": "円高の影響を受け、上半期は減収減益となった。",
+      "exampleEn": "Hit by the strong yen, the first half saw both sales and profits fall.",
+      "note": "Opposite: 増収増益.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-006",
+      "front": "黒字転換",
+      "reading": "くろじてんかん",
+      "meaning": "swing back into profit",
+      "example": "コスト削減が奏功し、今期は黒字転換を果たした。",
+      "exampleEn": "Cost cuts paid off and the company returned to the black this term.",
+      "note": "Also 黒字化. Opposite: 赤字転落.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-007",
+      "front": "赤字転落",
+      "reading": "あかじてんらく",
+      "meaning": "falling into the red",
+      "example": "主力製品の販売不振で、営業赤字に転落した。",
+      "exampleEn": "Weak sales of its flagship product pushed it into an operating loss.",
+      "note": "Verb form: 赤字に転落する.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-008",
+      "front": "経常利益",
+      "reading": "けいじょうりえき",
+      "meaning": "ordinary (recurring) profit",
+      "example": "為替差益が寄与し、経常利益は予想を上回った。",
+      "exampleEn": "Helped by FX gains, ordinary profit beat forecasts.",
+      "note": "Operating profit ± non-operating items (Japanese GAAP).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-009",
+      "front": "損益分岐点",
+      "reading": "そんえきぶんきてん",
+      "meaning": "break-even point",
+      "example": "この価格設定では、損益分岐点を超えるのに二年かかる。",
+      "exampleEn": "At this price point, it will take two years to pass break-even.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-010",
+      "front": "前年同期比",
+      "reading": "ぜんねんどうきひ",
+      "meaning": "year on year (vs. same period last year)",
+      "example": "第2四半期の売上は、前年同期比で12％増加した。",
+      "exampleEn": "Second-quarter sales rose 12% year on year.",
+      "note": "Often shortened to 前年比.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-011",
+      "front": "下方修正",
+      "reading": "かほうしゅうせい",
+      "meaning": "downward revision (of a forecast)",
+      "example": "原材料の高騰を受け、通期の業績予想を下方修正した。",
+      "exampleEn": "Due to soaring material costs, the full-year forecast was revised down.",
+      "note": "Opposite: 上方修正.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-012",
+      "front": "上方修正",
+      "reading": "じょうほうしゅうせい",
+      "meaning": "upward revision (of a forecast)",
+      "example": "好調な受注を背景に、利益予想を上方修正した。",
+      "exampleEn": "On the back of strong orders, the profit forecast was revised up.",
+      "note": "Opposite: 下方修正.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-013",
+      "front": "四半期",
+      "reading": "しはんき",
+      "meaning": "quarter (of a fiscal year)",
+      "example": "四半期ごとに、取締役会へ進捗を報告している。",
+      "exampleEn": "Progress is reported to the board every quarter.",
+      "note": "第1四半期 = Q1; 四半期決算 = quarterly results.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-014",
+      "front": "資金繰り",
+      "reading": "しきんぐり",
+      "meaning": "cash-flow management, funding",
+      "example": "取引先の倒産で、資金繰りが急に苦しくなった。",
+      "exampleEn": "A client's bankruptcy suddenly made our cash flow tight.",
+      "note": "資金繰りが悪化する / 苦しい.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-015",
+      "front": "債権",
+      "reading": "さいけん",
+      "meaning": "receivable, claim",
+      "example": "回収の見込みがない債権は、損失として処理する。",
+      "exampleEn": "Receivables with no prospect of collection are written off as losses.",
+      "note": "Confusable: 債券 (bond). Opposite: 債務.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-016",
+      "front": "債務",
+      "reading": "さいむ",
+      "meaning": "debt, obligation",
+      "example": "同社は巨額の債務を抱え、経営難に陥った。",
+      "exampleEn": "Saddled with huge debts, the company fell into financial difficulty.",
+      "note": "債務超過 = liabilities exceed assets.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-017",
+      "front": "配当",
+      "reading": "はいとう",
+      "meaning": "dividend",
+      "example": "業績好調を受け、株主への配当を増やす方針だ。",
+      "exampleEn": "Given strong results, the company plans to raise its dividend.",
+      "note": "増配 / 減配 / 無配.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-018",
+      "front": "株主総会",
+      "reading": "かぶぬしそうかい",
+      "meaning": "general meeting of shareholders",
+      "example": "新社長の就任は、株主総会で正式に承認された。",
+      "exampleEn": "The new president's appointment was formally approved at the AGM.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-019",
+      "front": "粉飾決算",
+      "reading": "ふんしょくけっさん",
+      "meaning": "accounting fraud, window dressing",
+      "example": "粉飾決算が発覚し、経営陣が引責辞任した。",
+      "exampleEn": "Accounting fraud came to light and management resigned to take responsibility.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-020",
+      "front": "経費精算",
+      "reading": "けいひせいさん",
+      "meaning": "expense claim / reimbursement",
+      "example": "出張の経費精算は、月末までに申請してください。",
+      "exampleEn": "Please file business-trip expense claims by month-end.",
+      "note": "精算 = settling up (vs 清算 = liquidation).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-021",
+      "front": "立て替え",
+      "reading": "たてかえ",
+      "meaning": "paying on someone's behalf (to be repaid)",
+      "example": "タクシー代は、いったん私が立て替えておきます。",
+      "exampleEn": "I'll cover the taxi fare for now.",
+      "note": "Verb: 立て替える. Accounting: 立替金.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-022",
+      "front": "仮払い",
+      "reading": "かりばらい",
+      "meaning": "cash advance (to be settled later)",
+      "example": "海外出張の前に、仮払いを申請しておいた。",
+      "exampleEn": "I applied for a cash advance before the overseas trip.",
+      "note": "Settled afterwards via 精算.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-023",
+      "front": "計上",
+      "reading": "けいじょう",
+      "meaning": "booking, recording (in accounts/budget)",
+      "example": "リストラ費用50億円を特別損失として計上した。",
+      "exampleEn": "5 billion yen in restructuring costs was booked as an extraordinary loss.",
+      "note": "予算に計上する = include in the budget.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-024",
+      "front": "採算",
+      "reading": "さいさん",
+      "meaning": "profitability, paying off",
+      "example": "この事業は採算が取れないため、撤退を決めた。",
+      "exampleEn": "The business wasn't profitable, so we decided to pull out.",
+      "note": "採算が合う / 取れる; 不採算部門 = loss-making division.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-025",
+      "front": "収益",
+      "reading": "しゅうえき",
+      "meaning": "earnings, revenue",
+      "example": "サブスク型への転換で、収益が安定してきた。",
+      "exampleEn": "The shift to subscriptions has stabilized earnings.",
+      "note": "収益性 = profitability; 収益源 = revenue source.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-026",
+      "front": "人事異動",
+      "reading": "じんじいどう",
+      "meaning": "personnel reshuffle, transfer",
+      "example": "4月の人事異動で、大阪支社へ移ることになった。",
+      "exampleEn": "In the April reshuffle I'm being moved to the Osaka office.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-027",
+      "front": "出向",
+      "reading": "しゅっこう",
+      "meaning": "secondment (to another company)",
+      "example": "来月から2年間、子会社に出向する予定です。",
+      "exampleEn": "From next month I'll be seconded to a subsidiary for two years.",
+      "note": "Stays on parent's payroll; vs 転籍 (permanent transfer).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-028",
+      "front": "左遷",
+      "reading": "させん",
+      "meaning": "demotion, being sidelined",
+      "example": "彼の地方への転勤は、事実上の左遷だと噂されている。",
+      "exampleEn": "Rumor has it his transfer to a regional office is effectively a demotion.",
+      "note": "Strongly negative; avoid in formal talk about others.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-029",
+      "front": "昇格",
+      "reading": "しょうかく",
+      "meaning": "promotion in grade/status",
+      "example": "入社5年目で主任に昇格した。チームを任される立場だ。",
+      "exampleEn": "In my fifth year I was promoted to chief and now lead a team.",
+      "note": "昇進 = promotion in post; 昇格 = rise in grade or status (also for organizations).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-030",
+      "front": "辞令",
+      "reading": "じれい",
+      "meaning": "official appointment notice",
+      "example": "本日付で、営業部長の辞令を受けました。",
+      "exampleEn": "I received my appointment as sales director effective today.",
+      "note": "社交辞令 = empty pleasantries.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-031",
+      "front": "赴任",
+      "reading": "ふにん",
+      "meaning": "taking up a post elsewhere",
+      "example": "新しい支店長は、来週シンガポールに赴任する。",
+      "exampleEn": "The new branch manager takes up his post in Singapore next week.",
+      "note": "赴任先 = place of assignment.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-032",
+      "front": "単身赴任",
+      "reading": "たんしんふにん",
+      "meaning": "posting away from one's family",
+      "example": "子どもの進学を考え、単身赴任を選んだ。",
+      "exampleEn": "With my children's schooling in mind, I chose to relocate alone.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-033",
+      "front": "中途採用",
+      "reading": "ちゅうとさいよう",
+      "meaning": "mid-career hiring",
+      "example": "即戦力を求めて、中途採用を強化している。",
+      "exampleEn": "We're boosting mid-career hiring to find people who can contribute right away.",
+      "note": "vs 新卒採用. 即戦力 = ready-to-go talent.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-034",
+      "front": "内定",
+      "reading": "ないてい",
+      "meaning": "(informal) job offer",
+      "example": "来春入社予定の内定者向けに、研修会を開く。",
+      "exampleEn": "We'll hold a training session for next spring's incoming hires.",
+      "note": "内定を辞退する = turn down an offer.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-035",
+      "front": "福利厚生",
+      "reading": "ふくりこうせい",
+      "meaning": "employee benefits",
+      "example": "当社は住宅手当など、福利厚生が充実している。",
+      "exampleEn": "We offer good benefits, including a housing allowance.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-036",
+      "front": "有給休暇",
+      "reading": "ゆうきゅうきゅうか",
+      "meaning": "paid leave",
+      "example": "来週の金曜日に、有給休暇を取得させていただきます。",
+      "exampleEn": "I'll be taking paid leave next Friday.",
+      "note": "Colloquial: 有給 / 有休.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-037",
+      "front": "懲戒",
+      "reading": "ちょうかい",
+      "meaning": "disciplinary action",
+      "example": "顧客情報を外部に漏らした社員は、懲戒処分となった。",
+      "exampleEn": "The employee who leaked customer data was disciplined.",
+      "note": "懲戒解雇 = disciplinary dismissal.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-038",
+      "front": "人事考課",
+      "reading": "じんじこうか",
+      "meaning": "performance appraisal",
+      "example": "人事考課の結果は、賞与の額に反映される。",
+      "exampleEn": "Appraisal results are reflected in the bonus amount.",
+      "note": "Also 人事評価.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-039",
+      "front": "裁量",
+      "reading": "さいりょう",
+      "meaning": "discretion",
+      "example": "予算の使い方は、各チームの裁量に任せている。",
+      "exampleEn": "How the budget is spent is left to each team's discretion.",
+      "note": "裁量労働制 = discretionary working system.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-040",
+      "front": "引き継ぎ",
+      "reading": "ひきつぎ",
+      "meaning": "handover (of duties)",
+      "example": "退職前に、後任への引き継ぎを確実に済ませてください。",
+      "exampleEn": "Make sure to complete the handover to your successor before leaving.",
+      "note": "引き継ぎ書 = handover notes.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-041",
+      "front": "後任",
+      "reading": "こうにん",
+      "meaning": "successor",
+      "example": "山田部長の後任には、佐藤課長が就く予定だ。",
+      "exampleEn": "Section manager Sato is set to succeed Director Yamada.",
+      "note": "前任 = predecessor.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-042",
+      "front": "嘱託",
+      "reading": "しょくたく",
+      "meaning": "contract staff (often rehired retirees)",
+      "example": "定年後は、嘱託社員として再雇用される人が多い。",
+      "exampleEn": "Many people are rehired as contract staff after retirement age.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-043",
+      "front": "育児休業",
+      "reading": "いくじきゅうぎょう",
+      "meaning": "childcare leave",
+      "example": "男性社員の育児休業の取得を、積極的に推進している。",
+      "exampleEn": "We actively encourage male employees to take childcare leave.",
+      "note": "Short: 育休.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-044",
+      "front": "取引先",
+      "reading": "とりひきさき",
+      "meaning": "business partner, client",
+      "example": "年末には、主要な取引先へ挨拶回りをする。",
+      "exampleEn": "At year-end we make courtesy visits to our main business partners.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-045",
+      "front": "得意先",
+      "reading": "とくいさき",
+      "meaning": "regular customer",
+      "example": "長年の得意先から、大口の注文をいただいた。",
+      "exampleEn": "We received a large order from a long-standing customer.",
+      "note": "Nuance: established, repeat customer.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-046",
+      "front": "商談",
+      "reading": "しょうだん",
+      "meaning": "sales meeting, business talks",
+      "example": "来週は、新規顧客との商談が三件入っている。",
+      "exampleEn": "Next week I have three sales meetings with new clients.",
+      "note": "商談がまとまる = the deal comes together.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-047",
+      "front": "案件",
+      "reading": "あんけん",
+      "meaning": "matter, project, deal",
+      "example": "こちらの案件は、私が担当させていただきます。",
+      "exampleEn": "I will be handling this matter.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-048",
+      "front": "先方",
+      "reading": "せんぽう",
+      "meaning": "the other party",
+      "example": "先方のご都合を確認してから、日程を決めましょう。",
+      "exampleEn": "Let's fix the date after checking the other party's availability.",
+      "note": "Used about them, not to them; to the client say そちら様 / 御社.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-049",
+      "front": "当方",
+      "reading": "とうほう",
+      "meaning": "our side, we",
+      "example": "当方の手違いで、ご迷惑をおかけしました。",
+      "exampleEn": "We apologize for the trouble caused by an error on our side.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-050",
+      "front": "御社",
+      "reading": "おんしゃ",
+      "meaning": "your company (spoken)",
+      "example": "御社の新サービスに、大変興味を持っております。",
+      "exampleEn": "We are very interested in your company's new service.",
+      "note": "Spoken form. In writing use 貴社.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-051",
+      "front": "貴社",
+      "reading": "きしゃ",
+      "meaning": "your company (written)",
+      "example": "貴社ますますご清栄のこととお慶び申し上げます。",
+      "exampleEn": "We trust your company continues to prosper.",
+      "note": "Written form (letters/emails). In speech use 御社.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-052",
+      "front": "弊社",
+      "reading": "へいしゃ",
+      "meaning": "our company (humble)",
+      "example": "詳細につきましては、弊社の担当者よりご連絡いたします。",
+      "exampleEn": "Our representative will contact you with details.",
+      "note": "Humble; 当社 is neutral.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-053",
+      "front": "見積もり",
+      "reading": "みつもり",
+      "meaning": "estimate, quotation",
+      "example": "三社に見積もりを依頼し、価格を比較した。",
+      "exampleEn": "We asked three firms for quotes and compared prices.",
+      "note": "見積書 = written quotation.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-054",
+      "front": "相見積もり",
+      "reading": "あいみつもり",
+      "meaning": "competing quotes",
+      "example": "今回は、複数社から相見積もりを取らせていただいております。",
+      "exampleEn": "This time we are collecting competing quotes from several firms.",
+      "note": "Colloquial: あいみつ.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-055",
+      "front": "発注",
+      "reading": "はっちゅう",
+      "meaning": "placing an order",
+      "example": "部品の発注は、在庫を確認してから行うこと。",
+      "exampleEn": "Order parts only after checking stock.",
+      "note": "発注書 = purchase order.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-056",
+      "front": "受注",
+      "reading": "じゅちゅう",
+      "meaning": "receiving an order, winning a contract",
+      "example": "大型案件の受注に成功し、部内が沸いた。",
+      "exampleEn": "The department was thrilled to win a big contract.",
+      "note": "受注残 = order backlog.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-057",
+      "front": "成約",
+      "reading": "せいやく",
+      "meaning": "closing a deal",
+      "example": "今月の成約件数は、目標を大きく上回った。",
+      "exampleEn": "This month's number of closed deals far exceeded the target.",
+      "note": "成約率 = close rate.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-058",
+      "front": "失注",
+      "reading": "しっちゅう",
+      "meaning": "losing a deal",
+      "example": "価格面で折り合わず、結局失注してしまった。",
+      "exampleEn": "We couldn't agree on price and ended up losing the deal.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-059",
+      "front": "引き合い",
+      "reading": "ひきあい",
+      "meaning": "sales inquiry",
+      "example": "新製品について、海外からの引き合いが増えている。",
+      "exampleEn": "Inquiries about the new product from overseas are increasing.",
+      "note": "引き合いに出す = cite as an example (different sense).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-060",
+      "front": "折衝",
+      "reading": "せっしょう",
+      "meaning": "negotiation (to reconcile interests)",
+      "example": "価格条件について、先方と折衝を重ねている。",
+      "exampleEn": "We've been holding repeated negotiations on pricing with them.",
+      "note": "Formal; often 折衝を重ねる.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-061",
+      "front": "打診",
+      "reading": "だしん",
+      "meaning": "sounding out, tentative approach",
+      "example": "講演を打診したところ、快く引き受けていただいた。",
+      "exampleEn": "When we sounded him out about speaking, he gladly agreed.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-062",
+      "front": "販路",
+      "reading": "はんろ",
+      "meaning": "sales channel, market outlet",
+      "example": "ネット通販を活用して、販路の拡大を図る。",
+      "exampleEn": "We'll use online retail to expand our sales channels.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-063",
+      "front": "新規開拓",
+      "reading": "しんきかいたく",
+      "meaning": "winning new customers",
+      "example": "今期は、新規開拓に力を入れる方針です。",
+      "exampleEn": "This term we'll focus on acquiring new customers.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-064",
+      "front": "納品",
+      "reading": "のうひん",
+      "meaning": "delivery (of goods)",
+      "example": "ご注文の品は、明日の午前中に納品いたします。",
+      "exampleEn": "Your order will be delivered tomorrow morning.",
+      "note": "納品書 = delivery slip.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-065",
+      "front": "ご用命",
+      "reading": "ごようめい",
+      "meaning": "your order, your request (honorific)",
+      "example": "今後とも、ご用命のほどよろしくお願い申し上げます。",
+      "exampleEn": "We look forward to serving you again.",
+      "note": "Set phrase in closing lines.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-066",
+      "front": "納期",
+      "reading": "のうき",
+      "meaning": "delivery date, deadline",
+      "example": "部品不足のため、納期が一週間遅れる見込みです。",
+      "exampleEn": "Due to a parts shortage, delivery is expected to slip by a week.",
+      "note": "納期厳守 = strict adherence to deadline.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-067",
+      "front": "前倒し",
+      "reading": "まえだおし",
+      "meaning": "bringing forward",
+      "example": "顧客の要望で、出荷を3日前倒しすることになった。",
+      "exampleEn": "At the customer's request, shipment was moved up three days.",
+      "note": "Opposite: 後ろ倒し.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-068",
+      "front": "後ろ倒し",
+      "reading": "うしろだおし",
+      "meaning": "pushing back",
+      "example": "システムの切り替えは、来月に後ろ倒しとなりました。",
+      "exampleEn": "The system cutover has been pushed back to next month.",
+      "note": "Opposite: 前倒し.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-069",
+      "front": "在庫",
+      "reading": "ざいこ",
+      "meaning": "stock, inventory",
+      "example": "ただいま在庫を確認しておりますので、少々お待ちください。",
+      "exampleEn": "We're checking stock now; please wait a moment.",
+      "note": "在庫を抱える = be stuck with stock.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-070",
+      "front": "棚卸し",
+      "reading": "たなおろし",
+      "meaning": "stocktaking",
+      "example": "月末の棚卸しで、帳簿と実在庫の差が見つかった。",
+      "exampleEn": "The month-end stocktake found gaps between the books and actual stock.",
+      "note": "Fig.: reviewing/listing out (業務の棚卸し).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-071",
+      "front": "歩留まり",
+      "reading": "ぶどまり",
+      "meaning": "yield (rate of good output)",
+      "example": "製造工程の改善で、歩留まりが95％まで向上した。",
+      "exampleEn": "Process improvements raised the yield to 95%.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-072",
+      "front": "欠品",
+      "reading": "けっぴん",
+      "meaning": "stockout, missing item",
+      "example": "人気商品の欠品が続き、販売機会を逃している。",
+      "exampleEn": "Ongoing stockouts of popular items are costing us sales.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-073",
+      "front": "出荷",
+      "reading": "しゅっか",
+      "meaning": "shipment, dispatch",
+      "example": "本日15時までのご注文は、当日中に出荷いたします。",
+      "exampleEn": "Orders placed by 3 p.m. today ship the same day.",
+      "note": "入荷 = stock arriving.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-074",
+      "front": "物流",
+      "reading": "ぶつりゅう",
+      "meaning": "logistics",
+      "example": "燃料費の上昇で、物流コストが膨らんでいる。",
+      "exampleEn": "Rising fuel prices are inflating logistics costs.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-075",
+      "front": "調達",
+      "reading": "ちょうたつ",
+      "meaning": "procurement, sourcing",
+      "example": "部材の調達先を、複数の国に分散させる。",
+      "exampleEn": "We'll spread material sourcing across several countries.",
+      "note": "資金調達 = fundraising.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-076",
+      "front": "仕入れ",
+      "reading": "しいれ",
+      "meaning": "purchasing (stock), buying in",
+      "example": "仕入れ価格の上昇分を、販売価格に転嫁する。",
+      "exampleEn": "We'll pass the rise in purchase costs on to selling prices.",
+      "note": "仕入先 = supplier.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-077",
+      "front": "量産",
+      "reading": "りょうさん",
+      "meaning": "mass production",
+      "example": "試作が完了し、来月から量産体制に入る。",
+      "exampleEn": "Prototyping is done; mass production starts next month.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-078",
+      "front": "試作",
+      "reading": "しさく",
+      "meaning": "prototype, trial production",
+      "example": "試作品の評価結果を、来週の会議で報告します。",
+      "exampleEn": "I'll report the prototype evaluation at next week's meeting.",
+      "note": "試作品 = prototype.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-079",
+      "front": "検品",
+      "reading": "けんぴん",
+      "meaning": "inspection of goods",
+      "example": "入荷した商品は、すべて検品してから棚に並べる。",
+      "exampleEn": "All incoming goods are inspected before they go on the shelves.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-080",
+      "front": "稼働",
+      "reading": "かどう",
+      "meaning": "operation (of plant/system)",
+      "example": "新しい生産ラインは、来週から本格稼働する。",
+      "exampleEn": "The new production line goes into full operation next week.",
+      "note": "稼働率 = utilization rate.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-081",
+      "front": "外注",
+      "reading": "がいちゅう",
+      "meaning": "outsourcing",
+      "example": "デザイン業務は、外部の専門会社に外注している。",
+      "exampleEn": "We outsource design work to a specialist firm.",
+      "note": "外注先 = subcontractor.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-082",
+      "front": "委託",
+      "reading": "いたく",
+      "meaning": "entrusting, contracting out",
+      "example": "商品の配送業務を、物流会社に委託した。",
+      "exampleEn": "We contracted product delivery out to a logistics company.",
+      "note": "業務委託契約 = service agreement.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-083",
+      "front": "返品",
+      "reading": "へんぴん",
+      "meaning": "return (of goods)",
+      "example": "初期不良の場合は、送料当社負担で返品を承ります。",
+      "exampleEn": "For initial defects, we accept returns at our expense.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-084",
+      "front": "品薄",
+      "reading": "しなうす",
+      "meaning": "short supply",
+      "example": "半導体不足の影響で、一部の機種が品薄になっている。",
+      "exampleEn": "The chip shortage has left some models in short supply.",
+      "note": "品切れ = sold out.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-085",
+      "front": "稟議",
+      "reading": "りんぎ",
+      "meaning": "circular request for approval",
+      "example": "新しい会計ソフトの購入について、稟議を上げた。",
+      "exampleEn": "I submitted an approval request to buy new accounting software.",
+      "note": "稟議書; 稟議が通る = get approved.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-086",
+      "front": "決裁",
+      "reading": "けっさい",
+      "meaning": "approval (by someone with authority)",
+      "example": "この金額になると、部長の決裁が必要です。",
+      "exampleEn": "At this amount, the director's approval is required.",
+      "note": "Confusable: 決済 (payment settlement).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-087",
+      "front": "根回し",
+      "reading": "ねまわし",
+      "meaning": "laying the groundwork (informal consensus)",
+      "example": "会議の前に、関係部署へ根回しをしておいた。",
+      "exampleEn": "I laid the groundwork with the departments concerned before the meeting.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-088",
+      "front": "議事録",
+      "reading": "ぎじろく",
+      "meaning": "minutes",
+      "example": "本日の会議の議事録は、明日までに共有いたします。",
+      "exampleEn": "I'll share the minutes of today's meeting by tomorrow.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-089",
+      "front": "一任",
+      "reading": "いちにん",
+      "meaning": "leaving entirely to someone",
+      "example": "最終的な判断は、部長に一任することになった。",
+      "exampleEn": "The final decision was left entirely to the director.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-090",
+      "front": "暫定",
+      "reading": "ざんてい",
+      "meaning": "provisional, interim",
+      "example": "こちらは暫定版ですので、後日差し替えさせていただきます。",
+      "exampleEn": "This is a provisional version; we'll replace it later.",
+      "note": "暫定的に = provisionally.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-091",
+      "front": "割愛",
+      "reading": "かつあい",
+      "meaning": "omitting (for brevity)",
+      "example": "時間の都合上、詳細な説明は割愛させていただきます。",
+      "exampleEn": "Due to time constraints, I'll skip the detailed explanation.",
+      "note": "Polite: 割愛させていただきます.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-092",
+      "front": "見合わせる",
+      "reading": "みあわせる",
+      "meaning": "to suspend, hold off",
+      "example": "悪天候のため、本日の出荷を見合わせております。",
+      "exampleEn": "Due to bad weather, today's shipments are on hold.",
+      "note": "Noun: 見合わせ.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-093",
+      "front": "見送る",
+      "reading": "みおくる",
+      "meaning": "to pass on, shelve",
+      "example": "予算の都合により、今回の導入は見送ることにした。",
+      "exampleEn": "For budget reasons, we decided to pass on adopting it this time.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-094",
+      "front": "叩き台",
+      "reading": "たたきだい",
+      "meaning": "rough draft for discussion",
+      "example": "まず叩き台を作って、皆で意見を出し合いましょう。",
+      "exampleEn": "Let's make a rough draft first and then all share our views.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-095",
+      "front": "持ち帰る",
+      "reading": "もちかえる",
+      "meaning": "to take back for consideration",
+      "example": "この件は一度社に持ち帰り、検討させていただきます。",
+      "exampleEn": "Let me take this back to the office and consider it.",
+      "note": "Polite way to avoid deciding on the spot.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-096",
+      "front": "異論",
+      "reading": "いろん",
+      "meaning": "objection, dissent",
+      "example": "この方針について、特に異論はございません。",
+      "exampleEn": "I have no particular objection to this policy.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-097",
+      "front": "却下",
+      "reading": "きゃっか",
+      "meaning": "rejection, dismissal",
+      "example": "予算不足を理由に、企画案は却下された。",
+      "exampleEn": "The proposal was rejected for lack of budget.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-098",
+      "front": "保留",
+      "reading": "ほりゅう",
+      "meaning": "on hold, pending",
+      "example": "この件は、先方の回答があるまで保留とします。",
+      "exampleEn": "This matter is on hold until the other party replies.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-099",
+      "front": "懸案",
+      "reading": "けんあん",
+      "meaning": "outstanding issue",
+      "example": "長年の懸案だった人手不足が、ようやく解消された。",
+      "exampleEn": "The labor shortage, a long-standing issue, has finally been resolved.",
+      "note": "懸案事項 = pending matters.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-100",
+      "front": "落としどころ",
+      "reading": "おとしどころ",
+      "meaning": "middle ground, compromise point",
+      "example": "双方が納得できる落としどころを探りたい。",
+      "exampleEn": "We want to find a compromise both sides can accept.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-101",
+      "front": "善処",
+      "reading": "ぜんしょ",
+      "meaning": "dealing with (a matter) appropriately",
+      "example": "ご指摘の点につきましては、早急に善処いたします。",
+      "exampleEn": "We will promptly address the points you raised.",
+      "note": "Can sound noncommittal (politics).",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-102",
+      "front": "周知",
+      "reading": "しゅうち",
+      "meaning": "making widely known",
+      "example": "新しい勤務ルールを、全社員に周知してください。",
+      "exampleEn": "Please make sure all employees know the new work rules.",
+      "note": "周知徹底 = make sure everyone is informed.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-103",
+      "front": "進捗",
+      "reading": "しんちょく",
+      "meaning": "progress",
+      "example": "プロジェクトの進捗状況を、毎週報告している。",
+      "exampleEn": "I report the project's progress every week.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-104",
+      "front": "段取り",
+      "reading": "だんどり",
+      "meaning": "arrangements, preparation steps",
+      "example": "展示会の段取りは、すべて私が整えておきます。",
+      "exampleEn": "I'll take care of all the arrangements for the trade show.",
+      "note": "段取りがいい = well organized.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-105",
+      "front": "所感",
+      "reading": "しょかん",
+      "meaning": "impressions, remarks",
+      "example": "研修の最後に、参加者が各自の所感を述べた。",
+      "exampleEn": "At the end of the training, each participant shared their impressions.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-106",
+      "front": "ご査収",
+      "reading": "ごさしゅう",
+      "meaning": "(please) check and accept",
+      "example": "見積書を添付いたしましたので、ご査収ください。",
+      "exampleEn": "I've attached the quotation; please review it.",
+      "note": "Email set phrase for attachments.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-107",
+      "front": "ご教示",
+      "reading": "ごきょうじ",
+      "meaning": "(your) guidance, letting me know",
+      "example": "ご都合のよい日時を、ご教示いただけますでしょうか。",
+      "exampleEn": "Could you let me know a convenient date and time?",
+      "note": "ご教授 = teaching (academic, longer-term).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-108",
+      "front": "ご放念",
+      "reading": "ごほうねん",
+      "meaning": "(please) disregard",
+      "example": "先ほどお送りしたメールにつきましては、ご放念ください。",
+      "exampleEn": "Please disregard the email I sent earlier.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-109",
+      "front": "拝受",
+      "reading": "はいじゅ",
+      "meaning": "receipt (humble)",
+      "example": "資料を拝受いたしました。迅速なご対応に感謝いたします。",
+      "exampleEn": "I have received the materials. Thank you for your prompt response.",
+      "note": "Humble form of 受け取る.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-110",
+      "front": "是正",
+      "reading": "ぜせい",
+      "meaning": "correction, rectification",
+      "example": "監査で指摘された点は、速やかに是正する。",
+      "exampleEn": "Issues raised in the audit will be corrected promptly.",
+      "note": "是正措置 = corrective action.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-111",
+      "front": "再考",
+      "reading": "さいこう",
+      "meaning": "reconsideration",
+      "example": "条件面について、ご再考いただけないでしょうか。",
+      "exampleEn": "Would you be able to reconsider the terms?",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-112",
+      "front": "締結",
+      "reading": "ていけつ",
+      "meaning": "conclusion (of a contract/treaty)",
+      "example": "両社は、販売提携に関する契約を締結した。",
+      "exampleEn": "The two companies signed a sales alliance agreement.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-113",
+      "front": "約款",
+      "reading": "やっかん",
+      "meaning": "standard terms and conditions",
+      "example": "お申し込みの前に、保険の約款をよくお読みください。",
+      "exampleEn": "Please read the policy terms carefully before applying.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-114",
+      "front": "瑕疵",
+      "reading": "かし",
+      "meaning": "defect, flaw (legal)",
+      "example": "引き渡し後1年以内の瑕疵は、無償で修補いたします。",
+      "exampleEn": "Defects found within one year of handover will be repaired free of charge.",
+      "note": "Civil Code now uses 契約不適合.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-115",
+      "front": "免責",
+      "reading": "めんせき",
+      "meaning": "exemption from liability",
+      "example": "天災による損害は、免責事項に該当します。",
+      "exampleEn": "Damage caused by natural disasters falls under the disclaimer.",
+      "note": "免責事項 = disclaimer.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-116",
+      "front": "違約金",
+      "reading": "いやくきん",
+      "meaning": "penalty for breach / early cancellation",
+      "example": "契約期間内に解約すると、違約金が発生します。",
+      "exampleEn": "Cancelling within the contract term incurs a penalty.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-117",
+      "front": "守秘義務",
+      "reading": "しゅひぎむ",
+      "meaning": "duty of confidentiality",
+      "example": "業務上知り得た情報には、守秘義務が課される。",
+      "exampleEn": "Information obtained through work is subject to a confidentiality duty.",
+      "note": "NDA = 秘密保持契約.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-118",
+      "front": "法令遵守",
+      "reading": "ほうれいじゅんしゅ",
+      "meaning": "legal compliance",
+      "example": "法令遵守の意識を高めるため、全社研修を行う。",
+      "exampleEn": "We'll run company-wide training to raise compliance awareness.",
+      "note": "= コンプライアンス.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-119",
+      "front": "知的財産",
+      "reading": "ちてきざいさん",
+      "meaning": "intellectual property",
+      "example": "知的財産の侵害に対しては、厳正に対処します。",
+      "exampleEn": "We will deal firmly with any infringement of our IP.",
+      "note": "Short: 知財.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-120",
+      "front": "訴訟",
+      "reading": "そしょう",
+      "meaning": "lawsuit",
+      "example": "特許をめぐり、競合他社から訴訟を起こされた。",
+      "exampleEn": "A competitor filed a lawsuit against us over a patent.",
+      "note": "訴訟を起こす = file suit.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-121",
+      "front": "損害賠償",
+      "reading": "そんがいばいしょう",
+      "meaning": "damages, compensation",
+      "example": "納期遅延による損害賠償を、取引先から請求された。",
+      "exampleEn": "A client claimed damages from us for late delivery.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-122",
+      "front": "押印",
+      "reading": "おういん",
+      "meaning": "affixing one's seal",
+      "example": "契約書の2ページ目に、押印をお願いいたします。",
+      "exampleEn": "Please affix your seal on page 2 of the contract.",
+      "note": "脱ハンコ = going seal-free.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-123",
+      "front": "覚書",
+      "reading": "おぼえがき",
+      "meaning": "memorandum (of understanding)",
+      "example": "正式契約の前に、まず覚書を交わすことになった。",
+      "exampleEn": "We agreed to exchange a memorandum before the formal contract.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-124",
+      "front": "解約",
+      "reading": "かいやく",
+      "meaning": "cancellation (of a contract)",
+      "example": "解約をご希望の場合は、1か月前までにご連絡ください。",
+      "exampleEn": "If you wish to cancel, please notify us at least one month ahead.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-125",
+      "front": "不祥事",
+      "reading": "ふしょうじ",
+      "meaning": "scandal, misconduct",
+      "example": "相次ぐ不祥事により、企業イメージが大きく損なわれた。",
+      "exampleEn": "A string of scandals badly damaged the corporate image.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-126",
+      "front": "監査",
+      "reading": "かんさ",
+      "meaning": "audit",
+      "example": "来月、外部の監査法人による監査が予定されている。",
+      "exampleEn": "An audit by an outside auditing firm is scheduled for next month.",
+      "note": "監査法人 = audit firm.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-127",
+      "front": "内部統制",
+      "reading": "ないぶとうせい",
+      "meaning": "internal controls",
+      "example": "不正を防止するため、内部統制の仕組みを強化する。",
+      "exampleEn": "We'll strengthen internal controls to prevent fraud.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-128",
+      "front": "障害",
+      "reading": "しょうがい",
+      "meaning": "(system) failure, outage",
+      "example": "サーバー障害により、サービスが一時停止した。",
+      "exampleEn": "A server failure temporarily took the service down.",
+      "note": "障害対応 = incident response.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-129",
+      "front": "復旧",
+      "reading": "ふっきゅう",
+      "meaning": "restoration, recovery",
+      "example": "システムは本日午後3時に復旧いたしました。",
+      "exampleEn": "The system was restored at 3 p.m. today.",
+      "note": "復旧の見込み = expected recovery.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-130",
+      "front": "不具合",
+      "reading": "ふぐあい",
+      "meaning": "defect, bug, malfunction",
+      "example": "アプリの不具合を修正した最新版を配信しました。",
+      "exampleEn": "We've released an update fixing the app bug.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-131",
+      "front": "仕様",
+      "reading": "しよう",
+      "meaning": "specifications",
+      "example": "お客様のご要望に合わせて、仕様を一部変更した。",
+      "exampleEn": "We partly changed the specs to meet the customer's request.",
+      "note": "仕様書 = spec document. 仕様です = \"works as designed\".",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-132",
+      "front": "要件定義",
+      "reading": "ようけんていぎ",
+      "meaning": "requirements definition",
+      "example": "要件定義が曖昧だと、後で大きな手戻りが発生する。",
+      "exampleEn": "If requirements are vague, major rework happens later.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-133",
+      "front": "改修",
+      "reading": "かいしゅう",
+      "meaning": "modification, refurbishment",
+      "example": "法改正に対応するため、給与システムを改修する。",
+      "exampleEn": "We'll modify the payroll system to comply with the law change.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-134",
+      "front": "保守",
+      "reading": "ほしゅ",
+      "meaning": "maintenance",
+      "example": "導入後の保守サポートは、別途契約となります。",
+      "exampleEn": "Post-installation maintenance requires a separate contract.",
+      "note": "保守運用; also \"conservative\" in politics.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-135",
+      "front": "運用",
+      "reading": "うんよう",
+      "meaning": "operation, use, management",
+      "example": "新しいルールは、来月から試験的に運用を開始する。",
+      "exampleEn": "The new rules will be put into trial use from next month.",
+      "note": "資産運用 = asset management.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-136",
+      "front": "情報漏洩",
+      "reading": "じょうほうろうえい",
+      "meaning": "data leak",
+      "example": "情報漏洩を防ぐため、私物USBの使用を禁止した。",
+      "exampleEn": "To prevent data leaks, use of personal USB drives was banned.",
+      "note": "Also written 情報漏えい.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-137",
+      "front": "脆弱性",
+      "reading": "ぜいじゃくせい",
+      "meaning": "vulnerability",
+      "example": "脆弱性が見つかったため、至急アップデートしてください。",
+      "exampleEn": "A vulnerability has been found, so please update immediately.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-138",
+      "front": "移行",
+      "reading": "いこう",
+      "meaning": "migration, transition",
+      "example": "旧システムからのデータ移行は、週末に行います。",
+      "exampleEn": "Data migration from the old system will take place over the weekend.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-139",
+      "front": "権限",
+      "reading": "けんげん",
+      "meaning": "authority, permissions",
+      "example": "共有フォルダへのアクセス権限を付与していただけますか。",
+      "exampleEn": "Could you grant me access rights to the shared folder?",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-140",
+      "front": "手戻り",
+      "reading": "てもどり",
+      "meaning": "rework, backtracking",
+      "example": "早い段階でレビューを行い、手戻りを防ぐ。",
+      "exampleEn": "We review early to avoid rework.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-141",
+      "front": "買収",
+      "reading": "ばいしゅう",
+      "meaning": "acquisition, buyout",
+      "example": "同社は海外企業の買収によって事業を拡大した。",
+      "exampleEn": "The company expanded by acquiring foreign firms.",
+      "note": "Also \"bribery\" (票の買収).",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-142",
+      "front": "合併",
+      "reading": "がっぺい",
+      "meaning": "merger",
+      "example": "二つの地方銀行が合併し、県内最大手となった。",
+      "exampleEn": "Two regional banks merged to become the largest in the prefecture.",
+      "note": "M&A = 合併・買収.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-143",
+      "front": "提携",
+      "reading": "ていけい",
+      "meaning": "tie-up, alliance",
+      "example": "技術開発の分野で、海外メーカーと提携する。",
+      "exampleEn": "We'll form an alliance with a foreign manufacturer in technology development.",
+      "note": "業務提携 / 資本提携.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-144",
+      "front": "撤退",
+      "reading": "てったい",
+      "meaning": "withdrawal (from a market)",
+      "example": "不採算の海外市場から撤退することを決めた。",
+      "exampleEn": "We decided to withdraw from unprofitable overseas markets.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-145",
+      "front": "参入",
+      "reading": "さんにゅう",
+      "meaning": "market entry",
+      "example": "異業種からの参入が相次ぎ、競争が激化している。",
+      "exampleEn": "A wave of entrants from other industries is intensifying competition.",
+      "note": "新規参入 = new entry.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-146",
+      "front": "規制緩和",
+      "reading": "きせいかんわ",
+      "meaning": "deregulation",
+      "example": "規制緩和によって、新たなビジネスが生まれた。",
+      "exampleEn": "Deregulation has given rise to new businesses.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-147",
+      "front": "寡占",
+      "reading": "かせん",
+      "meaning": "oligopoly",
+      "example": "この市場は、大手三社による寡占状態にある。",
+      "exampleEn": "This market is an oligopoly dominated by three major firms.",
+      "level": "N1"
+    },
+    {
+      "id": "bv1-148",
+      "front": "上場",
+      "reading": "じょうじょう",
+      "meaning": "stock-exchange listing",
+      "example": "創業8年のベンチャー企業が、東証に上場を果たした。",
+      "exampleEn": "An eight-year-old startup achieved a listing on the TSE.",
+      "note": "非上場 = unlisted.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-149",
+      "front": "倒産",
+      "reading": "とうさん",
+      "meaning": "bankruptcy",
+      "example": "原材料高の影響で、中小企業の倒産が増加している。",
+      "exampleEn": "Bankruptcies among SMEs are rising due to high material costs.",
+      "level": "BJT"
+    },
+    {
+      "id": "bv1-150",
+      "front": "景気後退",
+      "reading": "けいきこうたい",
+      "meaning": "recession",
+      "example": "景気後退への懸念から、設備投資を控える企業が多い。",
+      "exampleEn": "Fearing a recession, many firms are holding back capital spending.",
+      "level": "BJT"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+ "id": "keigo-1",
+ "title": "Keigo essentials",
+ "deck": "keigo",
+ "cards": [
+  {
+   "id": "kg1-001",
+   "front": "言う",
+   "reading": "いう",
+   "meaning": "say",
+   "example": "先ほど部長がおっしゃった件について、私から申し上げます。",
+   "exampleEn": "Regarding the matter the manager just mentioned, let me say a few words.",
+   "note": "尊敬: おっしゃる / 謙譲: 申す・申し上げる（申し上げるは相手に向けて言う時）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-002",
+   "front": "行く",
+   "reading": "いく",
+   "meaning": "go",
+   "example": "明日の午後、御社へ伺ってもよろしいでしょうか。",
+   "exampleEn": "Would it be all right if I visited your company tomorrow afternoon?",
+   "note": "尊敬: いらっしゃる・おいでになる / 謙譲: 伺う（訪問先に敬意）・参る（丁重語）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-003",
+   "front": "来る",
+   "reading": "くる",
+   "meaning": "come",
+   "example": "受付にABC商事の佐藤様がお見えになりました。",
+   "exampleEn": "Ms. Sato from ABC Trading has arrived at reception.",
+   "note": "尊敬: いらっしゃる・お見えになる・お越しになる / 謙譲: 参る",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-004",
+   "front": "いる",
+   "reading": "いる",
+   "meaning": "be (somewhere), stay",
+   "example": "社長は本日、大阪支社にいらっしゃいます。",
+   "exampleEn": "The president is at the Osaka branch today.",
+   "note": "尊敬: いらっしゃる・おいでになる / 謙譲: おる（おります）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-005",
+   "front": "する",
+   "reading": "する",
+   "meaning": "do",
+   "example": "会議の準備は私がいたしますので、ご安心ください。",
+   "exampleEn": "I will handle the meeting preparations, so please don't worry.",
+   "note": "尊敬: なさる・される / 謙譲: いたす。「ご〜なさる」は可、「ご〜される」は避ける",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-006",
+   "front": "見る",
+   "reading": "みる",
+   "meaning": "see, look at",
+   "example": "お送りいただいた資料、拝見いたしました。",
+   "exampleEn": "I have looked over the materials you sent.",
+   "note": "尊敬: ご覧になる / 謙譲: 拝見する",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-007",
+   "front": "食べる・飲む",
+   "reading": "たべる・のむ",
+   "meaning": "eat / drink",
+   "example": "どうぞ冷めないうちに召し上がってください。",
+   "exampleEn": "Please have some before it gets cold.",
+   "note": "尊敬: 召し上がる / 謙譲: いただく。「いただいてください」は誤り",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-008",
+   "front": "知っている",
+   "reading": "しっている",
+   "meaning": "know",
+   "example": "山田様のお名前はかねてより存じ上げております。",
+   "exampleEn": "I have long known of you, Mr. Yamada.",
+   "note": "尊敬: ご存じだ / 謙譲: 存じている（物事）・存じ上げている（人）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-009",
+   "front": "思う",
+   "reading": "おもう",
+   "meaning": "think",
+   "example": "来週中にはお届けできるかと存じます。",
+   "exampleEn": "I believe we can deliver it sometime next week.",
+   "note": "尊敬: お思いになる・お考えになる / 謙譲: 存じる（〜と存じます）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-010",
+   "front": "尋ねる",
+   "reading": "たずねる",
+   "meaning": "ask, inquire",
+   "example": "一点、納期について伺ってもよろしいでしょうか。",
+   "exampleEn": "May I ask one thing about the delivery date?",
+   "note": "尊敬: お尋ねになる・お聞きになる / 謙譲: 伺う・お尋ねする",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-011",
+   "front": "聞く（拝聴）",
+   "reading": "きく（はいちょう）",
+   "meaning": "listen (to a talk, opinion)",
+   "example": "先日のご講演、大変興味深く拝聴いたしました。",
+   "exampleEn": "I listened to your recent lecture with great interest.",
+   "note": "謙譲: 拝聴する（講演・意見を謹んで聞く）/ 尊敬: お聞きになる",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-012",
+   "front": "会う",
+   "reading": "あう",
+   "meaning": "meet",
+   "example": "近いうちに一度お目にかかれれば幸いです。",
+   "exampleEn": "I would be glad to meet you in person sometime soon.",
+   "note": "尊敬: お会いになる / 謙譲: お目にかかる・お会いする",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-013",
+   "front": "見せる",
+   "reading": "みせる",
+   "meaning": "show",
+   "example": "新製品の試作品をご覧に入れたいと存じます。",
+   "exampleEn": "We would like to show you the prototype of our new product.",
+   "note": "尊敬: お見せになる / 謙譲: お目にかける・ご覧に入れる",
+   "level": "N1"
+  },
+  {
+   "id": "kg1-014",
+   "front": "もらう",
+   "reading": "もらう",
+   "meaning": "receive, get",
+   "example": "貴重なご意見を頂戴し、ありがとうございました。",
+   "exampleEn": "Thank you for giving us your valuable feedback.",
+   "note": "尊敬: お受け取りになる / 謙譲: いただく・頂戴する・賜る（最も改まった形）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-015",
+   "front": "あげる",
+   "reading": "あげる",
+   "meaning": "give (to someone)",
+   "example": "ご来場の皆様に記念品を差し上げております。",
+   "exampleEn": "We are presenting a commemorative gift to all visitors.",
+   "note": "謙譲: 差し上げる。目上に「〜てあげる」は恩着せがましいので避け、「お〜する」を使う",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-016",
+   "front": "くれる",
+   "reading": "くれる",
+   "meaning": "give (to me/us)",
+   "example": "お忙しい中、ご対応くださりありがとうございます。",
+   "exampleEn": "Thank you for dealing with this despite your busy schedule.",
+   "note": "尊敬: くださる（〜てくださる）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-017",
+   "front": "座る",
+   "reading": "すわる",
+   "meaning": "sit",
+   "example": "どうぞこちらにお掛けになってお待ちください。",
+   "exampleEn": "Please take a seat here and wait.",
+   "note": "尊敬: お掛けになる。「おすわりください」より「お掛けください」が一般的",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-018",
+   "front": "読む",
+   "reading": "よむ",
+   "meaning": "read",
+   "example": "ご著書を拝読し、ぜひお話を伺いたいと思いました。",
+   "exampleEn": "After reading your book, I very much wanted to hear from you.",
+   "note": "謙譲: 拝読する / 尊敬: お読みになる",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-019",
+   "front": "借りる",
+   "reading": "かりる",
+   "meaning": "borrow",
+   "example": "会議室のプロジェクターを少し拝借できますか。",
+   "exampleEn": "May I borrow the meeting room projector for a moment?",
+   "note": "謙譲: 拝借する・お借りする",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-020",
+   "front": "受け取る",
+   "reading": "うけとる",
+   "meaning": "receive (documents, goods)",
+   "example": "ご注文書、確かに拝受いたしました。",
+   "exampleEn": "We have duly received your purchase order.",
+   "note": "謙譲: 拝受する（書面語）・頂戴する / 尊敬: お受け取りになる",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-021",
+   "front": "引き受ける",
+   "reading": "ひきうける",
+   "meaning": "accept (an order, request)",
+   "example": "新製品のご注文は、確かに私が承りました。",
+   "exampleEn": "I have duly taken your order for the new product.",
+   "note": "謙譲: 承る（注文・伝言・依頼を受ける）",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-022",
+   "front": "わかる（了承）",
+   "reading": "わかる（りょうしょう）",
+   "meaning": "understand, acknowledge",
+   "example": "ご依頼の件、承知いたしました。至急対応します。",
+   "exampleEn": "Understood regarding your request. We'll act on it right away.",
+   "note": "謙譲: 承知する・かしこまる（承知いたしました／かしこまりました）",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-023",
+   "front": "与える（目上から）",
+   "reading": "あたえる",
+   "meaning": "be given/bestowed (by a superior)",
+   "example": "格別のご高配を賜り、厚く御礼申し上げます。",
+   "exampleEn": "We are deeply grateful for your exceptional consideration.",
+   "note": "賜る: 目上から「いただく」の最上級。挨拶状・式辞で多用。「ご指導を賜り」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-024",
+   "front": "訪ねる",
+   "reading": "たずねる",
+   "meaning": "visit",
+   "example": "それでは、15時にお邪魔いたします。",
+   "exampleEn": "Then I will visit you at 3 p.m.",
+   "note": "謙譲: 伺う・お邪魔する・参上する / 尊敬: お訪ねになる",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-025",
+   "front": "持っていく",
+   "reading": "もっていく",
+   "meaning": "bring, take (to someone)",
+   "example": "明日、契約書をお持ちいたします。",
+   "exampleEn": "I will bring the contract tomorrow.",
+   "note": "謙譲: お持ちする・持参する / 尊敬: お持ちになる。「ご持参ください」は本来謙譲語なので「お持ちください」が無難",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-026",
+   "front": "待つ",
+   "reading": "まつ",
+   "meaning": "wait",
+   "example": "当日は一階ロビーでお待ちしております。",
+   "exampleEn": "On the day, I will be waiting for you in the first-floor lobby.",
+   "note": "尊敬: お待ちになる / 謙譲: お待ちする。「お待ちしてください」は誤り",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-027",
+   "front": "帰る",
+   "reading": "かえる",
+   "meaning": "go home, leave",
+   "example": "お先に退出しますので、本日はこれで失礼いたします。",
+   "exampleEn": "I am leaving first, so I will take my leave for today.",
+   "note": "尊敬: お帰りになる / 謙譲: 失礼する・おいとまする",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-028",
+   "front": "気に入る",
+   "reading": "きにいる",
+   "meaning": "like, be pleased with",
+   "example": "新しいデザイン案はお気に召しましたでしょうか。",
+   "exampleEn": "Were you pleased with the new design proposal?",
+   "note": "尊敬: お気に召す",
+   "level": "N1"
+  },
+  {
+   "id": "kg1-029",
+   "front": "買う",
+   "reading": "かう",
+   "meaning": "buy",
+   "example": "こちらの商品は全国の店舗でお求めになれます。",
+   "exampleEn": "This product can be purchased at stores nationwide.",
+   "note": "尊敬: お求めになる / 謙譲: 購入させていただく",
+   "level": "N1"
+  },
+  {
+   "id": "kg1-030",
+   "front": "着る",
+   "reading": "きる",
+   "meaning": "wear",
+   "example": "社長がお召しになっているスーツは特注だそうです。",
+   "exampleEn": "I hear the suit the president is wearing is custom-made.",
+   "note": "尊敬: お召しになる",
+   "level": "N1"
+  },
+  {
+   "id": "kg1-031",
+   "front": "寝る・休む",
+   "reading": "ねる・やすむ",
+   "meaning": "sleep, rest",
+   "example": "出張でお疲れでしょうから、今夜はゆっくりお休みになってください。",
+   "exampleEn": "You must be tired from the trip, so please rest well tonight.",
+   "note": "尊敬: お休みになる / 謙譲: 休ませていただく",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-032",
+   "front": "連絡する",
+   "reading": "れんらくする",
+   "meaning": "contact",
+   "example": "詳細が決まり次第、改めてご連絡いたします。",
+   "exampleEn": "We will contact you again as soon as the details are decided.",
+   "note": "謙譲: ご連絡いたします・ご連絡差し上げます / 尊敬: ご連絡なさる・ご連絡くださる",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-033",
+   "front": "説明する",
+   "reading": "せつめいする",
+   "meaning": "explain",
+   "example": "新しい料金体系についてご説明申し上げます。",
+   "exampleEn": "Allow me to explain the new pricing structure.",
+   "note": "謙譲: ご説明いたします・ご説明申し上げます / 尊敬: ご説明になる",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-034",
+   "front": "案内する",
+   "reading": "あんないする",
+   "meaning": "guide, show around",
+   "example": "会議室までご案内いたしますので、こちらへどうぞ。",
+   "exampleEn": "I'll show you to the meeting room, this way please.",
+   "note": "謙譲: ご案内いたします / 尊敬語では使用頻度が低い",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-035",
+   "front": "記入する",
+   "reading": "きにゅうする",
+   "meaning": "fill in",
+   "example": "こちらの用紙にご住所をご記入ください。",
+   "exampleEn": "Please write your address on this form.",
+   "note": "尊敬依頼: ご記入ください・ご記入いただけますか / 謙譲: 記入いたします",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-036",
+   "front": "利用する",
+   "reading": "りようする",
+   "meaning": "use",
+   "example": "会員の方は無料でご利用になれます。",
+   "exampleEn": "Members can use it free of charge.",
+   "note": "尊敬: ご利用になる / 依頼: ご利用ください。「ご利用される」は避ける",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-037",
+   "front": "協力する",
+   "reading": "きょうりょくする",
+   "meaning": "cooperate",
+   "example": "皆様のご協力を賜り、無事に完了いたしました。",
+   "exampleEn": "Thanks to everyone's cooperation, it was completed successfully.",
+   "note": "相手の協力: ご協力いただく・ご協力を賜る / 自分: 協力いたします",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-038",
+   "front": "確認する",
+   "reading": "かくにんする",
+   "meaning": "check, confirm",
+   "example": "お手元の資料をご確認いただけますでしょうか。",
+   "exampleEn": "Could you please check the materials you have in front of you?",
+   "note": "相手に: ご確認いただく・ご確認ください / 自分: 確認いたします・確認させていただきます",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-039",
+   "front": "送る",
+   "reading": "おくる",
+   "meaning": "send",
+   "example": "請求書は本日中にご送付いたします。",
+   "exampleEn": "We will send the invoice today.",
+   "note": "謙譲: お送りいたします・ご送付いたします / 尊敬: お送りになる",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-040",
+   "front": "おっしゃられる（誤用）",
+   "reading": "おっしゃられる",
+   "meaning": "\"said\" (double keigo, incorrect)",
+   "example": "×部長がおっしゃられた → ○部長がおっしゃったとおりです。",
+   "exampleEn": "As the manager said. (Avoid おっしゃられた.)",
+   "note": "二重敬語: おっしゃる＋られる。正しくは「おっしゃる」「おっしゃった」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-041",
+   "front": "お召し上がりになる",
+   "reading": "おめしあがりになる",
+   "meaning": "eat (honorific, conventional double form)",
+   "example": "こちらはお早めにお召し上がりください。",
+   "exampleEn": "Please consume this as soon as possible.",
+   "note": "厳密には二重敬語だが慣習として定着し許容される。「召し上がる」が最も無難",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-042",
+   "front": "ご〜される（誤用）",
+   "reading": "ごされる",
+   "meaning": "incorrect hybrid: ご＋する-passive",
+   "example": "部長は明日の会議にご出席になりますか。",
+   "exampleEn": "Will the manager attend tomorrow's meeting?",
+   "note": "「ご利用される」「ご出席される」は謙譲の形に尊敬の「れる」を付けた混用。○ご利用になる・ご出席になる",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-043",
+   "front": "ご〜できる（誤用）",
+   "reading": "ごできる",
+   "meaning": "incorrect potential: ご利用できます",
+   "example": "このカードは全店舗でご利用いただけます。",
+   "exampleEn": "This card can be used at all of our stores.",
+   "note": "「ご〜できる」は謙譲語の可能形なので客の行為には不適切。○ご利用になれます・ご利用いただけます",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-044",
+   "front": "了解しました vs 承知しました",
+   "reading": "りょうかいしました / しょうちしました",
+   "meaning": "\"understood\" — which to use with superiors",
+   "example": "日程変更の件、承知いたしました。",
+   "exampleEn": "Understood regarding the schedule change.",
+   "note": "「了解しました」は同僚・目下向けとされ、目上・社外には「承知しました」「かしこまりました」が無難",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-045",
+   "front": "〜のほうになります（バイト敬語）",
+   "reading": "のほうになります",
+   "meaning": "\"this would be the…\" (hyper-polite service-speak, incorrect)",
+   "example": "こちらがご注文の資料でございます。",
+   "exampleEn": "Here are the materials you ordered.",
+   "note": "方向や比較でないのに「のほう」、変化でないのに「なります」を使う誤用。○こちらが資料でございます",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-046",
+   "front": "〜でよろしかったでしょうか",
+   "reading": "でよろしかったでしょうか",
+   "meaning": "\"was that okay?\" (unnecessary past tense)",
+   "example": "ご注文は以上でよろしいでしょうか。",
+   "exampleEn": "Will that be all for your order?",
+   "note": "現在の確認に過去形を使うバイト敬語。○〜でよろしいでしょうか",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-047",
+   "front": "〜させていただく（多用）",
+   "reading": "させていただく",
+   "meaning": "\"humbly do\" (overused)",
+   "example": "資料の内容について、私から説明いたします。",
+   "exampleEn": "I will explain the contents of the materials.",
+   "note": "相手の許可・恩恵がある場合に使う。不要な場面での乱用は回りくどい。「説明させていただかせて」などは誤り",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-048",
+   "front": "拝見させていただく",
+   "reading": "はいけんさせていただく",
+   "meaning": "\"humbly see\" (double humble, avoid)",
+   "example": "企画書を拝見しました。大変よくまとまっていますね。",
+   "exampleEn": "I've looked at the proposal. It's very well organized.",
+   "note": "拝見（謙譲）＋させていただく（謙譲）の二重敬語。○拝見します・拝見いたします",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-049",
+   "front": "参られる（誤用）",
+   "reading": "まいられる",
+   "meaning": "incorrect: humble verb + honorific られる",
+   "example": "先方は何時ごろいらっしゃいますか。",
+   "exampleEn": "Around what time will the client be coming?",
+   "note": "謙譲語「参る」に尊敬「られる」は混用。相手の行為には「いらっしゃる」「お越しになる」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-050",
+   "front": "伺われる（誤用）",
+   "reading": "うかがわれる",
+   "meaning": "incorrect: humble 伺う used for the other party",
+   "example": "恐れ入りますが、担当者からお聞きになっていますか。",
+   "exampleEn": "Excuse me, have you heard about this from the person in charge?",
+   "note": "相手の行為に謙譲語を使う誤り。受付で「伺っていますか」も×。○お聞きになっていますか・お約束でしょうか",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-051",
+   "front": "社外に話す時の自社の上司",
+   "reading": "しゃがいにはなすときのじしゃのじょうし",
+   "meaning": "referring to your own boss when talking to outsiders",
+   "example": "申し訳ございません、田中はただいま外出しております。",
+   "exampleEn": "I'm sorry, Tanaka is out of the office at the moment.",
+   "note": "社外に対しては身内扱い: 敬称・尊敬語を使わず「田中は」「部長の田中が申しておりました」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-052",
+   "front": "役職＋様（誤用）",
+   "reading": "やくしょく＋さま",
+   "meaning": "\"Section Chief-sama\" (redundant honorific)",
+   "example": "営業部長の田中様によろしくお伝えください。",
+   "exampleEn": "Please give my regards to Mr. Tanaka, the sales manager.",
+   "note": "役職名自体が敬称。「田中部長様」「部長さん」は避け、社外宛は「営業部長 田中様」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-053",
+   "front": "御社 vs 貴社",
+   "reading": "おんしゃ / きしゃ",
+   "meaning": "your company (spoken vs written)",
+   "example": "貴社の新サービスに大変関心を持っております。",
+   "exampleEn": "We are very interested in your company's new service.",
+   "note": "話し言葉は「御社」、メール・文書は「貴社」。同じ文書内で混在させない",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-054",
+   "front": "弊社",
+   "reading": "へいしゃ",
+   "meaning": "our company (humble)",
+   "example": "弊社の担当者から改めてご連絡いたします。",
+   "exampleEn": "Someone in charge at our company will contact you again.",
+   "note": "社外に対して自社をへりくだる語。社内向けや一般的説明では「当社」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-055",
+   "front": "当社",
+   "reading": "とうしゃ",
+   "meaning": "our company (neutral)",
+   "example": "当社は今年度、海外売上比率が五割を超えた。",
+   "exampleEn": "This fiscal year, our overseas sales ratio exceeded 50 percent.",
+   "note": "謙譲の意味はなく中立的。社内文書・IR・規約などで使用。顧客への手紙では「弊社」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-056",
+   "front": "先方",
+   "reading": "せんぽう",
+   "meaning": "the other party (client side)",
+   "example": "先方から見積もりの再提出を求められました。",
+   "exampleEn": "The client has asked us to resubmit the estimate.",
+   "note": "社内で取引相手を指す言葉。相手本人に向かっては使わない",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-057",
+   "front": "ご苦労様 vs お疲れ様",
+   "reading": "ごくろうさま / おつかれさま",
+   "meaning": "\"thanks for your work\" — direction matters",
+   "example": "部長、長期の海外出張お疲れ様でした。",
+   "exampleEn": "Thank you for your hard work on the long overseas trip, sir.",
+   "note": "「ご苦労様」は目上から目下へのねぎらい。上司・社外には「お疲れ様です」",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-058",
+   "front": "恐れ入る",
+   "reading": "おそれいる",
+   "meaning": "be grateful / sorry to trouble",
+   "example": "わざわざお越しいただき、恐れ入ります。",
+   "exampleEn": "Thank you so much for taking the trouble to come.",
+   "note": "感謝と恐縮を兼ねる謙譲表現。「すみません」の改まった代替",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-059",
+   "front": "差し支え",
+   "reading": "さしつかえ",
+   "meaning": "hindrance, inconvenience",
+   "example": "当日の写真をウェブに掲載しても差し支えございませんか。",
+   "exampleEn": "Would it be any problem if we posted photos from the day online?",
+   "note": "「差し支えなければ」「差し支えございません」。「問題ない」の丁寧な言い換え",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-060",
+   "front": "ご足労",
+   "reading": "ごそくろう",
+   "meaning": "trouble of coming",
+   "example": "遠方よりご足労いただき、誠にありがとうございます。",
+   "exampleEn": "Thank you very much for coming all this way.",
+   "note": "相手にわざわざ来てもらうことへの感謝・恐縮。「ご足労をおかけしますが」「ご足労いただき」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-061",
+   "front": "ご容赦",
+   "reading": "ごようしゃ",
+   "meaning": "forgiveness, pardon",
+   "example": "作業中はご不便をおかけしますが、ご容赦ください。",
+   "exampleEn": "We ask your forgiveness for any inconvenience during the work.",
+   "note": "許しを請う改まった語。「ご容赦ください」「何卒ご容赦のほど」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-062",
+   "front": "ご一読",
+   "reading": "ごいちどく",
+   "meaning": "a read-through",
+   "example": "添付の報告書をご一読いただけますと幸いです。",
+   "exampleEn": "I would appreciate it if you could read through the attached report.",
+   "note": "「ご一読ください」「ご一読いただけますと幸いです」。軽く目を通してほしい時",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-063",
+   "front": "お手すき",
+   "reading": "おてすき",
+   "meaning": "when free",
+   "example": "お手すきの際に、ご確認いただければ幸いです。",
+   "exampleEn": "Please check it when you have a free moment.",
+   "note": "「お手すきの際に」: 急ぎでない依頼に添える。「暇な時」の丁寧形",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-064",
+   "front": "ご放念ください",
+   "reading": "ごほうねんください",
+   "meaning": "please disregard / don't worry about it",
+   "example": "先ほどのメールは誤送信のため、ご放念ください。",
+   "exampleEn": "Please disregard my previous email, which was sent in error.",
+   "note": "誤送信や不要になった依頼を取り消す改まった表現",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-065",
+   "front": "お納めください",
+   "reading": "おおさめください",
+   "meaning": "please accept (a gift, payment)",
+   "example": "心ばかりの品ですが、どうぞお納めください。",
+   "exampleEn": "It's just a small token, but please accept it.",
+   "note": "贈り物・謝礼を渡す時。「つまらないものですが」より現代的に「心ばかりですが」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-066",
+   "front": "ご笑納",
+   "reading": "ごしょうのう",
+   "meaning": "kindly accept (a modest gift)",
+   "example": "ささやかな品ではございますが、ご笑納ください。",
+   "exampleEn": "It's only a modest gift, but please kindly accept it.",
+   "note": "書面語。「笑ってお納めください」と謙遜する。「ご笑納ください」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-067",
+   "front": "ご臨席",
+   "reading": "ごりんせき",
+   "meaning": "attendance (at a ceremony)",
+   "example": "ご臨席を賜りました皆様に、心より御礼申し上げます。",
+   "exampleEn": "We sincerely thank all of you who have honored us with your attendance.",
+   "note": "式典・会合に目上が出席することの最上級敬語。「ご臨席を賜り」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-068",
+   "front": "ご来社",
+   "reading": "ごらいしゃ",
+   "meaning": "visit to our company",
+   "example": "ご来社の際は、受付にてお名前をお伝えください。",
+   "exampleEn": "When visiting our company, please give your name at reception.",
+   "note": "相手が自社に来ること。「ご来社いただく」。相手社へ行くのは「御社に伺う」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-069",
+   "front": "どちら様でしょうか",
+   "reading": "どちらさまでしょうか",
+   "meaning": "may I ask who's calling/visiting?",
+   "example": "恐れ入りますが、どちら様でいらっしゃいますか。",
+   "exampleEn": "Excuse me, may I ask who you are?",
+   "note": "「誰ですか」「どなたですか」より丁寧。電話では「恐れ入りますが、どちら様でしょうか」",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-070",
+   "front": "すみません vs 申し訳ございません",
+   "reading": "すみません / もうしわけございません",
+   "meaning": "\"sorry\" — business register",
+   "example": "ご迷惑をおかけし、申し訳ございません。",
+   "exampleEn": "We apologize for the inconvenience caused.",
+   "note": "社外・目上への謝罪は「申し訳ございません」。「すみません」は軽すぎる",
+   "level": "N2"
+  },
+  {
+   "id": "kg1-071",
+   "front": "休みをいただく（身内）",
+   "reading": "やすみをいただく",
+   "meaning": "be off (referring to own staff)",
+   "example": "あいにく鈴木は本日お休みをいただいております。",
+   "exampleEn": "Unfortunately, Suzuki is off today.",
+   "note": "社外には自社社員の休みを「休みを取っております」「休暇をいただいております」とへりくだる",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-072",
+   "front": "お待ちしてください（誤用）",
+   "reading": "おまちしてください",
+   "meaning": "incorrect: humble form in a request",
+   "example": "こちらで少々お待ちいただけますか。",
+   "exampleEn": "Could you wait here for a moment?",
+   "note": "「お〜する」は謙譲語なので相手への依頼に使えない。○お待ちください・お待ちいただけますか",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-073",
+   "front": "存じ上げる vs 存じる",
+   "reading": "ぞんじあげる / ぞんじる",
+   "meaning": "know (person vs thing)",
+   "example": "その件でしたら、私も存じております。",
+   "exampleEn": "If it's about that matter, I'm aware of it too.",
+   "note": "人を知っている時は「存じ上げております」、事柄は「存じております」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-074",
+   "front": "申し伝える",
+   "reading": "もうしつたえる",
+   "meaning": "pass on (a message) humbly",
+   "example": "戻りましたら、お電話があった旨を申し伝えます。",
+   "exampleEn": "When he returns, I'll tell him you called.",
+   "note": "伝言を自社の人に伝える時の謙譲表現。「申し伝えます」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-075",
+   "front": "お目通し",
+   "reading": "おめどおし",
+   "meaning": "look over, glance through",
+   "example": "会議の前に、議事案にお目通しいただけますか。",
+   "exampleEn": "Could you look over the draft agenda before the meeting?",
+   "note": "「お目通しください」「お目通しいただけますか」。書類を確認してもらう依頼",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-076",
+   "front": "ご承知おき",
+   "reading": "ごしょうちおき",
+   "meaning": "please be aware",
+   "example": "納期が三日ほど遅れる見込みですので、ご承知おきください。",
+   "exampleEn": "Please be aware that delivery is expected to be about three days late.",
+   "note": "「ご承知おきください」: あらかじめ了承してほしい事項を伝える。目上にはやや一方的なので「ご承知おきいただけますと幸いです」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-077",
+   "front": "拝察",
+   "reading": "はいさつ",
+   "meaning": "presume (humbly)",
+   "example": "年度末でご多忙のことと拝察いたします。",
+   "exampleEn": "I imagine you must be very busy at the end of the fiscal year.",
+   "note": "「推察する」の謙譲語。「ご多忙のことと拝察いたします」など手紙で使う",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-078",
+   "front": "ご高覧",
+   "reading": "ごこうらん",
+   "meaning": "your viewing (very formal)",
+   "example": "新製品カタログをお送りしますので、ご高覧ください。",
+   "exampleEn": "We are sending our new product catalog for your perusal.",
+   "note": "「見ること」の最上級尊敬語。案内状・カタログ送付で「ご高覧ください」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-079",
+   "front": "ご厚意",
+   "reading": "ごこうい",
+   "meaning": "kindness, goodwill",
+   "example": "ご厚意に甘えて、資料をお借りいたします。",
+   "exampleEn": "Taking you up on your kind offer, I'll borrow the materials.",
+   "note": "相手の親切を高めて言う。「ご厚意に甘えて」「ご厚意に感謝いたします」",
+   "level": "BJT"
+  },
+  {
+   "id": "kg1-080",
+   "front": "お言葉に甘えて",
+   "reading": "おことばにあまえて",
+   "meaning": "taking you up on your kind offer",
+   "example": "では、お言葉に甘えて先に失礼いたします。",
+   "exampleEn": "Then, taking you up on your kind offer, I'll leave ahead of you.",
+   "note": "相手の申し出を受け入れる時の謙虚な前置き",
+   "level": "BJT"
+  }
+ ]
+}

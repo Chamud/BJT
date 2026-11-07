@@ -1,0 +1,1007 @@
+{
+  "id": "kanji-n1-1",
+  "title": "N1 kanji for business 1",
+  "deck": "kanji",
+  "cards": [
+    {
+      "id": "kj1-001",
+      "front": "遂",
+      "reading": "すい / と(げる)",
+      "meaning": "accomplish, carry out",
+      "example": "責任を持って、担当業務を遂行してください。",
+      "exampleEn": "Please carry out your assigned duties responsibly.",
+      "note": "遂行(すいこう) 未遂(みすい) 成し遂げる(なしとげる)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-002",
+      "front": "該",
+      "reading": "がい",
+      "meaning": "the said; applicable",
+      "example": "該当する項目に印をつけて、ご返送ください。",
+      "exampleEn": "Please mark the applicable items and send the form back.",
+      "note": "該当(がいとう) 当該(とうがい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-003",
+      "front": "循",
+      "reading": "じゅん",
+      "meaning": "circulate, follow",
+      "example": "値下げ競争の悪循環から、早く抜け出したい。",
+      "exampleEn": "We want to break out of the vicious cycle of price cutting.",
+      "note": "循環(じゅんかん) 悪循環(あくじゅんかん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-004",
+      "front": "携",
+      "reading": "けい / たずさ(わる)",
+      "meaning": "carry; take part in",
+      "example": "入社以来、一貫して商品開発に携わってきました。",
+      "exampleEn": "Since joining, I have consistently worked on product development.",
+      "note": "提携(ていけい) 連携(れんけい) 携わる(たずさわる)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-005",
+      "front": "抑",
+      "reading": "よく / おさ(える)",
+      "meaning": "restrain, hold down",
+      "example": "残業を抑制し、人件費の削減につなげる。",
+      "exampleEn": "We'll curb overtime to help cut labor costs.",
+      "note": "抑制(よくせい) 抑止(よくし)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-006",
+      "front": "賄",
+      "reading": "わい / まかな(う)",
+      "meaning": "bribe; cover (costs)",
+      "example": "イベントの運営費は、協賛金で賄っている。",
+      "exampleEn": "The event's running costs are covered by sponsorship money.",
+      "note": "賄賂(わいろ) 収賄(しゅうわい) 賄う(まかなう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-007",
+      "front": "繕",
+      "reading": "ぜん / つくろ(う)",
+      "meaning": "repair, mend",
+      "example": "本社ビルの修繕費が、予想以上にかさんだ。",
+      "exampleEn": "Repair costs for the head office building ran higher than expected.",
+      "note": "修繕(しゅうぜん) 営繕(えいぜん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-008",
+      "front": "潤",
+      "reading": "じゅん / うるお(う)",
+      "meaning": "moisten; profit",
+      "example": "潤沢な手元資金を背景に、積極的な投資を行う。",
+      "exampleEn": "Backed by ample cash on hand, we'll invest aggressively.",
+      "note": "利潤(りじゅん) 潤沢(じゅんたく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-009",
+      "front": "蓄",
+      "reading": "ちく / たくわ(える)",
+      "meaning": "store, accumulate",
+      "example": "現場で蓄積したノウハウを、社内で共有する。",
+      "exampleEn": "We share across the company the know-how accumulated on site.",
+      "note": "蓄積(ちくせき) 備蓄(びちく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-010",
+      "front": "措",
+      "reading": "そ",
+      "meaning": "place; measure",
+      "example": "再発防止のため、必要な措置を講じます。",
+      "exampleEn": "We will take the necessary measures to prevent a recurrence.",
+      "note": "措置(そち) 措定(そてい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-011",
+      "front": "擁",
+      "reading": "よう",
+      "meaning": "embrace, have, support",
+      "example": "同社は、優秀な技術者を300名以上擁している。",
+      "exampleEn": "The company has more than 300 highly skilled engineers.",
+      "note": "擁する(ようする) 擁護(ようご) 擁立(ようりつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-012",
+      "front": "括",
+      "reading": "かつ",
+      "meaning": "bundle, sum up",
+      "example": "年間契約の場合、代金は一括でお支払いいただけます。",
+      "exampleEn": "With an annual contract, you can pay in one lump sum.",
+      "note": "一括(いっかつ) 総括(そうかつ) 包括(ほうかつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-013",
+      "front": "斡",
+      "reading": "あつ",
+      "meaning": "mediate",
+      "example": "業界団体の斡旋で、新たな提携先が見つかった。",
+      "exampleEn": "Through the industry association's mediation, we found a new partner.",
+      "note": "斡旋(あっせん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-014",
+      "front": "顧",
+      "reading": "こ / かえり(みる)",
+      "meaning": "look back; patronage",
+      "example": "顧客情報の取り扱いには、十分注意してください。",
+      "exampleEn": "Please take great care when handling customer information.",
+      "note": "顧客(こきゃく) 顧問(こもん) 顧みる(かえりみる)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-015",
+      "front": "拠",
+      "reading": "きょ・こ",
+      "meaning": "basis, base",
+      "example": "東南アジアに、新たな生産拠点を設ける計画だ。",
+      "exampleEn": "We plan to set up a new production base in Southeast Asia.",
+      "note": "拠点(きょてん) 根拠(こんきょ) 証拠(しょうこ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-016",
+      "front": "剰",
+      "reading": "じょう",
+      "meaning": "surplus, excess",
+      "example": "過剰在庫を減らすため、発注量を見直した。",
+      "exampleEn": "We revised order volumes to reduce excess inventory.",
+      "note": "過剰(かじょう) 余剰(よじょう) 剰余金(じょうよきん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-017",
+      "front": "譲",
+      "reading": "じょう / ゆず(る)",
+      "meaning": "transfer, yield",
+      "example": "価格面では、これ以上の譲歩は難しい状況です。",
+      "exampleEn": "On price, any further concession would be difficult.",
+      "note": "譲渡(じょうと) 譲歩(じょうほ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-018",
+      "front": "緩",
+      "reading": "かん / ゆる(い)",
+      "meaning": "loose, ease",
+      "example": "国内景気は、緩やかな回復基調にある。",
+      "exampleEn": "The domestic economy is on a gradual recovery trend.",
+      "note": "緩和(かんわ) 緩衝(かんしょう) 緩やか(ゆるやか)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-019",
+      "front": "弊",
+      "reading": "へい",
+      "meaning": "humble (our); harm",
+      "example": "縦割り組織の弊害が、目立つようになってきた。",
+      "exampleEn": "The drawbacks of a siloed organization have become noticeable.",
+      "note": "弊社(へいしゃ) 弊害(へいがい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-020",
+      "front": "稟",
+      "reading": "りん",
+      "meaning": "report to a superior",
+      "example": "稟議書に必要事項を記入し、課長に回した。",
+      "exampleEn": "I filled out the approval form and passed it to my manager.",
+      "note": "稟議(りんぎ) 稟議書(りんぎしょ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-021",
+      "front": "渉",
+      "reading": "しょう",
+      "meaning": "cross; deal with",
+      "example": "渉外担当として、官公庁との調整にあたっている。",
+      "exampleEn": "As external relations officer, I handle coordination with government agencies.",
+      "note": "交渉(こうしょう) 渉外(しょうがい) 干渉(かんしょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-022",
+      "front": "衝",
+      "reading": "しょう",
+      "meaning": "collide; key point",
+      "example": "部門間の意見の衝突を調整するのが、私の役目だ。",
+      "exampleEn": "My job is to mediate clashes of opinion between departments.",
+      "note": "折衝(せっしょう) 衝突(しょうとつ) 衝撃(しょうげき)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-023",
+      "front": "託",
+      "reading": "たく",
+      "meaning": "entrust",
+      "example": "投資信託の販売額が、前年を大きく上回った。",
+      "exampleEn": "Sales of investment trusts far exceeded last year's.",
+      "note": "委託(いたく) 信託(しんたく) 託す(たくす)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-024",
+      "front": "暫",
+      "reading": "ざん / しばら(く)",
+      "meaning": "for a while",
+      "example": "暫定的な措置として、窓口の受付時間を短縮します。",
+      "exampleEn": "As an interim measure, we will shorten counter hours.",
+      "note": "暫定(ざんてい) 暫時(ざんじ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-025",
+      "front": "是",
+      "reading": "ぜ",
+      "meaning": "right, correct",
+      "example": "長時間労働の是正に向けて、勤務体制を見直す。",
+      "exampleEn": "We'll overhaul work arrangements to correct long working hours.",
+      "note": "是正(ぜせい) 是非(ぜひ) 是認(ぜにん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-026",
+      "front": "履",
+      "reading": "り / は(く)",
+      "meaning": "perform; tread",
+      "example": "先方が契約を履行しない場合に備えておく。",
+      "exampleEn": "We'll prepare for the case where the other party fails to perform the contract.",
+      "note": "履行(りこう) 履歴(りれき) 履歴書(りれきしょ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-027",
+      "front": "遵",
+      "reading": "じゅん",
+      "meaning": "obey, follow",
+      "example": "社員一人ひとりが、社内規程を遵守しなければならない。",
+      "exampleEn": "Every employee must comply with company regulations.",
+      "note": "遵守(じゅんしゅ) 遵法(じゅんぽう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-028",
+      "front": "抵",
+      "reading": "てい",
+      "meaning": "resist; touch on",
+      "example": "この広告表現は、法律に抵触するおそれがある。",
+      "exampleEn": "This advertising wording may violate the law.",
+      "note": "抵触(ていしょく) 抵当(ていとう) 抵抗(ていこう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-029",
+      "front": "賠",
+      "reading": "ばい",
+      "meaning": "compensate",
+      "example": "事故の賠償金は、加入している保険から支払われる。",
+      "exampleEn": "Accident compensation will be paid by our insurance.",
+      "note": "賠償(ばいしょう) 賠償金(ばいしょうきん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-030",
+      "front": "訴",
+      "reading": "そ / うった(える)",
+      "meaning": "sue, appeal",
+      "example": "元社員が、未払い賃金を求めて会社を提訴した。",
+      "exampleEn": "A former employee sued the company for unpaid wages.",
+      "note": "訴訟(そしょう) 提訴(ていそ) 起訴(きそ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-031",
+      "front": "款",
+      "reading": "かん",
+      "meaning": "article, clause",
+      "example": "定款を変更して、事業目的に不動産業を追加した。",
+      "exampleEn": "We amended the articles of incorporation to add real estate to our business purposes.",
+      "note": "約款(やっかん) 定款(ていかん) 借款(しゃっかん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-032",
+      "front": "免",
+      "reading": "めん / まぬか(れる)",
+      "meaning": "exempt, dismiss",
+      "example": "一定の条件を満たせば、手数料が免除されます。",
+      "exampleEn": "If certain conditions are met, the fee is waived.",
+      "note": "免責(めんせき) 免除(めんじょ) 免許(めんきょ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-033",
+      "front": "債",
+      "reading": "さい",
+      "meaning": "debt, bond",
+      "example": "設備資金は、社債の発行によって調達した。",
+      "exampleEn": "Funds for equipment were raised by issuing corporate bonds.",
+      "note": "債権(さいけん) 債務(さいむ) 社債(しゃさい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-034",
+      "front": "償",
+      "reading": "しょう / つぐな(う)",
+      "meaning": "compensate, redeem",
+      "example": "保証期間内であれば、無償で修理いたします。",
+      "exampleEn": "Within the warranty period, we will repair it free of charge.",
+      "note": "償却(しょうきゃく) 償還(しょうかん) 無償(むしょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-035",
+      "front": "還",
+      "reading": "かん",
+      "meaning": "return",
+      "example": "利益の一部を、配当として株主に還元する。",
+      "exampleEn": "Part of the profit is returned to shareholders as dividends.",
+      "note": "還元(かんげん) 返還(へんかん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-036",
+      "front": "赴",
+      "reading": "ふ / おもむ(く)",
+      "meaning": "proceed to",
+      "example": "担当者が直接現地に赴き、状況を確認した。",
+      "exampleEn": "The person in charge went to the site directly to check the situation.",
+      "note": "赴任(ふにん) 赴く(おもむく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-037",
+      "front": "遷",
+      "reading": "せん",
+      "meaning": "move, change",
+      "example": "創業以来の組織体制の変遷を、資料にまとめた。",
+      "exampleEn": "I summarized in a document how our organization has changed since founding.",
+      "note": "左遷(させん) 変遷(へんせん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-038",
+      "front": "嘱",
+      "reading": "しょく",
+      "meaning": "entrust; request",
+      "example": "外部の専門家に、審査委員を委嘱した。",
+      "exampleEn": "We commissioned an outside expert as a review committee member.",
+      "note": "嘱託(しょくたく) 委嘱(いしょく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-039",
+      "front": "懲",
+      "reading": "ちょう / こ(りる)",
+      "meaning": "punish; learn a lesson",
+      "example": "就業規則に基づき、当該社員を懲戒解雇とした。",
+      "exampleEn": "Under the work rules, the employee was dismissed on disciplinary grounds.",
+      "note": "懲戒(ちょうかい) 懲罰(ちょうばつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-040",
+      "front": "酬",
+      "reading": "しゅう",
+      "meaning": "reward, repay",
+      "example": "成果に応じた報酬制度を、来年度から導入する。",
+      "exampleEn": "We'll introduce a performance-based pay system from next fiscal year.",
+      "note": "報酬(ほうしゅう) 応酬(おうしゅう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-041",
+      "front": "奨",
+      "reading": "しょう",
+      "meaning": "encourage, recommend",
+      "example": "パスワードは、定期的に変更することを推奨します。",
+      "exampleEn": "We recommend changing passwords regularly.",
+      "note": "推奨(すいしょう) 奨励(しょうれい) 奨学金(しょうがくきん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-042",
+      "front": "督",
+      "reading": "とく",
+      "meaning": "supervise; urge",
+      "example": "支払いが遅れている取引先に、督促状を送った。",
+      "exampleEn": "We sent a payment reminder to a client who is behind on payment.",
+      "note": "督促(とくそく) 監督(かんとく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-043",
+      "front": "促",
+      "reading": "そく / うなが(す)",
+      "meaning": "urge, promote",
+      "example": "テレワークの導入を促進するため、補助金を設けた。",
+      "exampleEn": "We set up a subsidy to promote the adoption of remote work.",
+      "note": "促進(そくしん) 販促(はんそく) 催促(さいそく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-044",
+      "front": "搬",
+      "reading": "はん",
+      "meaning": "carry, transport",
+      "example": "展示品の搬入は、開催前日の午後に行います。",
+      "exampleEn": "Exhibits will be brought in on the afternoon before opening.",
+      "note": "搬入(はんにゅう) 搬出(はんしゅつ) 運搬(うんぱん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-045",
+      "front": "卸",
+      "reading": "おろし / おろ(す)",
+      "meaning": "wholesale",
+      "example": "卸値が上がったため、小売価格も改定する予定だ。",
+      "exampleEn": "Since wholesale prices rose, we plan to revise retail prices too.",
+      "note": "卸売(おろしうり) 卸値(おろしね) 棚卸し(たなおろし)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-046",
+      "front": "繁",
+      "reading": "はん",
+      "meaning": "busy, thriving",
+      "example": "年末の繁忙期に備え、アルバイトを増員した。",
+      "exampleEn": "We hired more part-timers ahead of the year-end rush.",
+      "note": "繁忙期(はんぼうき) 繁盛(はんじょう) 頻繁(ひんぱん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-047",
+      "front": "閑",
+      "reading": "かん",
+      "meaning": "quiet, leisure",
+      "example": "閑散期を利用して、全社員向けの研修を実施する。",
+      "exampleEn": "We'll use the off-season to run training for all staff.",
+      "note": "閑散期(かんさんき) 閑散(かんさん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-048",
+      "front": "需",
+      "reading": "じゅ",
+      "meaning": "demand, need",
+      "example": "内需の回復が遅れ、国内販売は伸び悩んだ。",
+      "exampleEn": "With domestic demand slow to recover, domestic sales stagnated.",
+      "note": "需要(じゅよう) 需給(じゅきゅう) 内需(ないじゅ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-049",
+      "front": "寡",
+      "reading": "か",
+      "meaning": "few, scarce",
+      "example": "業界の寡占化が進み、新規参入が難しくなった。",
+      "exampleEn": "As the industry consolidated into an oligopoly, new entry became difficult.",
+      "note": "寡占(かせん) 寡黙(かもく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-050",
+      "front": "撤",
+      "reading": "てつ",
+      "meaning": "withdraw, remove",
+      "example": "批判を受けて、会社は担当役員の発言を撤回した。",
+      "exampleEn": "Following criticism, the company retracted the executive's remark.",
+      "note": "撤退(てったい) 撤回(てっかい) 撤廃(てっぱい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-051",
+      "front": "廃",
+      "reading": "はい / すた(れる)",
+      "meaning": "abolish, discard",
+      "example": "期限切れの在庫は、社内規定に従って廃棄する。",
+      "exampleEn": "Expired stock is disposed of according to company rules.",
+      "note": "廃止(はいし) 廃棄(はいき) 廃業(はいぎょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-052",
+      "front": "併",
+      "reading": "へい / あわ(せる)",
+      "meaning": "combine, together",
+      "example": "併せて、今後のスケジュールもご確認ください。",
+      "exampleEn": "Please also check the upcoming schedule.",
+      "note": "合併(がっぺい) 併用(へいよう) 併せて(あわせて)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-053",
+      "front": "融",
+      "reading": "ゆう",
+      "meaning": "melt; finance; flexible",
+      "example": "銀行から、運転資金の融資を受けることができた。",
+      "exampleEn": "We were able to get a working-capital loan from the bank.",
+      "note": "融資(ゆうし) 金融(きんゆう) 融通(ゆうずう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-054",
+      "front": "枠",
+      "reading": "わく",
+      "meaning": "frame, quota",
+      "example": "今年度の予算枠を超えないよう、支出を調整する。",
+      "exampleEn": "We'll adjust spending to stay within this year's budget allocation.",
+      "note": "予算枠(よさんわく) 枠組み(わくぐみ) 採用枠(さいようわく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-055",
+      "front": "監",
+      "reading": "かん",
+      "meaning": "oversee, inspect",
+      "example": "専門家の監修のもと、新人向けマニュアルを作成した。",
+      "exampleEn": "We created a manual for new hires under expert supervision.",
+      "note": "監査(かんさ) 監視(かんし) 監修(かんしゅう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-056",
+      "front": "露",
+      "reading": "ろ / つゆ",
+      "meaning": "expose; dew",
+      "example": "今回の事故で、管理体制の甘さが露呈した。",
+      "exampleEn": "This accident exposed weaknesses in our management system.",
+      "note": "露呈(ろてい) 披露(ひろう) 暴露(ばくろ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-057",
+      "front": "陳",
+      "reading": "ちん",
+      "meaning": "display; state",
+      "example": "新商品を、店頭の目立つ場所に陳列する。",
+      "exampleEn": "New products are displayed in prominent spots in the store.",
+      "note": "陳列(ちんれつ) 陳謝(ちんしゃ) 陳情(ちんじょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-058",
+      "front": "慮",
+      "reading": "りょ",
+      "meaning": "consider, think",
+      "example": "諸事情を考慮した上で、最終的な判断を下す。",
+      "exampleEn": "We'll make the final decision after considering all circumstances.",
+      "note": "配慮(はいりょ) 考慮(こうりょ) 遠慮(えんりょ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-059",
+      "front": "諮",
+      "reading": "し / はか(る)",
+      "meaning": "consult (a body)",
+      "example": "本件は、次回の取締役会に諮る予定です。",
+      "exampleEn": "This matter will be put to the next board meeting.",
+      "note": "諮問(しもん) 諮る(はかる)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-060",
+      "front": "審",
+      "reading": "しん",
+      "meaning": "examine, judge",
+      "example": "ご提出いただいた書類の審査には、2週間ほどかかります。",
+      "exampleEn": "Reviewing the documents you submitted takes about two weeks.",
+      "note": "審査(しんさ) 審議(しんぎ) 審判(しんぱん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-061",
+      "front": "拝",
+      "reading": "はい / おが(む)",
+      "meaning": "worship; humble prefix",
+      "example": "ご提案書を拝見し、大変参考になりました。",
+      "exampleEn": "I read your proposal and found it very helpful.",
+      "note": "拝受(はいじゅ) 拝見(はいけん) 拝察(はいさつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-062",
+      "front": "謹",
+      "reading": "きん / つつし(む)",
+      "meaning": "respectful, humble",
+      "example": "このたびの不手際につき、謹んでお詫び申し上げます。",
+      "exampleEn": "We sincerely apologize for this mishandling.",
+      "note": "謹啓(きんけい) 謹賀新年(きんがしんねん) 謹んで(つつしんで)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-063",
+      "front": "啓",
+      "reading": "けい",
+      "meaning": "open; enlighten",
+      "example": "安全意識の啓発のため、各職場にポスターを掲示した。",
+      "exampleEn": "Posters were put up in each workplace to raise safety awareness.",
+      "note": "拝啓(はいけい) 啓発(けいはつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-064",
+      "front": "賜",
+      "reading": "し / たまわ(る)",
+      "meaning": "grant, bestow",
+      "example": "平素より格別のご高配を賜り、厚く御礼申し上げます。",
+      "exampleEn": "We are deeply grateful for your continued special consideration.",
+      "note": "賜る(たまわる) 恩賜(おんし)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-065",
+      "front": "迅",
+      "reading": "じん",
+      "meaning": "swift",
+      "example": "お客様からのお問い合わせには、迅速に対応いたします。",
+      "exampleEn": "We respond promptly to customer inquiries.",
+      "note": "迅速(じんそく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-066",
+      "front": "騰",
+      "reading": "とう",
+      "meaning": "rise (in price)",
+      "example": "原油価格の高騰が、企業収益を圧迫している。",
+      "exampleEn": "Soaring oil prices are squeezing corporate earnings.",
+      "note": "高騰(こうとう) 急騰(きゅうとう) 騰落(とうらく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-067",
+      "front": "繰",
+      "reading": "そう / く(る)",
+      "meaning": "reel; carry over",
+      "example": "未使用の予算は、翌年度に繰り越すことができない。",
+      "exampleEn": "Unused budget cannot be carried over to the next fiscal year.",
+      "note": "繰り越し(くりこし) 繰り延べ(くりのべ) 資金繰り(しきんぐり)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-068",
+      "front": "堅",
+      "reading": "けん / かた(い)",
+      "meaning": "firm, solid",
+      "example": "国内向けの販売は、引き続き堅調に推移している。",
+      "exampleEn": "Domestic sales continue to hold firm.",
+      "note": "堅調(けんちょう) 中堅(ちゅうけん) 堅実(けんじつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-069",
+      "front": "鈍",
+      "reading": "どん / にぶ(い)",
+      "meaning": "dull, slow",
+      "example": "中国経済の成長鈍化が、輸出に影響している。",
+      "exampleEn": "China's slowing growth is affecting exports.",
+      "note": "鈍化(どんか) 鈍い(にぶい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-070",
+      "front": "懸",
+      "reading": "けん・け / か(ける)",
+      "meaning": "hang; concern",
+      "example": "部品の供給不足が長期化することが懸念される。",
+      "exampleEn": "There are concerns that the parts shortage will be prolonged.",
+      "note": "懸念(けねん) 懸案(けんあん) 懸賞(けんしょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-071",
+      "front": "衰",
+      "reading": "すい / おとろ(える)",
+      "meaning": "decline, weaken",
+      "example": "地場産業の衰退を食い止める対策が急務だ。",
+      "exampleEn": "Measures to halt the decline of local industry are urgently needed.",
+      "note": "衰退(すいたい) 減衰(げんすい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-072",
+      "front": "挫",
+      "reading": "ざ",
+      "meaning": "sprain; be thwarted",
+      "example": "資金難から、新工場の建設計画が頓挫した。",
+      "exampleEn": "The plan to build a new plant stalled due to funding problems.",
+      "note": "頓挫(とんざ) 挫折(ざせつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-073",
+      "front": "稼",
+      "reading": "か / かせ(ぐ)",
+      "meaning": "earn; operate",
+      "example": "工場の稼働率は、80％台で推移している。",
+      "exampleEn": "The plant's utilization rate is hovering in the 80% range.",
+      "note": "稼働(かどう) 稼ぐ(かせぐ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-074",
+      "front": "搭",
+      "reading": "とう",
+      "meaning": "board, load",
+      "example": "新モデルには、最新のAI機能が搭載されている。",
+      "exampleEn": "The new model is equipped with the latest AI features.",
+      "note": "搭載(とうさい) 搭乗(とうじょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-075",
+      "front": "漏",
+      "reading": "ろう / も(れる)",
+      "meaning": "leak, omit",
+      "example": "遺漏のないよう、申請手続きを再確認してください。",
+      "exampleEn": "Please double-check the application procedure so nothing is missed.",
+      "note": "漏洩(ろうえい) 遺漏(いろう) 漏れ(もれ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-076",
+      "front": "為",
+      "reading": "い",
+      "meaning": "do; for the sake of",
+      "example": "為替の変動が、輸出企業の業績を大きく左右する。",
+      "exampleEn": "Exchange-rate swings greatly affect exporters' results.",
+      "note": "為替(かわせ) 行為(こうい) 作為(さくい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-077",
+      "front": "枢",
+      "reading": "すう",
+      "meaning": "pivot, hub",
+      "example": "彼は入社10年で、経営の中枢を担う人物となった。",
+      "exampleEn": "Ten years after joining, he has become central to management.",
+      "note": "中枢(ちゅうすう) 枢要(すうよう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-078",
+      "front": "幹",
+      "reading": "かん / みき",
+      "meaning": "trunk, core",
+      "example": "基幹システムの刷新には、多額の費用がかかる。",
+      "exampleEn": "Overhauling the core business system costs a great deal.",
+      "note": "基幹(きかん) 幹部(かんぶ) 幹事(かんじ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-079",
+      "front": "傘",
+      "reading": "さん / かさ",
+      "meaning": "umbrella",
+      "example": "経営再建のため、同社は大手商社の傘下に入った。",
+      "exampleEn": "To rebuild its business, the company came under a major trading house's umbrella.",
+      "note": "傘下(さんか)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-080",
+      "front": "閥",
+      "reading": "ばつ",
+      "meaning": "faction, clique",
+      "example": "社内の派閥争いが、意思決定を遅らせている。",
+      "exampleEn": "Factional infighting is slowing decision-making.",
+      "note": "派閥(はばつ) 財閥(ざいばつ) 学閥(がくばつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-081",
+      "front": "癒",
+      "reading": "ゆ / い(やす)",
+      "meaning": "heal; adhere",
+      "example": "業者との癒着を防ぐため、担当者を定期的に替える。",
+      "exampleEn": "To prevent cozy ties with vendors, we rotate the staff in charge.",
+      "note": "癒着(ゆちゃく) 癒やし(いやし)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-082",
+      "front": "偽",
+      "reading": "ぎ / いつわ(る)",
+      "meaning": "false, fake",
+      "example": "虚偽の報告を行った社員は、処分の対象となる。",
+      "exampleEn": "Employees who file false reports are subject to discipline.",
+      "note": "偽装(ぎそう) 虚偽(きょぎ) 偽造(ぎぞう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-083",
+      "front": "窮",
+      "reading": "きゅう / きわ(める)",
+      "meaning": "extreme; hardship",
+      "example": "主要取引先の倒産で、会社は窮地に立たされた。",
+      "exampleEn": "A major client's bankruptcy put the company in a tight spot.",
+      "note": "窮地(きゅうち) 困窮(こんきゅう) 窮状(きゅうじょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-084",
+      "front": "衡",
+      "reading": "こう",
+      "meaning": "balance",
+      "example": "収支の均衡を保つため、経費全体を見直す。",
+      "exampleEn": "We'll review all expenses to keep income and spending balanced.",
+      "note": "均衡(きんこう) 平衡(へいこう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-085",
+      "front": "妥",
+      "reading": "だ",
+      "meaning": "peaceful; agree",
+      "example": "今年の労使交渉は、3％の賃上げで妥結した。",
+      "exampleEn": "This year's labor talks were settled with a 3% wage increase.",
+      "note": "妥当(だとう) 妥協(だきょう) 妥結(だけつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-086",
+      "front": "拘",
+      "reading": "こう / こだわ(る)",
+      "meaning": "seize, restrict",
+      "example": "拘束時間が長いわりに、給与が低いという不満がある。",
+      "exampleEn": "There are complaints that pay is low given the long hours.",
+      "note": "拘束(こうそく) 拘泥(こうでい) 拘る(こだわる)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-087",
+      "front": "粛",
+      "reading": "しゅく",
+      "meaning": "solemn, strict",
+      "example": "不祥事を受けて、社内の会食を当面自粛している。",
+      "exampleEn": "After the scandal, company dinners are suspended for now.",
+      "note": "粛々と(しゅくしゅくと) 自粛(じしゅく) 綱紀粛正(こうきしゅくせい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-088",
+      "front": "緻",
+      "reading": "ち",
+      "meaning": "fine, minute",
+      "example": "緻密な市場調査に基づいて、販売戦略を立てる。",
+      "exampleEn": "We build our sales strategy on detailed market research.",
+      "note": "緻密(ちみつ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-089",
+      "front": "抽",
+      "reading": "ちゅう",
+      "meaning": "extract, draw",
+      "example": "アンケートの回答から、主な課題を抽出した。",
+      "exampleEn": "We extracted the main issues from the survey responses.",
+      "note": "抽出(ちゅうしゅつ) 抽選(ちゅうせん) 抽象(ちゅうしょう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-090",
+      "front": "煩",
+      "reading": "はん / わずら(わしい)",
+      "meaning": "trouble, bother",
+      "example": "経費の申請手続きが煩雑なので、簡素化を検討している。",
+      "exampleEn": "Expense claim procedures are cumbersome, so we're considering simplifying them.",
+      "note": "煩雑(はんざつ) 煩わしい(わずらわしい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-091",
+      "front": "錯",
+      "reading": "さく",
+      "meaning": "mixed up, confused",
+      "example": "試行錯誤の末、ようやく製品化にこぎつけた。",
+      "exampleEn": "After much trial and error, we finally brought it to market.",
+      "note": "錯誤(さくご) 試行錯誤(しこうさくご) 交錯(こうさく)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-092",
+      "front": "貢",
+      "reading": "こう / みつ(ぐ)",
+      "meaning": "tribute, contribute",
+      "example": "地域社会への貢献を、経営理念の一つに掲げている。",
+      "exampleEn": "Contributing to the local community is one of our management principles.",
+      "note": "貢献(こうけん)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-093",
+      "front": "挽",
+      "reading": "ばん / ひ(く)",
+      "meaning": "pull; grind",
+      "example": "下半期で、上半期の遅れを何とか挽回したい。",
+      "exampleEn": "We want to make up for the first-half shortfall in the second half.",
+      "note": "挽回(ばんかい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-094",
+      "front": "培",
+      "reading": "ばい / つちか(う)",
+      "meaning": "cultivate",
+      "example": "これまで培ったノウハウを、新事業に生かす。",
+      "exampleEn": "We'll apply the know-how we've built up to the new business.",
+      "note": "培う(つちかう) 培養(ばいよう)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-095",
+      "front": "漸",
+      "reading": "ぜん",
+      "meaning": "gradually",
+      "example": "売上は漸減傾向にあり、早急な対策が求められる。",
+      "exampleEn": "Sales are gradually declining, and swift countermeasures are needed.",
+      "note": "漸増(ぜんぞう) 漸減(ぜんげん) 漸次(ぜんじ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-096",
+      "front": "逐",
+      "reading": "ちく",
+      "meaning": "pursue; one by one",
+      "example": "作業の進捗は、逐一報告するようにしてください。",
+      "exampleEn": "Please report on progress at every step.",
+      "note": "逐次(ちくじ) 逐一(ちくいち)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-097",
+      "front": "随",
+      "reading": "ずい",
+      "meaning": "follow; any",
+      "example": "ご質問やご相談は、メールにて随時受け付けております。",
+      "exampleEn": "We accept questions and inquiries by email at any time.",
+      "note": "随時(ずいじ) 随意(ずいい) 随所(ずいしょ)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-098",
+      "front": "頒",
+      "reading": "はん",
+      "meaning": "distribute",
+      "example": "会場では、製品カタログを無料で頒布いたします。",
+      "exampleEn": "Product catalogs will be distributed free of charge at the venue.",
+      "note": "頒布(はんぷ) 頒価(はんか)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-099",
+      "front": "勘",
+      "reading": "かん",
+      "meaning": "intuition; consider",
+      "example": "市場の動向を勘案して、販売価格を決定する。",
+      "exampleEn": "We'll set the selling price taking market trends into account.",
+      "note": "勘案(かんあん) 勘定(かんじょう) 勘違い(かんちがい)",
+      "level": "N1"
+    },
+    {
+      "id": "kj1-100",
+      "front": "匿",
+      "reading": "とく",
+      "meaning": "hide, conceal",
+      "example": "本音を聞くため、社員アンケートは匿名で実施します。",
+      "exampleEn": "To hear honest views, the staff survey is anonymous.",
+      "note": "匿名(とくめい) 秘匿(ひとく)",
+      "level": "N1"
+    }
+  ]
+}

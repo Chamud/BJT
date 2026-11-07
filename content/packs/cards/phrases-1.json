@@ -1,0 +1,907 @@
+{
+ "id": "phrases-1",
+ "title": "Business set phrases",
+ "deck": "phrase",
+ "cards": [
+  {
+   "id": "ph1-001",
+   "front": "いつもお世話になっております",
+   "reading": "いつもおせわになっております",
+   "meaning": "\"Thank you for your continued support\" — standard email/phone opener to clients",
+   "example": "いつもお世話になっております。ABC商事の山本です。",
+   "exampleEn": "Thank you for your continued support. This is Yamamoto from ABC Trading.",
+   "note": "Email/phone opener to anyone outside the company you already deal with. Not used internally (use お疲れ様です).",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-002",
+   "front": "初めてご連絡いたします",
+   "reading": "はじめてごれんらくいたします",
+   "meaning": "\"I'm contacting you for the first time\" — opener for a first email",
+   "example": "初めてご連絡いたします。株式会社ミドリの川口と申します。",
+   "exampleEn": "I'm contacting you for the first time. My name is Kawaguchi from Midori Inc.",
+   "note": "Replaces いつもお世話に… when there is no prior relationship. Often followed by how you got their contact.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-003",
+   "front": "ご無沙汰しております",
+   "reading": "ごぶさたしております",
+   "meaning": "\"It's been a long time\" — reopening contact",
+   "example": "大変ご無沙汰しております。お元気でいらっしゃいますか。",
+   "exampleEn": "It has been far too long. I hope you are well.",
+   "note": "Email or greeting when you haven't been in touch for months. Polite, slightly apologetic.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-004",
+   "front": "ご査収のほどよろしくお願いいたします",
+   "reading": "ごさしゅうのほどよろしくおねがいいたします",
+   "meaning": "\"Please check and accept the attached\" — when sending documents",
+   "example": "見積書を添付いたしましたので、ご査収のほどよろしくお願いいたします。",
+   "exampleEn": "I have attached the estimate; please review it.",
+   "note": "Used when attaching invoices, estimates, files to be examined and received. Formal email.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-005",
+   "front": "取り急ぎご連絡まで",
+   "reading": "とりいそぎごれんらくまで",
+   "meaning": "\"Just a quick note for now\" — closing a hasty update",
+   "example": "詳細は追ってお送りします。取り急ぎご連絡まで。",
+   "exampleEn": "I'll send details later. Just a quick note for now.",
+   "note": "Email closer for a brief, urgent message. Elliptical, so avoid toward very senior people; 取り急ぎご連絡申し上げます is safer.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-006",
+   "front": "取り急ぎお礼まで",
+   "reading": "とりいそぎおれいまで",
+   "meaning": "\"A quick thank-you for now\"",
+   "example": "本日は貴重なお時間をありがとうございました。取り急ぎお礼まで。",
+   "exampleEn": "Thank you for your valuable time today. Just a quick thank-you.",
+   "note": "Closing a short thank-you email sent promptly after a meeting. Same register caveat as 取り急ぎご連絡まで.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-007",
+   "front": "末筆ながら",
+   "reading": "まっぴつながら",
+   "meaning": "\"Last but not least\" — formal letter closing",
+   "example": "末筆ながら、貴社のますますのご発展をお祈り申し上げます。",
+   "exampleEn": "In closing, we wish your company continued prosperity.",
+   "note": "Introduces final wishes for the recipient's health/prosperity. Letter/formal email only.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-008",
+   "front": "引き続きよろしくお願いいたします",
+   "reading": "ひきつづきよろしくおねがいいたします",
+   "meaning": "\"I look forward to continuing to work with you\"",
+   "example": "今後の進め方については、引き続きよろしくお願いいたします。",
+   "exampleEn": "We look forward to continuing to work with you on the next steps.",
+   "note": "Common email closer in ongoing projects. Neutral-polite.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-009",
+   "front": "何卒よろしくお願い申し上げます",
+   "reading": "なにとぞよろしくおねがいもうしあげます",
+   "meaning": "\"Thank you very much in advance\" — most formal closer",
+   "example": "ご理解とご協力を、何卒よろしくお願い申し上げます。",
+   "exampleEn": "We sincerely ask for your understanding and cooperation.",
+   "note": "Strongest form of よろしくお願いします. Use for requests, apologies, important letters.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-010",
+   "front": "ご確認のほどよろしくお願いいたします",
+   "reading": "ごかくにんのほどよろしくおねがいいたします",
+   "meaning": "\"Please confirm/check this\"",
+   "example": "変更点を赤字で示しましたので、ご確認のほどよろしくお願いいたします。",
+   "exampleEn": "Changes are marked in red; please check them.",
+   "note": "Request closer. 〜のほど softens the request. Email/written.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-011",
+   "front": "ご検討のほどよろしくお願いいたします",
+   "reading": "ごけんとうのほどよろしくおねがいいたします",
+   "meaning": "\"We'd appreciate your consideration\"",
+   "example": "ご提案内容につきまして、ご検討のほどよろしくお願いいたします。",
+   "exampleEn": "We would appreciate your consideration of our proposal.",
+   "note": "Closing a proposal or quotation email. Implies a decision is expected later.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-012",
+   "front": "ご返信には及びません",
+   "reading": "ごへんしんにはおよびません",
+   "meaning": "\"No reply necessary\"",
+   "example": "本メールは確認のためですので、ご返信には及びません。",
+   "exampleEn": "This email is just for confirmation, so there is no need to reply.",
+   "note": "Polite way to tell the recipient not to reply; more courteous than 返信不要です.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-013",
+   "front": "お忙しいところ恐縮ですが",
+   "reading": "おいそがしいところきょうしゅくですが",
+   "meaning": "\"Sorry to trouble you when you're busy, but…\"",
+   "example": "お忙しいところ恐縮ですが、ご回答をお願いできますでしょうか。",
+   "exampleEn": "Sorry to trouble you while you're busy, but could you reply?",
+   "note": "Cushion before a request. Written and spoken, formal.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-014",
+   "front": "早速のご返信ありがとうございます",
+   "reading": "さっそくのごへんしんありがとうございます",
+   "meaning": "\"Thank you for your prompt reply\"",
+   "example": "早速のご返信ありがとうございます。日程はその日で承知しました。",
+   "exampleEn": "Thank you for your prompt reply. That date is fine with us.",
+   "note": "Opener when replying to a quick response. Email.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-015",
+   "front": "ご連絡が遅くなり申し訳ございません",
+   "reading": "ごれんらくがおそくなりもうしわけございません",
+   "meaning": "\"Sorry for the late reply\"",
+   "example": "ご連絡が遅くなり申し訳ございません。ご質問の件、回答いたします。",
+   "exampleEn": "Sorry for my late reply. Here are the answers to your questions.",
+   "note": "Opener when replying after a delay. Put before the main content.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-016",
+   "front": "下記のとおり",
+   "reading": "かきのとおり",
+   "meaning": "\"as follows (below)\"",
+   "example": "下記のとおり、説明会を開催いたします。",
+   "exampleEn": "We will hold an information session as described below.",
+   "note": "Introduces details listed below in notices/emails, usually ending in 記…以上.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-017",
+   "front": "標記の件",
+   "reading": "ひょうきのけん",
+   "meaning": "\"the matter in the subject line\"",
+   "example": "標記の件につきまして、下記のとおりご案内申し上げます。",
+   "exampleEn": "Regarding the above-captioned matter, we provide details below.",
+   "note": "Formal documents: refers to the title/subject. Not used in speech.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-018",
+   "front": "先日はありがとうございました",
+   "reading": "せんじつはありがとうございました",
+   "meaning": "\"Thank you for the other day\"",
+   "example": "先日はお忙しい中、お打ち合わせのお時間をいただきありがとうございました。",
+   "exampleEn": "Thank you for taking time for the meeting the other day despite your busy schedule.",
+   "note": "Opener of a follow-up email after a meeting/visit. Name the occasion for warmth.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-019",
+   "front": "ご不明な点がございましたら",
+   "reading": "ごふめいなてんがございましたら",
+   "meaning": "\"If anything is unclear…\"",
+   "example": "ご不明な点がございましたら、お気軽にお問い合わせください。",
+   "exampleEn": "If you have any questions, please feel free to contact us.",
+   "note": "Closer offering further help; usually followed by お気軽にお問い合わせください.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-020",
+   "front": "以上、よろしくお願いいたします",
+   "reading": "いじょう、よろしくおねがいいたします",
+   "meaning": "\"That's all — thank you\"",
+   "example": "会議資料は共有フォルダに保存しました。以上、よろしくお願いいたします。",
+   "exampleEn": "I saved the meeting materials in the shared folder. That's all, thank you.",
+   "note": "Signals end of content in internal/external emails. Neutral-polite.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-021",
+   "front": "行き違いの場合はご容赦ください",
+   "reading": "いきちがいのばあいはごようしゃください",
+   "meaning": "\"If our messages have crossed, please disregard\"",
+   "example": "本状と行き違いでご入金済みの場合は、ご容赦ください。",
+   "exampleEn": "If your payment has crossed with this notice, please disregard it.",
+   "note": "Used in payment reminders in case the customer already paid. Polite, face-saving.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-022",
+   "front": "時下ますますご清栄のこととお慶び申し上げます",
+   "reading": "じかますますごせいえいのこととおよろこびもうしあげます",
+   "meaning": "\"We trust this finds you prospering\" — formal letter greeting",
+   "example": "拝啓　時下ますますご清栄のこととお慶び申し上げます。",
+   "exampleEn": "Dear Sir/Madam, we trust this finds you in continued prosperity.",
+   "note": "Seasonless formal letter opener after 拝啓. Paper letters, notices; rare in casual email.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-023",
+   "front": "平素は格別のお引き立てを賜り",
+   "reading": "へいそはかくべつのおひきたてをたまわり",
+   "meaning": "\"Thank you for your continued patronage\"",
+   "example": "平素は格別のお引き立てを賜り、厚く御礼申し上げます。",
+   "exampleEn": "We are deeply grateful for your continued patronage.",
+   "note": "Formal letter/notice greeting to customers; often followed by 厚く御礼申し上げます.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-024",
+   "front": "ご多忙中とは存じますが",
+   "reading": "ごたぼうちゅうとはぞんじますが",
+   "meaning": "\"I realize you are very busy, but…\"",
+   "example": "ご多忙中とは存じますが、ご出席くださいますようお願い申し上げます。",
+   "exampleEn": "I realize you are very busy, but we kindly request your attendance.",
+   "note": "Cushion for requests to senior people/clients. More formal than お忙しいところ.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-025",
+   "front": "添付にてお送りいたします",
+   "reading": "てんぷにておおくりいたします",
+   "meaning": "\"I'm sending it as an attachment\"",
+   "example": "議事録を添付にてお送りいたします。",
+   "exampleEn": "I am sending the minutes as an attachment.",
+   "note": "Email phrase. にて = formal で.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-026",
+   "front": "お電話ありがとうございます",
+   "reading": "おでんわありがとうございます",
+   "meaning": "\"Thank you for calling\" — answering an external call",
+   "example": "お電話ありがとうございます。東西物産、営業部でございます。",
+   "exampleEn": "Thank you for calling. This is Tozai Bussan, sales department.",
+   "note": "Answer with company name: お電話ありがとうございます、〇〇でございます.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-027",
+   "front": "お電話が遠いようですが",
+   "reading": "おでんわがとおいようですが",
+   "meaning": "\"I'm having trouble hearing you\"",
+   "example": "恐れ入ります、お電話が遠いようですが、もう一度お願いできますか。",
+   "exampleEn": "Sorry, the line seems faint—could you say that again?",
+   "note": "Polite way to say the line is bad without blaming the caller's voice.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-028",
+   "front": "折り返しお電話いたします",
+   "reading": "おりかえしおでんわいたします",
+   "meaning": "\"I'll call you back\"",
+   "example": "担当者が戻り次第、折り返しお電話いたします。",
+   "exampleEn": "The person in charge will call you back as soon as they return.",
+   "note": "Offer to return a call. Confirm the number: 念のためお電話番号を伺えますか.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-029",
+   "front": "あいにく席を外しております",
+   "reading": "あいにくせきをはずしております",
+   "meaning": "\"Unfortunately they're away from their desk\"",
+   "example": "あいにく小林は席を外しております。",
+   "exampleEn": "Unfortunately, Kobayashi is away from her desk.",
+   "note": "Phone: colleague is temporarily away (in-office). Refer to colleague without さん.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-030",
+   "front": "ただいま他の電話に出ております",
+   "reading": "ただいまほかのでんわにでております",
+   "meaning": "\"They're on another line\"",
+   "example": "あいにく中村はただいま他の電話に出ております。",
+   "exampleEn": "Unfortunately, Nakamura is on another line right now.",
+   "note": "Phone. Follow with an offer: 終わり次第折り返しましょうか.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-031",
+   "front": "外出しております",
+   "reading": "がいしゅつしております",
+   "meaning": "\"They're out of the office\"",
+   "example": "井上は外出しておりまして、四時に戻る予定です。",
+   "exampleEn": "Inoue is out and is expected back at four.",
+   "note": "Phone. Add the return time if known: 〜時に戻る予定です.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-032",
+   "front": "よろしければご用件を承ります",
+   "reading": "よろしければごようけんをうけたまわります",
+   "meaning": "\"If you like, I can take a message\"",
+   "example": "よろしければ、私がご用件を承りますが。",
+   "exampleEn": "If you like, I can take your message.",
+   "note": "Phone: offer when the requested person is unavailable.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-033",
+   "front": "お名前を伺ってもよろしいでしょうか",
+   "reading": "おなまえをうかがってもよろしいでしょうか",
+   "meaning": "\"May I have your name?\"",
+   "example": "恐れ入りますが、お名前を伺ってもよろしいでしょうか。",
+   "exampleEn": "Excuse me, may I ask your name?",
+   "note": "Phone/reception. Avoid お名前を頂戴できますか (debated). Ask for spelling if needed.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-034",
+   "front": "担当の者におつなぎいたします",
+   "reading": "たんとうのものにおつなぎいたします",
+   "meaning": "\"I'll put you through to the person in charge\"",
+   "example": "ただいま担当の者におつなぎいたします。",
+   "exampleEn": "I'll put you through to the person in charge now.",
+   "note": "Phone transfer. 者 is the humble word for your staff.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-035",
+   "front": "少々お待ちくださいませ",
+   "reading": "しょうしょうおまちくださいませ",
+   "meaning": "\"One moment, please\"",
+   "example": "お調べいたしますので、少々お待ちくださいませ。",
+   "exampleEn": "I'll look into it, so please wait a moment.",
+   "note": "Phone/reception. ませ adds service politeness. If waiting long, say お待たせいたしました.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-036",
+   "front": "お待たせいたしました",
+   "reading": "おまたせいたしました",
+   "meaning": "\"Sorry to keep you waiting\"",
+   "example": "お待たせいたしました。担当の木村でございます。",
+   "exampleEn": "Sorry to keep you waiting. This is Kimura, who is in charge.",
+   "note": "Say after any wait on the phone or at reception, even a short one.",
+   "level": "N2"
+  },
+  {
+   "id": "ph1-037",
+   "front": "伝言をお願いできますでしょうか",
+   "reading": "でんごんをおねがいできますでしょうか",
+   "meaning": "\"Could I leave a message?\"",
+   "example": "それでは、伝言をお願いできますでしょうか。",
+   "exampleEn": "In that case, could I leave a message?",
+   "note": "Caller side, when the person is unavailable.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-038",
+   "front": "確かに承りました",
+   "reading": "たしかにうけたまわりました",
+   "meaning": "\"I have duly noted it\"",
+   "example": "山田様からのご伝言、確かに承りました。",
+   "exampleEn": "I have duly taken the message from Mr. Yamada.",
+   "note": "Phone/counter: confirming you received a message or order.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-039",
+   "front": "復唱いたします",
+   "reading": "ふくしょういたします",
+   "meaning": "\"Let me repeat that back\"",
+   "example": "復唱いたします。会議は十日の午後二時からですね。",
+   "exampleEn": "Let me repeat: the meeting is on the 10th from 2 p.m., correct?",
+   "note": "Phone: confirming numbers, dates, names after taking a message or order.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-040",
+   "front": "夜分遅くに失礼いたします",
+   "reading": "やぶんおそくにしつれいいたします",
+   "meaning": "\"Sorry to call so late\"",
+   "example": "夜分遅くに失礼いたします。至急の確認がございまして。",
+   "exampleEn": "Sorry to call so late, but I have something urgent to confirm.",
+   "note": "Phone call or email sent late in the evening.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-041",
+   "front": "今、お時間よろしいでしょうか",
+   "reading": "いま、おじかんよろしいでしょうか",
+   "meaning": "\"Do you have a moment now?\"",
+   "example": "部長、今お時間よろしいでしょうか。来月の予算の件です。",
+   "exampleEn": "Excuse me, do you have a moment? It's about next month's budget.",
+   "note": "Opening a phone call or approaching a busy superior.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-042",
+   "front": "それでは失礼いたします",
+   "reading": "それではしつれいいたします",
+   "meaning": "\"Goodbye, then\" — ending a call",
+   "example": "ありがとうございました。それでは失礼いたします。",
+   "exampleEn": "Thank you very much. Goodbye.",
+   "note": "Phone closing. The caller usually hangs up first; wait for the client to hang up.",
+   "level": "N2"
+  },
+  {
+   "id": "ph1-043",
+   "front": "恐れ入りますが",
+   "reading": "おそれいりますが",
+   "meaning": "\"Excuse me, but…\" — cushion for requests/questions",
+   "example": "恐れ入りますが、こちらにご署名をお願いいたします。",
+   "exampleEn": "Excuse me, but could you sign here, please?",
+   "note": "Most versatile cushion word in business. Softens requests, interruptions, questions.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-044",
+   "front": "お手数をおかけしますが",
+   "reading": "おてすうをおかけしますが",
+   "meaning": "\"Sorry for the trouble, but…\"",
+   "example": "お手数をおかけしますが、ご返送をお願いいたします。",
+   "exampleEn": "Sorry for the trouble, but please send it back to us.",
+   "note": "Cushion before asking someone to do extra work (fill in, return, resend).",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-045",
+   "front": "差し支えなければ",
+   "reading": "さしつかえなければ",
+   "meaning": "\"If you don't mind…\"",
+   "example": "差し支えなければ、ご予算をお聞かせいただけますか。",
+   "exampleEn": "If you don't mind, could you tell us your budget?",
+   "note": "Cushion before asking for information the other party may not want to give.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-046",
+   "front": "あいにく",
+   "reading": "あいにく",
+   "meaning": "\"Unfortunately…\"",
+   "example": "あいにくその日は先約がございまして。",
+   "exampleEn": "Unfortunately, I have a prior engagement that day.",
+   "note": "Cushion for bad news or unavailability; the speaker's regret is implied.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-047",
+   "front": "せっかくですが",
+   "reading": "せっかくですが",
+   "meaning": "\"Kind of you, but…\" — declining an offer",
+   "example": "せっかくのお誘いですが、今回は遠慮させていただきます。",
+   "exampleEn": "It's very kind of you to invite me, but I'll have to pass this time.",
+   "note": "Refusal cushion acknowledging the other's goodwill.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-048",
+   "front": "失礼ですが",
+   "reading": "しつれいですが",
+   "meaning": "\"Excuse me for asking, but…\"",
+   "example": "失礼ですが、どちらの会社の方でいらっしゃいますか。",
+   "exampleEn": "Excuse me, but which company are you from?",
+   "note": "Cushion before asking someone's name, affiliation, age, etc.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-049",
+   "front": "よろしければ",
+   "reading": "よろしければ",
+   "meaning": "\"If you'd like…\"",
+   "example": "よろしければ、駅までお送りしましょうか。",
+   "exampleEn": "If you like, shall I take you to the station?",
+   "note": "Cushion for offers or suggestions; leaves the choice to the other side.",
+   "level": "N2"
+  },
+  {
+   "id": "ph1-050",
+   "front": "大変申し上げにくいのですが",
+   "reading": "たいへんもうしあげにくいのですが",
+   "meaning": "\"I'm afraid this is hard to say, but…\"",
+   "example": "大変申し上げにくいのですが、今回は採用を見送ることになりました。",
+   "exampleEn": "I'm afraid we have decided not to proceed with the hire this time.",
+   "note": "Cushion before bad news, criticism, or a refusal.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-051",
+   "front": "勝手ながら",
+   "reading": "かってながら",
+   "meaning": "\"At our own convenience\" — announcing a one-sided decision",
+   "example": "誠に勝手ながら、年末年始は休業とさせていただきます。",
+   "exampleEn": "We regret to inform you that we will be closed over the New Year holidays.",
+   "note": "Notices of closures, policy changes. Implies apology for inconvenience.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-052",
+   "front": "ご都合がよろしければ",
+   "reading": "ごつごうがよろしければ",
+   "meaning": "\"If it's convenient for you…\"",
+   "example": "ご都合がよろしければ、来週火曜日はいかがでしょうか。",
+   "exampleEn": "If it's convenient for you, how about next Tuesday?",
+   "note": "Cushion when proposing a time/meeting.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-053",
+   "front": "大変失礼いたしました",
+   "reading": "たいへんしつれいいたしました",
+   "meaning": "\"My apologies\" — for a minor lapse",
+   "example": "お名前を間違えてしまい、大変失礼いたしました。",
+   "exampleEn": "My apologies for getting your name wrong.",
+   "note": "Apology for small mistakes (wrong name, misheard). Lighter than 申し訳ございません.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-054",
+   "front": "ご迷惑をおかけし誠に申し訳ございません",
+   "reading": "ごめいわくをおかけしまことにもうしわけございません",
+   "meaning": "\"We sincerely apologize for the inconvenience\"",
+   "example": "配送の遅れによりご迷惑をおかけし、誠に申し訳ございません。",
+   "exampleEn": "We sincerely apologize for the inconvenience caused by the delivery delay.",
+   "note": "Standard formal apology to customers for trouble caused.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-055",
+   "front": "心よりお詫び申し上げます",
+   "reading": "こころよりおわびもうしあげます",
+   "meaning": "\"We offer our heartfelt apologies\"",
+   "example": "このたびの不具合につきまして、心よりお詫び申し上げます。",
+   "exampleEn": "We offer our heartfelt apologies for this malfunction.",
+   "note": "Written apology, official statements, serious incidents.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-056",
+   "front": "今後このようなことのないよう",
+   "reading": "こんごこのようなことのないよう",
+   "meaning": "\"So that this never happens again\"",
+   "example": "今後このようなことのないよう、確認体制を強化いたします。",
+   "exampleEn": "We will strengthen our checking system so this does not happen again.",
+   "note": "Apology phrase promising prevention; followed by 十分注意いたします / 再発防止に努めます.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-057",
+   "front": "私どもの不手際で",
+   "reading": "わたくしどものふてぎわで",
+   "meaning": "\"Due to our mishandling\"",
+   "example": "私どもの不手際で、ご注文と異なる商品をお送りしてしまいました。",
+   "exampleEn": "Due to our error, we sent you a different product from what you ordered.",
+   "note": "Takes responsibility in an apology. 私ども = humble \"we\".",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-058",
+   "front": "ご指摘いただきありがとうございます",
+   "reading": "ごしてきいただきありがとうございます",
+   "meaning": "\"Thank you for pointing that out\"",
+   "example": "ご指摘いただきありがとうございます。早急に修正いたします。",
+   "exampleEn": "Thank you for pointing that out. We'll correct it immediately.",
+   "note": "Receiving complaints or corrections graciously before apologizing/explaining.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-059",
+   "front": "弁解の余地もございません",
+   "reading": "べんかいのよちもございません",
+   "meaning": "\"There is no excuse\"",
+   "example": "期限を守れなかったことについては、弁解の余地もございません。",
+   "exampleEn": "There is no excuse for our failure to meet the deadline.",
+   "note": "Strong apology admitting full fault. Serious situations.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-060",
+   "front": "ご期待に沿えず申し訳ございません",
+   "reading": "ごきたいにそえずもうしわけございません",
+   "meaning": "\"Sorry we cannot meet your expectations\"",
+   "example": "ご期待に沿えず申し訳ございませんが、値下げは難しい状況です。",
+   "exampleEn": "We're sorry we can't meet your expectations, but a price cut is difficult.",
+   "note": "Refusal of a request with apology. Formal.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-061",
+   "front": "見送らせていただきます",
+   "reading": "みおくらせていただきます",
+   "meaning": "\"We will pass on this\"",
+   "example": "社内で検討した結果、今回は導入を見送らせていただきます。",
+   "exampleEn": "After internal review, we will pass on adopting it this time.",
+   "note": "Polite refusal of proposals, hires, purchases. Clearer than 検討します.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-062",
+   "front": "検討させていただきます",
+   "reading": "けんとうさせていただきます",
+   "meaning": "\"We'll consider it\" (often a soft no)",
+   "example": "貴重なご提案ですので、社内で検討させていただきます。",
+   "exampleEn": "It's a valuable proposal, so we'll consider it internally.",
+   "note": "Can be genuine or an indirect refusal; context and tone decide. Ask for a deadline to clarify.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-063",
+   "front": "私の一存では決めかねます",
+   "reading": "わたくしのいちぞんではきめかねます",
+   "meaning": "\"I can't decide this on my own\"",
+   "example": "その条件につきましては、私の一存では決めかねます。",
+   "exampleEn": "I'm unable to decide on those terms by myself.",
+   "note": "Deferring a decision to superiors in negotiations. 〜かねる = cannot.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-064",
+   "front": "お気持ちだけ頂戴いたします",
+   "reading": "おきもちだけちょうだいいたします",
+   "meaning": "\"I'll accept only your kind thought\"",
+   "example": "規定によりお受けできませんので、お気持ちだけ頂戴いたします。",
+   "exampleEn": "Our rules prevent me from accepting, so I'll accept just the thought.",
+   "note": "Declining a gift or favor gracefully (e.g. compliance rules).",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-065",
+   "front": "〜いたしかねます",
+   "reading": "いたしかねます",
+   "meaning": "\"We are unable to…\"",
+   "example": "個人情報に関するお問い合わせにはお答えいたしかねます。",
+   "exampleEn": "We are unable to answer inquiries regarding personal information.",
+   "note": "Polite refusal: する→いたす + かねる. Customer service and notices.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-066",
+   "front": "〜ていただけますでしょうか",
+   "reading": "ていただけますでしょうか",
+   "meaning": "\"Could you possibly…?\"",
+   "example": "資料を明日までにご送付いただけますでしょうか。",
+   "exampleEn": "Could you possibly send the materials by tomorrow?",
+   "note": "Very polite request form. Slightly redundant but standard in business.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-067",
+   "front": "お力添えいただけませんでしょうか",
+   "reading": "おちからぞえいただけませんでしょうか",
+   "meaning": "\"Could you lend us your support?\"",
+   "example": "新事業の立ち上げに、ぜひお力添えいただけませんでしょうか。",
+   "exampleEn": "Could you kindly lend us your support in launching the new business?",
+   "note": "Humble request for help or cooperation, often to senior people/partners.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-068",
+   "front": "ご一考いただければ幸いです",
+   "reading": "ごいっこういただければさいわいです",
+   "meaning": "\"We'd be grateful if you would consider it\"",
+   "example": "上記の案につきまして、ご一考いただければ幸いです。",
+   "exampleEn": "We would be grateful if you could give the above plan some thought.",
+   "note": "Soft written request for consideration of a proposal.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-069",
+   "front": "〜いただけますと助かります",
+   "reading": "いただけますとたすかります",
+   "meaning": "\"It would help us greatly if…\"",
+   "example": "金曜日までにご回答いただけますと助かります。",
+   "exampleEn": "It would help us greatly if you could reply by Friday.",
+   "note": "Softer request; common in internal and client emails.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-070",
+   "front": "ご都合のよい日時をお知らせください",
+   "reading": "ごつごうのよいにちじをおしらせください",
+   "meaning": "\"Please let us know a convenient date and time\"",
+   "example": "打ち合わせにつきまして、ご都合のよい日時をお知らせください。",
+   "exampleEn": "Please let us know a convenient date and time for the meeting.",
+   "note": "Scheduling meetings by email. Offering candidates is even more polite.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-071",
+   "front": "もう少しお値引きいただけないでしょうか",
+   "reading": "もうすこしおねびきいただけないでしょうか",
+   "meaning": "\"Could you lower the price a bit more?\"",
+   "example": "大口の発注になりますので、もう少しお値引きいただけないでしょうか。",
+   "exampleEn": "Since this is a large order, could you lower the price a bit more?",
+   "note": "Price negotiation; negative question form is softer.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-072",
+   "front": "持ち帰って検討いたします",
+   "reading": "もちかえってけんとういたします",
+   "meaning": "\"I'll take it back to the office and consider it\"",
+   "example": "その点につきましては、一度持ち帰って検討いたします。",
+   "exampleEn": "I'll take that point back to the office for consideration.",
+   "note": "Negotiation: avoids an on-the-spot decision.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-073",
+   "front": "前向きに検討いたします",
+   "reading": "まえむきにけんとういたします",
+   "meaning": "\"We'll give it positive consideration\"",
+   "example": "ご提案の件、前向きに検討いたします。",
+   "exampleEn": "We will give your proposal positive consideration.",
+   "note": "Signals genuine interest, more hopeful than plain 検討します.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-074",
+   "front": "〜という条件でしたら",
+   "reading": "というじょうけんでしたら",
+   "meaning": "\"On the condition that…\"",
+   "example": "納期を一週間延ばすという条件でしたら、お受けできます。",
+   "exampleEn": "We can accept if the delivery date is extended by a week.",
+   "note": "Conditional acceptance in negotiation.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-075",
+   "front": "ご予算感をお聞かせいただけますか",
+   "reading": "ごよさんかんをおきかせいただけますか",
+   "meaning": "\"Could you give us a sense of your budget?\"",
+   "example": "お見積もりの参考に、ご予算感をお聞かせいただけますか。",
+   "exampleEn": "For the estimate, could you give us a rough idea of your budget?",
+   "note": "Sales hearing; 感 makes it a rough figure, less intrusive.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-076",
+   "front": "折衷案として",
+   "reading": "せっちゅうあんとして",
+   "meaning": "\"As a compromise\"",
+   "example": "折衷案として、費用を両社で折半するのはいかがでしょうか。",
+   "exampleEn": "As a compromise, how about splitting the cost between our two companies?",
+   "note": "Negotiation/meeting: proposing a middle ground.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-077",
+   "front": "落としどころ",
+   "reading": "おとしどころ",
+   "meaning": "a point of compromise, landing spot",
+   "example": "価格の落としどころを事前に社内で決めておこう。",
+   "exampleEn": "Let's decide internally in advance where we can settle on price.",
+   "note": "Semi-colloquial; used internally when planning a negotiation.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-078",
+   "front": "本日はお集まりいただき",
+   "reading": "ほんじつはおあつまりいただき",
+   "meaning": "\"Thank you all for gathering today\"",
+   "example": "本日はお忙しい中お集まりいただき、ありがとうございます。",
+   "exampleEn": "Thank you all for gathering today despite your busy schedules.",
+   "note": "Meeting/event opening by the chair or host.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-079",
+   "front": "本日の議題は",
+   "reading": "ほんじつのぎだいは",
+   "meaning": "\"Today's agenda is…\"",
+   "example": "本日の議題は、来期の販売計画についてです。",
+   "exampleEn": "Today's agenda is the sales plan for next term.",
+   "note": "Meeting chair stating the agenda.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-080",
+   "front": "一点よろしいでしょうか",
+   "reading": "いってんよろしいでしょうか",
+   "meaning": "\"May I raise one point?\"",
+   "example": "すみません、一点よろしいでしょうか。",
+   "exampleEn": "Excuse me, may I raise one point?",
+   "note": "Politely taking the floor in a meeting.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-081",
+   "front": "補足させていただきますと",
+   "reading": "ほそくさせていただきますと",
+   "meaning": "\"If I may add…\"",
+   "example": "補足させていただきますと、この数値には海外分も含まれます。",
+   "exampleEn": "If I may add, this figure includes overseas sales.",
+   "note": "Adding information to someone else's explanation in a meeting.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-082",
+   "front": "おっしゃることはごもっともですが",
+   "reading": "おっしゃることはごもっともですが",
+   "meaning": "\"You make a fair point, but…\"",
+   "example": "おっしゃることはごもっともですが、コスト面の課題も残ります。",
+   "exampleEn": "You make a fair point, but cost issues remain.",
+   "note": "Polite disagreement: acknowledge first, then counter.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-083",
+   "front": "認識に齟齬がないよう",
+   "reading": "にんしきにそごがないよう",
+   "meaning": "\"To make sure we're on the same page\"",
+   "example": "認識に齟齬がないよう、決定事項を確認させてください。",
+   "exampleEn": "To make sure we're aligned, let me confirm what was decided.",
+   "note": "Confirming understanding at the end of meetings or in emails.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-084",
+   "front": "話を戻しますと",
+   "reading": "はなしをもどしますと",
+   "meaning": "\"Getting back to the topic…\"",
+   "example": "話を戻しますと、問題は納期の短縮です。",
+   "exampleEn": "Getting back to the topic, the issue is shortening lead time.",
+   "note": "Steering a meeting back to the agenda.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-085",
+   "front": "時間も押しておりますので",
+   "reading": "じかんもおしておりますので",
+   "meaning": "\"As we're running short on time…\"",
+   "example": "時間も押しておりますので、次の議題に移ります。",
+   "exampleEn": "As we're running short on time, let's move to the next item.",
+   "note": "Chair moving the meeting along or wrapping up.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-086",
+   "front": "本日の内容をまとめますと",
+   "reading": "ほんじつのないようをまとめますと",
+   "meaning": "\"To summarize today's discussion…\"",
+   "example": "本日の内容をまとめますと、三点ございます。",
+   "exampleEn": "To summarize today's discussion, there are three points.",
+   "note": "Meeting wrap-up before closing.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-087",
+   "front": "宿題とさせてください",
+   "reading": "しゅくだいとさせてください",
+   "meaning": "\"Let me take that as homework\"",
+   "example": "その件は次回までの宿題とさせてください。",
+   "exampleEn": "Please let me take that as homework until next time.",
+   "note": "Meeting: taking an item away to answer later. Business slang, polite.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-088",
+   "front": "お先に失礼いたします",
+   "reading": "おさきにしつれいいたします",
+   "meaning": "\"Excuse me for leaving before you\"",
+   "example": "本日はこれで、お先に失礼いたします。",
+   "exampleEn": "I'll be heading out now, excuse me for leaving first.",
+   "note": "Leaving the office while colleagues are still working. Reply: お疲れ様でした.",
+   "level": "N2"
+  },
+  {
+   "id": "ph1-089",
+   "front": "念のため",
+   "reading": "ねんのため",
+   "meaning": "\"Just to be sure\" — confirming or resending",
+   "example": "念のため、明日の打ち合わせの場所を再送いたします。",
+   "exampleEn": "Just to be sure, I'm resending the location of tomorrow's meeting.",
+   "note": "Used before confirmation, reminders or resending. Polite and non-accusatory.",
+   "level": "BJT"
+  },
+  {
+   "id": "ph1-090",
+   "front": "ご快諾いただきありがとうございます",
+   "reading": "ごかいだくいただきありがとうございます",
+   "meaning": "\"Thank you for kindly agreeing\"",
+   "example": "講演のご依頼をご快諾いただき、誠にありがとうございます。",
+   "exampleEn": "Thank you very much for kindly agreeing to our lecture request.",
+   "note": "Thanking someone for readily accepting a request (speaking, interview, schedule). Formal email.",
+   "level": "BJT"
+  }
+ ]
+}

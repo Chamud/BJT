@@ -1,0 +1,557 @@
+{
+ "id": "official-samples",
+ "title": "Official BJT sample questions (24)",
+ "questions": [
+  {
+   "id": "O1-1-1",
+   "part": 1,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "manners"
+   ],
+   "prompt": "Photo: two people meeting in an office.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 1,
+   "explanation": "The photo shows 名刺交換 (exchanging business cards). Watch for the object being exchanged — distractors swap in 契約書 or 贈り物.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "cGMOgaSkR2c",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-1-2",
+   "part": 1,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "office"
+   ],
+   "prompt": "Photo: colleagues discussing at a desk.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "They are looking at a computer screen (パソコン). Section 1 tests fast noun recognition while the 4 statements are read aloud.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "q-EXgVM6byY",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-2-1",
+   "part": 1,
+   "section": 2,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "greeting"
+   ],
+   "prompt": "First meeting with a client company president — how do you greet them?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 3,
+   "explanation": "はじめてお目にかかります is the humble (謙譲語) form of 会う. お会いになります is respectful (尊敬語) — wrong because it elevates yourself.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "i_Taic3rwUE",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-2-2",
+   "part": 1,
+   "section": 2,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "presentation"
+   ],
+   "prompt": "Product presentation — what does the employee say?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "御社のご期待に沿える… is the set business phrase for meeting a client’s expectations. 御社 = “your company” in speech (貴社 in writing).",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "lidubOZST1A",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-3-1",
+   "part": 1,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "meeting",
+    "governance"
+   ],
+   "prompt": "Manager and section chief discuss board structure.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Decision: bring in an external auditor (監査役を外から入れる) AND reduce directors (取締役を削減). All four choices combine the same two yes/no decisions — track each one separately while listening.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "BldzbE5aszE",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-3-2",
+   "part": 1,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "meeting"
+   ],
+   "prompt": "Conversation about business partners.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 3,
+   "explanation": "The speaker’s point is that they also deal with poorly performing companies (業績の悪いところともつき合う). Listen for the final stance, not the first opinion mentioned.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "u0oKuaSoUk4",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-3-3",
+   "part": 1,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "marketing"
+   ],
+   "prompt": "Conversation about a business activity.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 3,
+   "explanation": "Answer: 宣伝 (advertising/promotion). Key words in the dialogue point to promotion rather than sales or production.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "hmvVXCdh1xU",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O1-3-4",
+   "part": 1,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "retail",
+    "schedule"
+   ],
+   "prompt": "Conversation about a store/product display.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "The worry is whether display preparation will be ready in time (陳列の準備が間に合うかどうか). 間に合う = be in time — a very common BJT keyword.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample01.html",
+   "video": "LBKcuH9kKqg",
+   "choicesSpoken": true
+  },
+  {
+   "id": "O2-1-1",
+   "part": 2,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "meeting",
+    "complaint"
+   ],
+   "prompt": "Three employees in a meeting — what is the topic?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 1,
+   "explanation": "They are discussing handling a client complaint (クレーム処理). Situation questions reward identifying the topic from scattered cues.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "tkhndRVwhug"
+  },
+  {
+   "id": "O2-2-1",
+   "part": 2,
+   "section": 2,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "graph"
+   ],
+   "prompt": "Graph of lifetime working hours — what is predicted?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 2,
+   "explanation": "The graph projects leisure time (余暇時間) increasing. Read axis labels and the future (予想) row before the audio starts.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "NGWQEfp-jcA"
+  },
+  {
+   "id": "O2-2-2",
+   "part": 2,
+   "section": 2,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "ad"
+   ],
+   "prompt": "Advertisement — what kind of company placed it?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 2,
+   "explanation": "The ad promotes cheap DM/printing services — a printing company (印刷会社). Skim the ad for the service, not the visual layout.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "e7HWNl3_Pho"
+  },
+  {
+   "id": "O2-3-1",
+   "part": 2,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "schedule"
+   ],
+   "prompt": "Programme change — where does the guest greeting go?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Self-check against the official answer. Tip: in schedule questions, write down each change as it is spoken (前に/後に/入れ替え).",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "AFSy_uOQR3k",
+   "selfCheck": true
+  },
+  {
+   "id": "O2-3-2",
+   "part": 2,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "finance",
+    "table"
+   ],
+   "prompt": "Seminar on game-company earnings — which row is the company?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Self-check against the official answer. Tip: match the spoken trend (増収増益/減益 etc.) to table rows.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "mJPWBeHEq-Y",
+   "selfCheck": true
+  },
+  {
+   "id": "O2-3-3",
+   "part": 2,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "phone",
+    "it"
+   ],
+   "prompt": "Phone call — which button does she click next?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Self-check against the official answer. Tip: the final instruction usually overrides earlier ones.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "fc9MDjofePU",
+   "selfCheck": true
+  },
+  {
+   "id": "O2-3-4",
+   "part": 2,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "quotation"
+   ],
+   "prompt": "Which item on the quotation will the sales rep change?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Self-check against the official answer. Tip: know 見積書 items — 単価, 数量, 納期, 送料, 値引き.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "iWfHCOlmqr4",
+   "selfCheck": true
+  },
+  {
+   "id": "O2-3-5",
+   "part": 2,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "retail",
+    "design"
+   ],
+   "prompt": "Poster design for a sale corner — which does she choose?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Self-check against the official answer. Tip: eliminate designs as each objection is raised.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample02.html",
+   "video": "7el5saWVbo8",
+   "selfCheck": true
+  },
+  {
+   "id": "O3-1-1",
+   "part": 3,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "grammar"
+   ],
+   "prompt": "Vocabulary/grammar fill-in.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 1,
+   "explanation": "Answer: おかげ (thanks to — positive cause). Contrast with せい (negative cause).",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec01_01_pc.jpg"
+  },
+  {
+   "id": "O3-1-2",
+   "part": 3,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "grammar"
+   ],
+   "prompt": "Vocabulary/grammar fill-in.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 3,
+   "explanation": "Answer: まで — limit/extent. Read the whole sentence before choosing a particle.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec01_02_pc.jpg"
+  },
+  {
+   "id": "O3-1-3",
+   "part": 3,
+   "section": 1,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "grammar"
+   ],
+   "prompt": "Vocabulary/grammar fill-in.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 2,
+   "explanation": "Answer: 使いよう (〜よう = “depends on how you use it”, as in ものは使いよう).",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec01_03_pc.jpg"
+  },
+  {
+   "id": "O3-2-1",
+   "part": 3,
+   "section": 2,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "invitation"
+   ],
+   "prompt": "Appropriate expression: inviting a client to a meal after a meeting.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Answer: いかがですか — polite invitation. With よろしければ the soft question form is expected, not a command.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec02_01_pc.jpg"
+  },
+  {
+   "id": "O3-3-1",
+   "part": 3,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "article"
+   ],
+   "prompt": "Reading: staffing subsidiary.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Answer: the dispatch subsidiary sends staff only to its parent company. Locate the definition sentence in the passage.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec03_01_pc.jpg"
+  },
+  {
+   "id": "O3-3-2",
+   "part": 3,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "email",
+    "schedule"
+   ],
+   "prompt": "Reading: business document.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 0,
+   "explanation": "Answer: because the delivery date (納期) does not fit. Reasons are often signalled by ため/ので near the end.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec03_02_pc.jpg"
+  },
+  {
+   "id": "O3-3-3",
+   "part": 3,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "notice"
+   ],
+   "prompt": "Reading: office relocation.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 2,
+   "explanation": "Answer: the temporary office contract (仮事務所の契約). Track which tasks are done vs pending.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec03_03_pc.jpg"
+  },
+  {
+   "id": "O3-3-4",
+   "part": 3,
+   "section": 3,
+   "source": "official",
+   "difficulty": 2,
+   "tags": [
+    "article"
+   ],
+   "prompt": "Reading: article on business strategy.",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "choicesOnPage": true,
+   "answer": 2,
+   "explanation": "Answer: selling convenience (便利さを売る) — the main claim, usually restated in the final paragraph.",
+   "ref": "https://www.kanken.or.jp/bjt/english/sample/sample03.html",
+   "image": "https://www.kanken.or.jp/bjt/english/sample/images/sample_sample03_pic_sec03_04_pc.jpg"
+  }
+ ]
+}

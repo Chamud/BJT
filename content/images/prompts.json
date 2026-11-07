@@ -1,0 +1,203 @@
+{
+ "_note": "Prompts for tools/gen_images.py. style: photo | lineart. Section 1 prompts must depict the CORRECT answer's detail.",
+ "A1-1-01": {
+  "style": "photo",
+  "prompt": "Japanese female receptionist standing behind a reception counter extending her arm to hand a white plastic visitor pass card to a Japanese businessman in a dark suit, the businessman's hand is empty and reaching to receive the card, shoulder bag strap on his shoulder, side view"
+ },
+ "A1-1-02": {
+  "style": "photo",
+  "prompt": "meeting room, Japanese businessman standing at the front gesturing with his open hand toward a bar chart projected on the wall, oval table with six chairs, four colleagues seated, two of them with open laptops"
+ },
+ "A1-1-03": {
+  "style": "photo",
+  "prompt": "Japanese railway station concourse in front of shinkansen ticket gates, a businessman and a businesswoman standing side by side with rolling suitcases, both looking up at an overhead electronic departure board, the woman holding a paper ticket"
+ },
+ "A1-1-04": {
+  "style": "photo",
+  "prompt": "corporate training room, instructor standing at the front, trainees in business suits seated in pairs facing each other, in each pair one person holds out a small business card with both hands to the other person"
+ },
+ "A1-1-05": {
+  "style": "photo",
+  "prompt": "warehouse aisle, a Japanese woman in a work jacket holding a tablet computer in both hands and looking at the label on a stack of cardboard boxes on a flat hand cart, a Japanese male worker in uniform holding the cart handle"
+ },
+ "A1-2-01": {
+  "style": "photo",
+  "prompt": "company reception counter, a Japanese businessman visitor speaking to a Japanese female receptionist behind the counter"
+ },
+ "A1-2-02": {
+  "style": "photo",
+  "prompt": "Japanese open-plan office, female employee at her desk holding a desk phone receiver to her ear while looking toward an empty manager's desk"
+ },
+ "A1-2-03": {
+  "style": "photo",
+  "prompt": "Japanese office, male employee holding a small notebook standing beside the desk of a senior manager who is seated reading documents"
+ },
+ "A1-2-04": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee seated at a computer showing a booking website, turning to speak to her seated older male manager at the next desk"
+ },
+ "A1-2-05": {
+  "style": "photo",
+  "prompt": "company reception room with sofas, a Japanese businesswoman client and a Japanese male salesman sitting across a low table looking at a printed quotation document together"
+ },
+ "A1-2-06": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee standing at her desk on a phone call bowing deeply in apology, a printed schedule sheet on the desk"
+ },
+ "A1-2-07": {
+  "style": "photo",
+  "prompt": "planning meeting in a Japanese company meeting room, senior employee standing in front of a whiteboard, a young male employee seated at the table raising his hand"
+ },
+ "A1-2-08": {
+  "style": "photo",
+  "prompt": "doorway of a training room after a seminar, a young Japanese businesswoman speaking politely to an elderly Japanese male lecturer in a suit"
+ },
+ "A1-2-09": {
+  "style": "photo",
+  "prompt": "morning in a Japanese office, department employees standing together in a group listening, one man in a suit standing in front of them addressing the group"
+ },
+ "A1-2-10": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee holding a clipboard with an attendance sheet standing in front of a department manager's desk"
+ },
+ "A1-3-01": {
+  "style": "lineart",
+  "prompt": "female office worker answering a desk phone while writing on a message memo pad"
+ },
+ "A1-3-02": {
+  "style": "lineart",
+  "prompt": "male salesman and female client sitting across a table in a reception room discussing a quotation document"
+ },
+ "A1-3-03": {
+  "style": "lineart",
+  "prompt": "female office worker holding a phone receiver while checking a computer screen"
+ },
+ "A1-3-04": {
+  "style": "lineart",
+  "prompt": "meeting table with photos of thermos bottle prototypes laid out, a manager and a male and a female employee looking at documents"
+ },
+ "A1-3-05": {
+  "style": "lineart",
+  "prompt": "office, male employee at a computer showing a room booking schedule, talking with a female section chief standing beside him"
+ },
+ "A1-3-06": {
+  "style": "lineart",
+  "prompt": "female employee standing in front of a manager's desk taking notes, a city map spread open on the desk"
+ },
+ "A1-3-07": {
+  "style": "lineart",
+  "prompt": "male employee standing beside his section chief's desk holding a printed training flyer, consulting him"
+ },
+ "A1-3-08": {
+  "style": "lineart",
+  "prompt": "reception room, a male and a female employee sitting across the table from an elderly businessman, business cards placed on the table"
+ },
+ "A1-3-09": {
+  "style": "lineart",
+  "prompt": "office break area, male and female colleagues looking at a smartphone together and chatting"
+ },
+ "A1-3-10": {
+  "style": "lineart",
+  "prompt": "section chief seated at his desk after returning, female employee holding a product catalog speaking to him"
+ },
+ "B1-1-01": {
+  "style": "photo",
+  "prompt": "company reception desk, Japanese woman receptionist in uniform behind the desk holding out a lanyard ID badge toward a Japanese businessman in a suit on the other side, his empty hands reaching for it, a desk phone and a sign-in sheet on the counter"
+ },
+ "B1-1-02": {
+  "style": "photo",
+  "prompt": "warehouse, Japanese male worker in work uniform pointing at a nearly empty metal shelf with only one small cardboard box left on it, holding a tablet in his other hand, a hand cart with three cardboard boxes parked beside him"
+ },
+ "B1-1-03": {
+  "style": "photo",
+  "prompt": "meeting room, bar chart projected on a screen at the front, Japanese businesswoman standing next to it gesturing at the screen with one hand while speaking, two Japanese businessmen seated at the table facing the screen, one with an open laptop"
+ },
+ "B1-1-04": {
+  "style": "photo",
+  "prompt": "private tatami room in a Japanese izakaya, a young Japanese businessman kneeling on a floor cushion pouring beer from a bottle into the glass held by an older Japanese businessman across a low table with food dishes, a second older man seated beside him, close-up of the pouring"
+ },
+ "B1-1-05": {
+  "style": "photo",
+  "prompt": "Japanese office at night, dark windows, half of the ceiling lights turned off, only one desk island lit where a Japanese woman is typing at a computer, all other chairs empty and pushed under the desks"
+ },
+ "B1-2-01": {
+  "style": "photo",
+  "prompt": "Japanese office, male employee at his desk holding a phone receiver to his ear looking at a desk calendar"
+ },
+ "B1-2-02": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee holding documents standing beside the desk of her manager who is working on a computer"
+ },
+ "B1-2-03": {
+  "style": "photo",
+  "prompt": "company reception counter, Japanese female receptionist facing a Japanese businessman visitor in a suit across the counter"
+ },
+ "B1-2-04": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee wearing a headset talking on the phone while looking at a computer screen"
+ },
+ "B1-2-05": {
+  "style": "photo",
+  "prompt": "company reception room, young Japanese male employee sitting across from an older Japanese businessman client, with a pocket planner open"
+ },
+ "B1-2-06": {
+  "style": "photo",
+  "prompt": "Japanese office in the evening, male employee standing in front of his section chief's desk speaking to him"
+ },
+ "B1-2-07": {
+  "style": "photo",
+  "prompt": "Japanese office, female employee standing beside her seated boss's desk holding a calendar, speaking to him"
+ },
+ "B1-2-08": {
+  "style": "photo",
+  "prompt": "Japanese office, young female employee holding papers with both hands speaking to the senior male colleague at the next desk who is working on his computer"
+ },
+ "B1-2-09": {
+  "style": "photo",
+  "prompt": "Japanese office, male employee holding a laptop speaking to a department director at the doorway of the director's office"
+ },
+ "B1-2-10": {
+  "style": "photo",
+  "prompt": "Japanese office, male employee on a desk phone call with an inventory spreadsheet printout on the desk in front of him"
+ },
+ "B1-3-01": {
+  "style": "lineart",
+  "prompt": "male office worker holding a phone receiver about to write in a pocket planner with a pen"
+ },
+ "B1-3-02": {
+  "style": "lineart",
+  "prompt": "female employee standing in front of a section chief's desk holding a planner, talking"
+ },
+ "B1-3-03": {
+  "style": "lineart",
+  "prompt": "company reception, businessman in a suit holding a paper gift bag talking with a female receptionist"
+ },
+ "B1-3-04": {
+  "style": "lineart",
+  "prompt": "female office worker on the phone checking a shipping record on her computer screen"
+ },
+ "B1-3-05": {
+  "style": "lineart",
+  "prompt": "office, male section chief and female employee looking together at a restaurant web page on a computer screen"
+ },
+ "B1-3-06": {
+  "style": "lineart",
+  "prompt": "female employee standing beside the section chief's desk holding a leave request form, talking"
+ },
+ "B1-3-07": {
+  "style": "lineart",
+  "prompt": "office, senior male employee talking to a young female employee at the next desk, a phone and a memo pad on her desk"
+ },
+ "B1-3-08": {
+  "style": "lineart",
+  "prompt": "meeting room, a female department manager SEATED at the conference table turning to speak, a young male employee STANDING at the front next to a projection screen giving a presentation, the woman is sitting, the man is standing"
+ },
+ "B1-3-09": {
+  "style": "lineart",
+  "prompt": "client company meeting room, female sales representative and male purchasing manager talking across a table with a quotation document on it"
+ },
+ "B1-3-10": {
+  "style": "lineart",
+  "prompt": "office, female employee bringing an inventory sheet to a male section chief's desk, both looking at the computer screen together"
+ }
+}

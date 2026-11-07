@@ -1,0 +1,634 @@
+{
+  "id": "mock-a-part3",
+  "title": "Mock A – Part 3 読解",
+  "mock": "A",
+  "questions": [
+    {
+      "id": "A3-1-01",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab",
+        "approval"
+      ],
+      "prompt": "本件は部長の＿＿を経てから、正式に発注する予定です。",
+      "choices": [
+        "決算",
+        "採決",
+        "決裁",
+        "裁定"
+      ],
+      "answer": 2,
+      "explanation": "決裁 is a superior's formal approval of a proposal; 「部長の決裁を経て」 (after obtaining the manager's sign-off) is a fixed business collocation. 採決 is a vote taken in a meeting or assembly, not something a single manager does, and 決算 is the closing of the accounts. 裁定 means arbitration or a ruling on a dispute."
+    },
+    {
+      "id": "A3-1-02",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab",
+        "approval"
+      ],
+      "prompt": "新しい会計システムの導入については、来週中に＿＿書を回して関係部署の承認を得る予定です。",
+      "choices": [
+        "稟議",
+        "提議",
+        "審議",
+        "協議"
+      ],
+      "answer": 0,
+      "explanation": "稟議書 is the circulated approval document that passes from desk to desk for each department's seal, so 「稟議書を回す」 is the standard expression. 協議 and 審議 refer to discussing or deliberating in a meeting. 協議書 exists, but it means a written record of an agreement, and you do not 「回す」 it to collect approvals."
+    },
+    {
+      "id": "A3-1-03",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab"
+      ],
+      "prompt": "販売価格の最終判断は、現場の事情に詳しい田中課長に＿＿することで、出席者全員の意見が一致した。",
+      "choices": [
+        "依存",
+        "専任",
+        "赴任",
+        "一任"
+      ],
+      "answer": 3,
+      "explanation": "一任する means to leave a decision entirely to someone: 「判断を課長に一任する」. 依存 means to depend on something and does not take a decision as its object. 専任 (exclusively assigned) and 赴任 (to take up a post somewhere) do not form 「〜に…する」 with a decision as the object."
+    },
+    {
+      "id": "A3-1-04",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab",
+        "schedule"
+      ],
+      "prompt": "顧客から「できるだけ早く受け取りたい」との要望があったため、納品日を一週間＿＿することにした。",
+      "choices": [
+        "繰り越し",
+        "前倒し",
+        "先送り",
+        "見送り"
+      ],
+      "answer": 1,
+      "explanation": "前倒しする means moving a date or plan earlier, which matches the customer's wish to receive the goods 「できるだけ早く」. 先送り is grammatical but means postponing, which is the opposite of what the customer asked for. 繰り越し means carrying something over to the next period, and 見送り means shelving a plan."
+    },
+    {
+      "id": "A3-1-05",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab",
+        "compound-verb"
+      ],
+      "prompt": "台風の接近に伴い、明日予定しておりました工場見学は＿＿ことといたしました。",
+      "choices": [
+        "見逃す",
+        "見直す",
+        "見積もる",
+        "見合わせる"
+      ],
+      "answer": 3,
+      "explanation": "見合わせる means to hold off on or suspend a plan because of circumstances. It is the usual word when an event is called off because of weather. 見直す (to review or revise) does not fit cancelling tomorrow's visit because of a typhoon, and 見逃す and 見積もる (to overlook, to estimate) make no sense here."
+    },
+    {
+      "id": "A3-1-06",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "vocab",
+        "compound-verb"
+      ],
+      "prompt": "前回の会議でいただいたご指摘を＿＿、企画書を修正いたしました。",
+      "choices": [
+        "踏み切り",
+        "踏まえ",
+        "踏み込み",
+        "踏み出し"
+      ],
+      "answer": 1,
+      "explanation": "「〜を踏まえ(て)」 means 'based on / taking into account', so the feedback is what the revision was based on. 踏み込む means to step into something or go deeper into an issue, and 踏み切る means to decide to go ahead, so neither takes 「指摘を」 with this meaning."
+    },
+    {
+      "id": "A3-1-07",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "grammar",
+        "N1"
+      ],
+      "prompt": "懇親会への参加の有無＿＿、今月末までに必ずご返信ください。",
+      "choices": [
+        "にもかかわらず",
+        "をよそに",
+        "に限らず",
+        "にかかわらず"
+      ],
+      "answer": 3,
+      "explanation": "「〜の有無にかかわらず」 means 'regardless of whether or not', and it typically follows 有無 or 是非. 「にもかかわらず」 means 'despite' and needs an established fact before it, not a yes-or-no alternative. 「に限らず」 means 'not only'. 「をよそに」 means 'ignoring (others' concern)'."
+    },
+    {
+      "id": "A3-1-08",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "grammar",
+        "N1",
+        "notice"
+      ],
+      "prompt": "本日＿＿、旧勤怠管理システムの運用を終了いたします。",
+      "choices": [
+        "をもって",
+        "にあたって",
+        "に際して",
+        "にわたって"
+      ],
+      "answer": 0,
+      "explanation": "「本日をもって」 marks the point at which something ends, as in 'as of today'. It is the formal phrase used in termination and closure notices. 「に際して／にあたって」 mean 'on the occasion of (starting something)' and do not mark an end point. 「にわたって」 needs a span of time or space, such as 「三日間にわたって」."
+    },
+    {
+      "id": "A3-1-09",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "grammar",
+        "N1"
+      ],
+      "prompt": "人気商品の数量限定販売＿＿、開店前から店の前には長い行列ができていた。",
+      "choices": [
+        "とはいえ",
+        "ものの",
+        "とあって",
+        "にしては"
+      ],
+      "answer": 2,
+      "explanation": "「〜とあって」 means 'because it is a special situation, (naturally) …'. A limited sale of a popular product is exactly the kind of special circumstance that explains the long queue. 「とはいえ／ものの」 are concessive ('although'), which clashes with the expected result, and 「にしては」 means 'for (a) …, surprisingly'."
+    },
+    {
+      "id": "A3-1-10",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "grammar",
+        "N1",
+        "negotiation"
+      ],
+      "prompt": "今回の価格交渉の結果＿＿、来期の事業計画を大幅に見直す可能性もある。",
+      "choices": [
+        "いかんによらず",
+        "いかんでは",
+        "いかんを問わず",
+        "にひきかえ"
+      ],
+      "answer": 1,
+      "explanation": "「〜いかんでは」 means 'depending on (how X turns out)', which matches 「見直す可能性もある」. 「いかんによらず／いかんを問わず」 mean 'regardless of', so they contradict a revision that depends on the outcome. 「にひきかえ」 introduces a contrast ('in contrast to')."
+    },
+    {
+      "id": "A3-2-01",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "keigo",
+        "email"
+      ],
+      "prompt": "取引先に見積書を添付したメールを送ります。本文の最後に書く表現として、最も適切なものはどれですか。\n「お見積書を添付いたしましたので、＿＿。」",
+      "choices": [
+        "ご覧になってください",
+        "ご確認していただけますか",
+        "拝見してください",
+        "ご査収くださいますようお願い申し上げます"
+      ],
+      "answer": 3,
+      "explanation": "「ご査収ください」 asks the recipient to check and accept the attached documents. It is the set phrase for an email with an attachment, and 「くださいますようお願い申し上げます」 makes it suitably formal. 「ご確認していただけますか」 is wrong because 「ご〜する」 is a humble form and cannot be used for the other party's action. The correct form is 「ご確認いただけますか」. 「拝見してください」 uses a humble verb for the customer's action."
+    },
+    {
+      "id": "A3-2-02",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "cushion",
+        "request"
+      ],
+      "prompt": "取引先から届いた書類に不備があり、修正版を送り直してもらいたいと思っています。＿＿に入る最も適切な表現はどれですか。\n「＿＿、修正版を再度ご送付いただけますでしょうか。」",
+      "choices": [
+        "お手数をおかけしますが",
+        "お言葉に甘えまして",
+        "おかげさまで",
+        "ご無沙汰しておりますが"
+      ],
+      "answer": 0,
+      "explanation": "「お手数をおかけしますが」 is the standard cushion phrase before asking someone to do extra work for you. 「お言葉に甘えまして」 is used when you accept an offer the other person made, and nothing was offered here. 「おかげさまで」 expresses thanks for good results, and 「ご無沙汰しております」 is a greeting after a long silence."
+    },
+    {
+      "id": "A3-2-03",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "keigo",
+        "phone",
+        "uchi-soto"
+      ],
+      "prompt": "社外の人から電話があり、自分の上司である山田課長と話したいと言われました。山田課長は外出中です。何と言いますか。\n「申し訳ございません。あいにく＿＿。」",
+      "choices": [
+        "課長の山田さんは外出していらっしゃいます",
+        "山田課長はただいま外出されております",
+        "山田はただいま外出しております",
+        "山田課長は外出中でございます"
+      ],
+      "answer": 2,
+      "explanation": "When speaking to someone outside the company, you refer to your own boss without a title and with humble or neutral forms: 「山田はただいま外出しております」. 「山田課長は外出されております」 uses the title and the respectful 「〜される」, which raises your own colleague above the client. That breaks the uchi/soto rule, and the other two choices make the same mistake."
+    },
+    {
+      "id": "A3-2-04",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "email",
+        "set-phrase"
+      ],
+      "prompt": "取引先から見積書を受け取りました。内容の検討には数日かかりますが、受け取ったことだけはすぐに伝えたいと思っています。メールの結びとして、最も適切なものはどれですか。\n「内容を検討のうえ、改めてご連絡いたしますが、＿＿。」",
+      "choices": [
+        "まずは書中にてお詫び申し上げます",
+        "取り急ぎ受領のご連絡まで",
+        "今後ともご愛顧のほどお願いいたします",
+        "末筆ながら貴社のご発展をお祈りいたします"
+      ],
+      "answer": 1,
+      "explanation": "「取り急ぎ〜まで」 is the set closing for a quick email that only confirms something, with more to follow. It fits 「受け取ったことだけはすぐに伝えたい」. 「末筆ながら…」 is a formal letter ending that does not connect to 「〜が、」 or to the purpose of the message. 「ご愛顧」 is a seller's phrase addressed to customers, and there is nothing here to apologize for."
+    },
+    {
+      "id": "A3-2-05",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "keigo",
+        "refusal",
+        "cushion"
+      ],
+      "prompt": "取引先の部長から会食に誘われましたが、その日は別の予定があるため断りたいと思っています。最も適切な返答はどれですか。",
+      "choices": [
+        "お誘いはうれしいのですが、その日は無理なので行けません。",
+        "ご招待いただき光栄に存じます。喜んで参加させていただきます。",
+        "あいにく当日は先約がございますので、日程を変更していただけますでしょうか。",
+        "せっかくお誘いいただいたのですが、あいにく当日は先約がございまして、今回は失礼させていただきます。"
+      ],
+      "answer": 3,
+      "explanation": "A polite refusal starts with a cushion phrase (「せっかくお誘いいただいたのですが」), gives a soft reason (「先約がございまして」), and declines indirectly (「今回は失礼させていただきます」). The 「日程を変更していただけますでしょうか」 option is polite but asks a client's manager to rearrange the dinner around you, which is presumptuous. 「無理なので行けません」 is too blunt, and 「喜んで参加させていただきます」 accepts the invitation."
+    },
+    {
+      "id": "A3-2-06",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "email",
+        "reminder",
+        "cushion"
+      ],
+      "prompt": "1週間前に取引先へ提案書を送りましたが、まだ返事がありません。催促のメールを送りますが、相手を責めるような印象は避けたいと思っています。メールの最後に添える一文として、最も適切なものはどれですか。\n「先日お送りした提案書について、その後のご検討状況をお聞かせいただければ幸いです。なお、＿＿。」",
+      "choices": [
+        "お手すきの際で構いませんので、本日中に必ずご返信ください",
+        "本メールと行き違いでご連絡をいただいておりましたら、何卒ご容赦ください",
+        "ご返信が遅れている理由をお聞かせ願えますでしょうか",
+        "ご返信がない場合は、ご了承いただいたものとさせていただきます"
+      ],
+      "answer": 1,
+      "explanation": "「本メールと行き違いでご連絡をいただいておりましたら、ご容赦ください」 is the set phrase that softens a reminder: it allows that the client may already have replied, so the email does not sound like an accusation. 「ご返信が遅れている理由をお聞かせ願えますでしょうか」 is grammatically polite, but it demands a reason for the delay, which is exactly the blaming tone the writer wants to avoid. 「お手すきの際で構いませんので、本日中に必ず」 contradicts itself, and treating silence as consent is pushy."
+    },
+    {
+      "id": "A3-2-07",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "compliment",
+        "keigo",
+        "client"
+      ],
+      "prompt": "取引先でのプレゼンテーションの後、先方の部長から「今日のご説明、とても分かりやすかったですよ」と言われました。最も適切な返答はどれですか。",
+      "choices": [
+        "とんでもないです。私なんか、まだまだ全然だめです。",
+        "ご苦労さまでした。お役に立てたならよかったです。",
+        "そうですね。かなり準備しましたから。",
+        "恐れ入ります。そうおっしゃっていただけると、大変励みになります。"
+      ],
+      "answer": 3,
+      "explanation": "When a client praises you, accept it modestly and thank them: 「恐れ入ります」 plus 「そうおっしゃっていただけると、大変励みになります」. 「とんでもないです。私なんか…全然だめです」 is the main trap: some modesty is good, but flatly rejecting the compliment with casual 「全然だめです」 sounds awkward and unprofessional. 「ご苦労さまでした」 is said by a superior to a subordinate, and 「かなり準備しましたから」 sounds boastful."
+    },
+    {
+      "id": "A3-2-08",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "introduction",
+        "uchi-soto",
+        "keigo"
+      ],
+      "prompt": "上司の佐藤部長と一緒に取引先を訪問しました。先方の担当者の木村様に、佐藤部長を紹介します。最も適切な言い方はどれですか。",
+      "choices": [
+        "木村様、ご紹介いたします。こちらが弊社営業部長の佐藤でございます。",
+        "木村様、こちらは弊社の佐藤部長でいらっしゃいます。",
+        "佐藤部長、こちらが木村さんです。",
+        "木村様、うちの部長の佐藤さんを紹介します。"
+      ],
+      "answer": 0,
+      "explanation": "You introduce your own side to the client first, and you refer to your boss as an in-group member: position before the name, no title or さん, and humble 「でございます」 → 「弊社営業部長の佐藤でございます」. 「佐藤部長でいらっしゃいます」 is the strongest distractor; it sounds polite, but it attaches the title and the respectful 「いらっしゃる」 to your own boss in front of a client. Calling the client 「木村さん」 or using 「うちの」 and 「佐藤さん」 is too casual and breaks uchi/soto."
+    },
+    {
+      "id": "A3-2-09",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "request",
+        "deadline",
+        "cushion"
+      ],
+      "prompt": "部品の入荷が遅れているため、取引先に約束した納期を延ばしてもらいたいと思っています。＿＿に入る最も適切な表現はどれですか。\n「部品の入荷に遅れが生じておりまして、＿＿。」",
+      "choices": [
+        "納期を少し延ばしてもらってもいいですか",
+        "納期は3日ほど遅れますので、ご了承ください",
+        "大変恐縮ではございますが、納期を3日ほどご猶予いただくことは可能でしょうか",
+        "納期を延長してさしあげることはできますでしょうか"
+      ],
+      "answer": 2,
+      "explanation": "Asking a client to accept a later deadline needs a strong cushion and a request, not an announcement: 「大変恐縮ではございますが、…ご猶予いただくことは可能でしょうか」. The strongest distractor, 「納期は3日ほど遅れますので、ご了承ください」, is polite in form but tells the client about the delay as a decided fact. It gives them no chance to agree. 「延ばしてもらってもいいですか」 is too casual, and 「さしあげる」 wrongly suggests you are doing the client a favour."
+    },
+    {
+      "id": "A3-2-10",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "meeting",
+        "closing",
+        "visit"
+      ],
+      "prompt": "取引先の会社を訪問して打ち合わせをしました。打ち合わせが終わり、帰る前に先方にあいさつします。最も適切なものはどれですか。",
+      "choices": [
+        "それでは、今日はこれで終わりにしましょう。お疲れさまでした。",
+        "本日はお忙しいところお時間をいただき、誠にありがとうございました。引き続きよろしくお願いいたします。",
+        "本日はご足労いただき、誠にありがとうございました。",
+        "じゃあ、また来週ご連絡しますね。失礼します。"
+      ],
+      "answer": 1,
+      "explanation": "As the visitor, you thank the client for the time they gave you and ask for continued cooperation: 「お忙しいところお時間をいただき、誠にありがとうございました。引き続きよろしくお願いいたします」. 「ご足労いただき」 is the strongest distractor because it is a very polite phrase, but it thanks someone for coming to you, and here you went to the client. Closing the meeting yourself with 「終わりにしましょう。お疲れさまでした」 is presumptuous for a guest, and 「じゃあ…ね」 is too casual."
+    },
+    {
+      "id": "A3-3-01",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "notice",
+        "price"
+      ],
+      "passage": "お取引先各位\n株式会社ミドリ製紙\n営業本部\n\n価格改定のお知らせ\n\n拝啓　時下ますますご清栄のこととお慶び申し上げます。平素は格別のご高配を賜り、厚く御礼申し上げます。\nさて、弊社ではここ数年、原材料費および物流費の高騰に対し、製造工程の効率化などによってコストの吸収に努めてまいりました。しかしながら、企業努力のみで現行価格を維持することは困難な状況となり、誠に不本意ではございますが、下記のとおり製品価格を改定させていただくことになりました。\n何卒事情をご賢察のうえ、ご理解賜りますようお願い申し上げます。\n敬具\n\n記\n1. 対象製品：コピー用紙全品（再生紙シリーズを除く）\n2. 改定率：現行価格より8％〜12％の値上げ\n3. 実施時期：2027年1月受注分より\n※2026年12月末日までにいただいたご注文につきましては、納品が1月以降となる場合も現行価格を適用いたします。\n以上",
+      "prompt": "この文書の内容と合っているものはどれですか。",
+      "choices": [
+        "再生紙シリーズを含め、すべての製品が値上げされる。",
+        "12月中に注文すれば、納品が1月になっても現行価格で購入できる。",
+        "値上げの理由は、製造工程の効率化に費用がかかったためである。",
+        "1月以降に納品される製品には、すべて新価格が適用される。"
+      ],
+      "answer": 1,
+      "explanation": "The note says 「12月末日までにいただいたご注文につきましては、納品が1月以降となる場合も現行価格を適用」, so the price depends on the order date, not the delivery date. That rules out 「1月以降に納品される製品には、すべて新価格」. The recycled-paper series is excluded (「再生紙シリーズを除く」). The efficiency improvements were how the company absorbed costs; the reason for the increase is rising material and logistics costs."
+    },
+    {
+      "id": "A3-3-02",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "regulation",
+        "remote-work"
+      ],
+      "passage": "在宅勤務規程（抜粋）\n\n第3条（対象者）\n在宅勤務の対象者は、入社後6か月を経過した正社員のうち、所属長の承認を得た者とする。\n第5条（実施日数）\n在宅勤務は、原則として週3日を上限とする。ただし、業務上の必要がある場合、所属長は在宅勤務予定日であっても出社を命じることができる。\n第7条（申請手続）\n在宅勤務を希望する者は、実施日の前週の金曜日までに、勤怠システムを通じて所属長に申請しなければならない。\n第9条（情報管理）\n在宅勤務中は、会社が貸与したパソコン以外の端末で業務を行ってはならない。また、飲食店等の公共の場所において、機密情報を含む業務を行うことを禁止する。\n第11条（費用負担）\n在宅勤務に伴う通信費の補助として、月額3,000円を支給する。",
+      "prompt": "この規程の内容と合っているものはどれですか。",
+      "choices": [
+        "在宅勤務を行う場合は、前の週の金曜日までに申請しなければならない。",
+        "入社したばかりの正社員でも、所属長が承認すれば在宅勤務ができる。",
+        "本人が希望すれば、在宅勤務を週4日以上にすることができる。",
+        "公共の場所でも、自分のパソコンを使えば業務を行ってよい。"
+      ],
+      "answer": 0,
+      "explanation": "Article 7 states 「実施日の前週の金曜日までに…申請しなければならない」. A brand-new employee cannot work from home, because Article 3 requires 「入社後6か月を経過した」 as well as approval. Four or more days a week exceeds the cap of three, and Article 9 allows only company-issued PCs and bans confidential work in public places."
+    },
+    {
+      "id": "A3-3-03",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "email",
+        "delivery"
+      ],
+      "passage": "件名：【ご回答】部品AX-200の納期について\n\n株式会社東光電機\n購買部　佐々木様\n\nいつもお世話になっております。北山工業の山本です。\n先日お問い合わせいただきましたAX-200（3,000個）の納期につきまして、ご回答いたします。\n現在、材料の入荷が遅れている関係で、ご希望の11月20日に全数をお届けすることが難しい状況です。ご迷惑をおかけし、大変申し訳ございません。\nつきましては、以下のいずれかの方法でご対応いただくことは可能でしょうか。\n①11月20日に1,500個、残りの1,500個を12月4日に分納\n②12月4日に全数を一括納品\nお手数ですが、11月10日までにご希望の方法をお知らせいただけますと幸いです。ご返答をいただき次第、弊社の生産計画を確定いたします。\n何卒よろしくお願い申し上げます。",
+      "prompt": "山本さんが佐々木さんに求めていることは何ですか。",
+      "choices": [
+        "11月20日に全数を納品できるよう、材料を手配すること",
+        "注文数を1,500個に減らすこと",
+        "二つの納品方法のうち、どちらを希望するかを期限までに知らせること",
+        "生産計画を確定して、北山工業に連絡すること"
+      ],
+      "answer": 2,
+      "explanation": "The request is 「11月10日までにご希望の方法をお知らせいただけますと幸いです」, which asks Sasaki to choose between option ① and option ② and reply by the deadline. Confirming the production plan is something Yamamoto's own company will do after the reply (「弊社の生産計画を確定いたします」). Option ① splits the delivery into two shipments but keeps the full 3,000 units, so reducing the order to 1,500 is wrong too."
+    },
+    {
+      "id": "A3-3-04",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "minutes",
+        "meeting"
+      ],
+      "passage": "第4回　販促企画会議　議事録\n日時：10月15日（木）14:00〜15:00\n出席者：中村部長、小林課長、森、石井（記録）\n\n1. 年末キャンペーンについて\n・小林課長より、昨年のキャンペーンは来店数こそ増えたものの、客単価が下がったとの報告があった。\n・今年は割引ではなく、購入金額に応じてポイントを付与する方向で合意した。\n2. SNS広告について\n・森より、動画広告の制作費の見積もりが提示された。予算を2割ほど超過するため、継続審議とする。\n・中村部長より、他社の事例も比較したうえで判断したいとの意見があった。\n3. 次回までの課題\n・森：動画広告を手がける別の制作会社2社から見積もりを取る。\n・小林課長：ポイント付与率の案を作成する。\n\n次回会議：10月29日（木）14:00〜",
+      "prompt": "この議事録の内容と合っているものはどれですか。",
+      "choices": [
+        "年末キャンペーンでは、昨年と同様に割引を実施することになった。",
+        "SNSの動画広告は、予算を超えるため実施しないことが決まった。",
+        "中村部長が、ポイント付与率の案を次回までに作成する。",
+        "森さんが、次回までに他の制作会社から見積もりを取る。"
+      ],
+      "answer": 3,
+      "explanation": "Under 次回までの課題, the minutes record 「森：…別の制作会社2社から見積もりを取る」. The main trap is the claim that the video ad was rejected: it went to 「継続審議」, meaning the decision was postponed to a later meeting. The points-rate proposal is Kobayashi's task, not Nakamura's, and the campaign is moving from discounts to points."
+    },
+    {
+      "id": "A3-3-05",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "report",
+        "new-business"
+      ],
+      "passage": "新規事業「オフィス向け野菜宅配サービス」試験運用報告\n\n1. 概要\n7月から9月までの3か月間、都内の企業12社を対象に、社員向けのカット野菜やサラダを毎朝職場に届けるサービスを試験的に運用した。\n2. 結果\n利用者アンケートでは満足度が87％と高く、特に「昼食の栄養バランスが改善した」との声が多く寄せられた。一方、1社あたりの平均注文数は想定の6割にとどまり、配送費を考慮すると採算は取れていない。\n3. 今後の方針\n需要そのものは確認できたと考えられるため、本事業は継続すべきである。ただし、現行の1社ずつ個別に配送する方式のままでは、採算の改善は見込めない。今後は同じビルに入居する複数の企業へまとめて届ける共同配送に切り替え、1回あたりの配送量を増やすことを提案する。",
+      "prompt": "この報告書で筆者が最も伝えたいことは何ですか。",
+      "choices": [
+        "需要はあるので、配送の方法を変えて事業を続けるべきだ。",
+        "満足度が高いので、現在の方式のまま対象企業を増やすべきだ。",
+        "採算が取れていないので、事業を中止すべきだ。",
+        "注文数を増やすため、商品の種類を増やすべきだ。"
+      ],
+      "answer": 0,
+      "explanation": "The conclusion combines 「本事業は継続すべきである」 with a proposal to switch to 「共同配送」 to fix profitability. The main trap is 「現在の方式のまま対象企業を増やす」, because the writer says 「現行の…方式のままでは、採算の改善は見込めない」, which rules out keeping the current method. The report does not recommend shutting down the business or adding new products."
+    },
+    {
+      "id": "A3-3-06",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "news",
+        "economy"
+      ],
+      "passage": "円安が進行するなか、輸出企業の業績に明暗が分かれている。自動車や電子部品など海外売上比率の高い大手企業では、円換算した売上高が膨らみ、過去最高益を見込む企業が相次いでいる。\n一方、中小の輸出企業からは「円安の恩恵を実感できない」との声も少なくない。製品の原材料やエネルギーの多くを輸入に頼っているため、円安によって調達コストが上昇し、輸出で得た利益が相殺されてしまうからだ。さらに、海外の取引先から円安を理由に値下げを求められるケースもあるという。\nこうした状況について、ある経済の専門家は「円安のメリットを生かすには、価格の安さで勝負するのではなく、品質やブランド力で選ばれる製品づくりが欠かせない」と指摘している。",
+      "prompt": "この記事によると、中小の輸出企業が円安の恩恵を感じにくいのはなぜですか。",
+      "choices": [
+        "海外売上比率が大手企業よりも高いから",
+        "円換算した売上高が減少しているから",
+        "輸入に頼る原材料などの調達コストが上がっているから",
+        "品質やブランド力で選ばれる製品が多いから"
+      ],
+      "answer": 2,
+      "explanation": "The article gives the reason with 「…輸入に頼っているため、円安によって調達コストが上昇し、輸出で得た利益が相殺されてしまうからだ」. The high overseas sales ratio describes the large firms that do benefit, not the small ones. 「品質やブランド力で選ばれる製品」 comes from the expert's advice for the future and is not the current cause."
+    },
+    {
+      "id": "A3-3-07",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "notice",
+        "compliance",
+        "privacy"
+      ],
+      "passage": "社員各位\n情報システム部\n\n個人情報の取り扱いに関する注意喚起\n\n先月、他部署において、顧客名簿を添付したメールを誤って社外の第三者に送信する事案が発生しました。幸い、受信者のご協力により当該メールは削除され、情報の流出は確認されておりません。\n再発防止のため、本日より以下の事項を徹底してください。\n・個人情報を含むファイルを社外に送信する際は、必ずパスワードを設定し、パスワードは電話など別の手段で相手に伝えること\n・送信前に、宛先が正しいかどうかを上司または同僚に確認してもらうこと\n・万一誤送信が発生した場合は、自己判断で対処せず、直ちに情報システム部（内線2045）へ報告すること\nなお、来月より全社員を対象としたeラーニング研修を実施します。詳細は追ってお知らせします。",
+      "prompt": "この通知によると、メールを誤送信してしまった場合、社員はどうしなければなりませんか。",
+      "choices": [
+        "自分で受信者に連絡して、メールを削除してもらう。",
+        "すぐに情報システム部に報告する。",
+        "上司に宛先を確認してもらう。",
+        "パスワードを電話で受信者に伝える。"
+      ],
+      "answer": 1,
+      "explanation": "The rule for a mis-sent email is 「自己判断で対処せず、直ちに情報システム部…へ報告すること」. The main trap is contacting the recipient yourself to have the email deleted: the recipient did delete it in last month's case, but employees are told not to handle it on their own judgment. Checking addresses and sending passwords separately are rules to follow before sending."
+    },
+    {
+      "id": "A3-3-08",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "notice",
+        "hr",
+        "internal-recruitment"
+      ],
+      "passage": "【社内公募】海外事業推進室　メンバー募集\n\n海外事業推進室では、東南アジア市場への本格進出に向けて、新たなメンバーを社内から募集します。\n\n■募集人数：2名\n■業務内容：現地パートナー企業との折衝、市場調査、事業計画の策定\n■応募資格：入社3年以上の社員。英語で業務上のやりとりができること（TOEIC730点程度以上が目安）。海外勤務経験は問いません。\n■応募方法：所定の応募書類を、11月30日までに人事部へ直接提出してください。所属長の事前承認は不要です。なお、応募の事実は、選考を通過するまで所属長には知らされません。\n■選考：書類選考および面接（12月中旬予定）\n■異動時期：2027年4月1日",
+      "prompt": "この募集の内容と合っていないものはどれですか。",
+      "choices": [
+        "海外で働いた経験がなくても応募できる。",
+        "所属長の許可を得なくても応募できる。",
+        "選考に通過した場合、来年の4月に異動する予定である。",
+        "応募書類は、所属長を通して人事部に提出する。"
+      ],
+      "answer": 3,
+      "explanation": "The notice says 「人事部へ直接提出」 and adds that the manager is not even told about the application until it passes screening, so 「所属長を通して」 is false. The question asks for the statement that does NOT match. 「海外勤務経験は問いません」, 「所属長の事前承認は不要」 and the transfer date of 2027年4月1日 support the other three choices."
+    },
+    {
+      "id": "A3-3-09",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": [
+        "email",
+        "trade-show",
+        "thanks"
+      ],
+      "passage": "件名：展示会ご来場の御礼\n\n株式会社ハヤシ物流\n営業企画部　高田様\n\n平素より大変お世話になっております。\n株式会社エコパックの大野でございます。\n\n先日は「国際物流総合展2026」の弊社ブースにお立ち寄りいただき、誠にありがとうございました。\n当日は来場者が多く、新製品「リサイクル緩衝材」について十分にご説明できず、失礼いたしました。改めて製品カタログを添付いたしますので、ご高覧いただけますと幸いです。\nまた、高田様にご関心をお持ちいただいた貴社倉庫での試験導入につきまして、一度貴社へお伺いし、詳しくご説明する機会をいただけないでしょうか。来週以降でご都合のよい日時を、いくつかお知らせいただけますと幸いです。\n\n今後ともよろしくお願い申し上げます。",
+      "prompt": "大野さんが高田さんに次にしてほしいことは何ですか。",
+      "choices": [
+        "大野さんが訪問して説明できる日時の候補を知らせること",
+        "添付したカタログを読んで、感想を送ること",
+        "エコパックの事務所に来て、製品を見ること",
+        "次回の展示会でもう一度ブースに立ち寄ること"
+      ],
+      "answer": 0,
+      "explanation": "The key request is 「一度貴社へお伺いし…ご都合のよい日時を、いくつかお知らせいただけますと幸いです」, so Ohno wants candidate dates for a visit to Takada's company. The catalogue is only to be looked over (「ご高覧いただけますと幸いです」) and no feedback is requested, so 「感想を送ること」 goes too far. The visit is to Hayashi Butsuryu, not to EcoPack's office."
+    },
+    {
+      "id": "A3-3-10",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 3,
+      "tags": [
+        "notice",
+        "expenses",
+        "table"
+      ],
+      "passage": "経理部より：経費精算ルール変更のお知らせ\n\n12月1日以降に発生した経費から、精算のルールを以下のとおり変更します。\nこれまでは紙の領収書を経理部に提出していただいていましたが、今後は精算システムに領収書の画像をアップロードする方式に一本化します。原本の提出は不要となりますが、税務調査に備え、各自で受領日から3か月間保管してください。\nまた、申請期限を短縮します。従来は経費が発生した月の翌月末までとしていましたが、今後は翌月10日までに申請してください。期限を過ぎた申請は、部長の承認がない限り受け付けません。\nなお、タクシー代については、1回の利用が5,000円を超える場合、事前申請が必要となります。",
+      "material": {
+        "kind": "html",
+        "title": "変更点のまとめ",
+        "html": "<table><thead><tr><th>項目</th><th>変更前</th><th>変更後（12月1日〜）</th></tr></thead><tbody><tr><td>領収書</td><td>原本を経理部へ提出</td><td>画像をシステムに登録（原本は3か月保管）</td></tr><tr><td>申請期限</td><td>翌月末</td><td>翌月10日</td></tr><tr><td>タクシー代</td><td>事後申請のみ</td><td>1回5,000円超は事前申請</td></tr></tbody></table>"
+      },
+      "prompt": "12月8日に、取引先を訪問するためタクシーを利用し、4,000円を支払いました。この場合、どうすればよいですか。",
+      "choices": [
+        "領収書の原本を、12月末までに経理部に提出する。",
+        "領収書の画像をシステムに登録し、1月10日までに申請する。",
+        "乗車前に事前申請を行い、1月末までに精算する。",
+        "領収書の画像を登録した後、原本はすぐに破棄する。"
+      ],
+      "answer": 1,
+      "explanation": "The expense falls under the new rules, so the receipt image goes into the system and the claim is due by the 10th of the following month (「翌月10日までに」), which is January 10. The main trap is the prior-application option: prior application applies only above 5,000円, and 「翌月末」 is the old deadline. The original receipt must be kept for three months (「3か月間保管」), not destroyed or submitted on paper."
+    }
+  ]
+}

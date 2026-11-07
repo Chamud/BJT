@@ -1,0 +1,13 @@
+{
+  "name": "bjt-desktop",
+  "version": "1.0.0",
+  "description": "BJT Trainer desktop widget and tray app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.2.3"
+  },
+  "private": true
+}

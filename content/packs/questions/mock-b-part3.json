@@ -1,0 +1,477 @@
+{
+  "id": "mock-b-part3",
+  "title": "Mock B – Part 3 読解",
+  "mock": "B",
+  "questions": [
+    {
+      "id": "B3-1-01",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "negotiation"],
+      "prompt": "新規取引先に共同開発の可能性を＿＿したところ、前向きな返事をいただいた。",
+      "choices": ["打開", "打算", "打診", "打破"],
+      "answer": 2,
+      "explanation": "打診する means to sound someone out / make an informal inquiry about their intentions, which fits 可能性を打診したところ…返事をいただいた. 打開 (breaking a deadlock) and 打破 (smashing, overcoming) need an obstacle as object, e.g. 現状を打開する. 打算 is selfish calculation and cannot take 可能性を as an object."
+    },
+    {
+      "id": "B3-1-02",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "meeting"],
+      "prompt": "会議で反対意見が出ないよう、事前に関係部署へ＿＿しておいたほうがいい。",
+      "choices": ["根回し", "下回り", "遠回し", "後回し"],
+      "answer": 0,
+      "explanation": "根回し is the informal groundwork of getting stakeholders on board before a formal meeting, matching 会議で反対意見が出ないよう、事前に. 後回しにする (postpone) is the tempting distractor, but it takes を/に and contradicts 事前に. 遠回し is an adverbial 'indirectly' (遠回しに言う), and 下回り is not used this way."
+    },
+    {
+      "id": "B3-1-03",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "planning"],
+      "prompt": "資金調達の目途が立たず、新工場の建設計画は事実上＿＿し、白紙に戻された。",
+      "choices": ["頓着", "沈下", "失脚", "頓挫"],
+      "answer": 3,
+      "explanation": "頓挫する means a plan or project collapses midway, which leads naturally to 白紙に戻された (scrapped). 失脚 is the strongest distractor since it also means 'falling', but it applies to people losing their position, not plans. 頓着 means concern about something (usually 〜に頓着しない), and 沈下 is physical sinking (地盤沈下)."
+    },
+    {
+      "id": "B3-1-04",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "compliance"],
+      "prompt": "監査で指摘された不備については、速やかに＿＿措置を講じること。",
+      "choices": ["修繕", "是正", "矯正", "補填"],
+      "answer": 1,
+      "explanation": "是正措置 ('corrective action') is the set phrase for fixing deficiencies pointed out in an audit (指摘された不備). 矯正 also means 'correct', but it is used for physical or behavioural correction such as 歯列矯正 or 視力矯正, not for business procedures. 修繕 is repairing buildings or objects, and 補填 is covering a financial loss."
+    },
+    {
+      "id": "B3-1-05",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "outsourcing"],
+      "prompt": "人手不足のため、データ入力業務を外部の専門業者に＿＿することにした。",
+      "choices": ["依存", "嘱望", "委託", "受託"],
+      "answer": 2,
+      "explanation": "業務を業者に委託する = to outsource / entrust work to a contractor. 受託 is the trap: it is the contractor's side (業務を受託する = to accept work), so it cannot take 業者に as the recipient. 依存 (to depend on) takes に without an object like 業務を, and 嘱望 means to have high hopes for a person."
+    },
+    {
+      "id": "B3-1-06",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["grammar", "N1"],
+      "prompt": "部長＿＿、取引先との会食も週に何度もあり、なかなか気が休まらないそうだ。",
+      "choices": ["をものともせず", "ともなると", "にひきかえ", "はおろか"],
+      "answer": 1,
+      "explanation": "〜ともなると means 'once one reaches the level/status of ~', followed by what naturally comes with that status: 部長ともなると、会食も週に何度も. をものともせず means 'undeterred by' and needs a difficulty as its noun (困難をものともせず). にひきかえ requires a contrast with something else, and はおろか ('let alone') needs a following も/さえ clause about a more extreme case."
+    },
+    {
+      "id": "B3-1-07",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "pricing"],
+      "prompt": "正式な料金体系が決まるまでは、＿＿的に現行価格で取引を継続する。",
+      "choices": ["暫定", "断定", "確定", "仮定"],
+      "answer": 0,
+      "explanation": "暫定的に means 'provisionally / for the time being', matching 正式な…が決まるまでは. 確定 ('finalised') is the opposite of what the 'until it is decided' clause implies. 断定的に means 'assertively', and 仮定 (hypothesis) does not fit an actual business arrangement."
+    },
+    {
+      "id": "B3-1-08",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["vocab", "presentation"],
+      "prompt": "時間の都合により、詳細なご説明は＿＿させていただきます。",
+      "choices": ["省力", "割引", "除外", "割愛"],
+      "answer": 3,
+      "explanation": "割愛する is the polite way to say you will omit something (with regret) and is set in presentations: 詳細な説明は割愛させていただきます. 除外 means excluding items from a set (対象から除外する), so it sounds wrong with an explanation. 省力 means labour-saving (省力化), and 割引 is a price discount."
+    },
+    {
+      "id": "B3-1-09",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["grammar", "N1"],
+      "prompt": "円安による原材料費の高騰を受け、当社も製品価格の改定を＿＿。",
+      "choices": ["余儀なくした", "余儀なくされた", "余儀ないとした", "余儀なくさせた"],
+      "answer": 1,
+      "explanation": "Xを余儀なくされる (passive) = 'to be forced to do X' by circumstances, which is what the company experiences here: 改定を余儀なくされた. 余儀なくさせた is causative-active ('forced someone else to'), so the subject would be the cause (e.g. 高騰が改定を余儀なくさせた), not 当社. 余儀なくした and 余儀ないとした are not used."
+    },
+    {
+      "id": "B3-1-10",
+      "part": 3,
+      "section": 1,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["grammar", "N1"],
+      "prompt": "新製品の発売に＿＿、販売店向けの説明会を開催いたします。",
+      "choices": ["かかわらず", "ひきかえ", "先立ち", "とどまらず"],
+      "answer": 2,
+      "explanation": "Nに先立ち means 'prior to N', used for preparation done before an event: 発売に先立ち、説明会を開催. にかかわらず ('regardless of') does not make sense with a single event like 発売. にとどまらず means 'not limited to' and would need a wider scope after it, and にひきかえ requires a contrast."
+    },
+    {
+      "id": "B3-2-01",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["keigo", "email", "request"],
+      "prompt": "取引先の担当者に、メールで資料の送付を依頼します。最も適切な表現はどれですか。",
+      "choices": [
+        "お手数ですが、資料を送ってもらえますか。",
+        "資料をご送付してください。",
+        "資料を送付させていただきたく存じます。",
+        "お手数をおかけしますが、資料をご送付いただけますでしょうか。"
+      ],
+      "answer": 3,
+      "explanation": "お手数をおかけしますが + ご送付いただけますでしょうか combines a cushion phrase with the humble 〜いただく request form, the standard written request to a client. Choice 1 is polite enough between colleagues, but 送ってもらえますか is too casual for an outside client. ご送付してください wrongly mixes humble ご〜する with an instruction, and 送付させていただきたく means *you* will send it."
+    },
+    {
+      "id": "B3-2-02",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["keigo", "phone", "uchi-soto"],
+      "prompt": "取引先から自社の田中課長あてに電話がありましたが、田中課長は外出中で、15時ごろ戻る予定です。最も適切な応対はどれですか。",
+      "choices": [
+        "あいにく田中は外出しておりまして、15時ごろ戻る予定でございます。",
+        "あいにく田中課長は外出されていまして、15時ごろお戻りになります。",
+        "田中さんは今いらっしゃいませんので、また後でお電話ください。",
+        "田中はただいま外出なさっております。"
+      ],
+      "answer": 0,
+      "explanation": "To an outside caller you refer to your own boss without title or respect language (田中は…しております, 戻る予定でございます). Choice 2 sounds polite but uses 課長, 外出されて and お戻りになります, which elevate an in-group member in front of a client. Choices 3 and 4 also use respectful forms (いらっしゃいません, なさって) for your own colleague, and 3 brusquely tells the client to call back."
+    },
+    {
+      "id": "B3-2-03",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["cushion", "refusal", "schedule"],
+      "prompt": "取引先から打ち合わせの日程を提案されましたが、その日は都合がつきません。最も適切な断り方はどれですか。",
+      "choices": [
+        "その日は無理です。別の日にしてください。",
+        "その日はちょっと……。",
+        "せっかくご提案いただいたのですが、あいにくその日は先約がございまして、別の日程をご検討いただけないでしょうか。",
+        "その日はお伺いになれませんので、ご了承ください。"
+      ],
+      "answer": 2,
+      "explanation": "Choice 3 uses cushion words (せっかく…のですが, あいにく), gives a reason (先約がございまして) and offers an alternative politely (ご検討いただけないでしょうか). Choice 2 is the trap: trailing off with ちょっと… is a common spoken refusal but is vague and too casual for a client. お伺いになれません wrongly attaches respectful お〜になる to your own humble verb 伺う."
+    },
+    {
+      "id": "B3-2-04",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["keigo", "request", "superior"],
+      "prompt": "忙しそうな部長に、作成した資料を確認してもらいたいと思っています。最も適切な表現はどれですか。",
+      "choices": [
+        "部長、資料をご覧になってあげてください。",
+        "部長、お忙しいところ恐れ入りますが、こちらの資料にお目通しいただけますか。",
+        "部長、資料を拝見してください。",
+        "部長、資料を見ておいてもらえると助かります。"
+      ],
+      "answer": 1,
+      "explanation": "お忙しいところ恐れ入りますが is the cushion phrase for interrupting a busy superior, and お目通しいただけますか is a polite request to look over a document. Choice 4 is the strongest distractor: it is soft, but 見ておいてもらえると助かります is casual and puts your convenience first. 拝見 is humble (your own action), so 拝見してください is wrong, and 〜てあげてください is inappropriate toward a superior."
+    },
+    {
+      "id": "B3-2-05",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["apology", "email"],
+      "prompt": "取引先からのメールへの返信が3日遅れてしまいました。返信メールの冒頭に書く表現として、最も適切なものはどれですか。",
+      "choices": [
+        "返信が遅れたのは、出張していたからです。",
+        "ご返信をお待たせいたしました。",
+        "返信が遅くなったことをお詫び申し上げてください。",
+        "ご連絡が遅くなり、大変申し訳ございません。"
+      ],
+      "answer": 3,
+      "explanation": "ご連絡が遅くなり、大変申し訳ございません is the set apology for a late reply; ご連絡 is an accepted humble use of ご for your own action toward the other party. Choice 1 starts with an excuse and no apology. お待たせいたしました is a real phrase, but ご返信をお待たせ is ungrammatical (you keep a *person* waiting), and お詫び申し上げてください asks the reader to apologise."
+    },
+    {
+      "id": "B3-2-06",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["phone", "order", "keigo"],
+      "prompt": "取引先から電話で注文を受けました。電話を切る前に、注文の内容を確認します。最も適切な言い方はどれですか。",
+      "choices": [
+        "ご注文はA4用紙50箱、納品は来週月曜日でよろしかったでしょうか。",
+        "ご注文の内容を確認いたしてください。A4用紙50箱、来週月曜日納品です。",
+        "念のため、ご注文内容を復唱させていただきます。A4用紙を50箱、納品は来週月曜日でよろしいでしょうか。",
+        "A4用紙50箱、来週月曜日に納品ですね。じゃあ、それで手配しておきます。"
+      ],
+      "answer": 2,
+      "explanation": "「念のため、ご注文内容を復唱させていただきます」 announces a read-back politely, and 「〜でよろしいでしょうか」 checks the details in the present tense. 「よろしかったでしょうか」 is the strongest distractor. It is heard often in shops, but the past tense for a confirmation happening now is widely treated as incorrect \"manual keigo\" in business. 「確認いたしてください」 makes the client do the checking with a humble verb, and the last choice is too casual."
+    },
+    {
+      "id": "B3-2-07",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["phone", "message", "uchi-soto"],
+      "prompt": "取引先から、外出中の同僚の中村さんあてに電話があり、伝言を頼まれました。伝言を聞き終わったあと、何と言いますか。\n「かしこまりました。中村が戻りましたら、＿＿。」",
+      "choices": ["申し伝えます", "お伝えになります", "中村さんにおっしゃっておきます", "伝言してあげます"],
+      "answer": 0,
+      "explanation": "「申し伝えます」 is the humble set phrase for \"I will pass the message on\" when speaking to an outside caller about a colleague. 「お伝えになります」 is the strongest distractor because it looks polite, but 「お〜になる」 is a respectful form and cannot be used for your own action. 「おっしゃる」 is respectful as well and raises 中村さん. 「〜てあげます」 sounds condescending toward the caller."
+    },
+    {
+      "id": "B3-2-08",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["phone", "cushion", "request"],
+      "prompt": "取引先と電話で話していますが、相手の声がよく聞こえず、話の内容を聞き取れませんでした。最も適切な言い方はどれですか。",
+      "choices": [
+        "すみません、声が小さくて聞こえないんですが。",
+        "えっ？何とおっしゃいましたか。",
+        "恐れ入りますが、もう一度申し上げていただけますか。",
+        "恐れ入りますが、お電話が少々遠いようでして、もう一度おっしゃっていただけますでしょうか。"
+      ],
+      "answer": 3,
+      "explanation": "The set expression 「お電話が少々遠いようでして」 blames the line, not the speaker, and 「もう一度おっしゃっていただけますでしょうか」 asks politely for a repeat. 「もう一度申し上げていただけますか」 is the strongest distractor: it has the right cushion, but 「申し上げる」 is a humble verb and cannot describe the client's speaking. 「声が小さくて」 blames the caller, and 「えっ？」 is too abrupt."
+    },
+    {
+      "id": "B3-2-09",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["visit", "gift", "keigo"],
+      "prompt": "取引先を訪問した際、手土産のお菓子を持っていきました。お菓子を渡すときに何と言いますか。",
+      "choices": [
+        "おいしいので、ぜひ食べてみてください。",
+        "ほんの気持ちばかりですが、皆様で召し上がってください。",
+        "ほんの気持ちばかりですが、皆様でいただいてください。",
+        "お菓子を持ってまいりましたので、お召し上がりになられてください。"
+      ],
+      "answer": 1,
+      "explanation": "「ほんの気持ちばかりですが」 modestly presents the gift, and 「召し上がってください」 uses the respectful verb for the client's eating. The third choice is the trap: the opening is the same, but 「いただく」 is humble and describes your own eating, so it cannot be used for the client. 「お召し上がりになられて」 is double keigo, and 「おいしいので…食べてみて」 is too casual and self-praising."
+    },
+    {
+      "id": "B3-2-10",
+      "part": 3,
+      "section": 2,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["refusal", "negotiation", "cushion"],
+      "prompt": "取引先から、見積金額からさらに1割の値引きを求められましたが、これ以上は応じられません。最も適切な断り方はどれですか。",
+      "choices": [
+        "これ以上の値引きは無理です。ご理解ください。",
+        "前向きに検討させていただきますが、たぶん難しいと思います。",
+        "ご要望に沿えず誠に心苦しいのですが、これ以上のお値引きはいたしかねます。何卒ご理解賜りますようお願い申し上げます。",
+        "せっかくですが、これ以上のお値引きはおできになりません。"
+      ],
+      "answer": 2,
+      "explanation": "A firm but polite business refusal acknowledges the request (「ご要望に沿えず誠に心苦しいのですが」), declines with the humble set form 「〜いたしかねます」, and asks for understanding (「ご理解賜りますよう」). 「前向きに検討させていただきますが、たぶん難しい」 is the strongest distractor. It sounds soft, but it is vague and contradictory, and it may leave the client with false hope. 「無理です」 is too blunt, and 「おできになりません」 uses a respectful form for your own company's action."
+    },
+    {
+      "id": "B3-3-01",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["notice", "system", "deadline"],
+      "passage": "件名：勤怠管理システム移行に伴うお願い\n\n社員各位\n\n情報システム部の佐藤です。\n現在使用している勤怠管理システムは、11月末をもって保守期限を迎えるため、12月1日より新システム「ワークログ」へ移行いたします。\n移行に先立ち、11月25日（水）までに、各自新システムへの初回ログインを行い、パスワードを変更してください。期限までに変更が確認できない場合、12月以降の打刻ができなくなりますので、ご注意ください。\nなお、11月分の勤怠は旧システムで締めていただく必要があります。11月30日までの打刻は旧システムで行い、新システムでの打刻は12月1日からとなります。\n操作マニュアルは社内ポータルに掲載しております。ご不明な点は内線2045までお問い合わせください。",
+      "prompt": "社員が11月25日までにしなければならないことは何ですか。",
+      "choices": [
+        "新システムに初回ログインし、パスワードを変更する",
+        "11月分の勤怠データを新システムに移す",
+        "情報システム部に操作マニュアルを請求する",
+        "旧システムで12月分の打刻を始める"
+      ],
+      "answer": 0,
+      "explanation": "The deadline sentence is 11月25日（水）までに、各自新システムへの初回ログインを行い、パスワードを変更してください. Choice 2 is the main trap: the notice says the opposite — 11月分の勤怠は旧システムで締めて, so November data stays in the old system. The manual is already on the portal (掲載しております), and December clock-ins go into the new system."
+    },
+    {
+      "id": "B3-3-02",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["letter", "negotiation", "pricing"],
+      "passage": "株式会社丸山製作所\n営業部 部長 丸山 浩様\n\n平素より格別のお引き立てを賜り、厚く御礼申し上げます。\nさて、先日ご依頼のありました部品単価の改定につきまして、社内で慎重に検討いたしました。原材料価格の高騰という御社のご事情は十分理解しております。しかしながら、弊社としても販売価格への転嫁が難しい状況にあり、ご提示の一律8％の値上げをそのままお受けすることはいたしかねます。\nつきましては、来年3月までは5％の改定とし、4月以降の単価については、改めて原価の内訳をお示しいただいたうえで協議させていただきたく存じます。\n誠に勝手なお願いではございますが、ご検討のほど、よろしくお願い申し上げます。\n\n株式会社東和電機 購買部 吉田",
+      "prompt": "吉田さんは丸山製作所に何を求めていますか。",
+      "choices": [
+        "値上げの要請を取り下げること",
+        "8％の値上げを4月から実施すること",
+        "当面は5％の改定で了承し、4月以降については原価の内訳を示すこと",
+        "東和電機の販売価格への転嫁方法を提案すること"
+      ],
+      "answer": 2,
+      "explanation": "Yoshida declines the full 8% (お受けすることはいたしかねます) but proposes 来年3月までは5％の改定 and, for April onward, 原価の内訳をお示しいただいたうえで協議. Choice 1 is the strongest distractor, but the letter is a counter-offer, not a flat rejection — a 5% increase is accepted. Choice 2 misreads 4月以降, which is to be negotiated, not fixed at 8%."
+    },
+    {
+      "id": "B3-3-03",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["IR", "financials", "table"],
+      "passage": "当期（2026年3月期）の連結売上高は、前期比6.2％増の1,284億円となりました。国内の外食向け食材販売が回復したことに加え、東南アジアでの冷凍食品事業が好調に推移したことが主な要因です。\n一方、営業利益は前期比3.1％減の72億円にとどまりました。物流費や人件費の上昇を価格改定で吸収しきれなかったことが響きました。\nなお、海外工場の建設に伴う一時的な費用が発生したものの、前期に計上した減損損失がなくなったため、当期純利益は前期を上回りました。\n次期につきましては、生産拠点の自動化による原価低減を進め、増収増益を見込んでおります。年間配当は、前期から2円増配の1株当たり40円を予定しております。",
+      "material": {
+        "kind": "html",
+        "title": "連結業績の概要（単位：億円）",
+        "html": "<table><thead><tr><th>項目</th><th>前期</th><th>当期</th></tr></thead><tbody><tr><td>売上高</td><td>1,209</td><td>1,284</td></tr><tr><td>営業利益</td><td>74</td><td>72</td></tr><tr><td>当期純利益</td><td>38</td><td>45</td></tr></tbody></table>"
+      },
+      "prompt": "この決算概要の内容と合っているものはどれですか。",
+      "choices": [
+        "営業利益が減少したため、当期純利益も前期を下回った",
+        "売上高は増加したが、コストの上昇により営業利益は減少した",
+        "東南アジアの冷凍食品事業の不振が売上高を押し下げた",
+        "次期の年間配当は前期と同額を予定している"
+      ],
+      "answer": 1,
+      "explanation": "Sales rose 6.2% but operating profit fell to 72億円 because 物流費や人件費の上昇を価格改定で吸収しきれなかった, so choice 2 is correct. Choice 1 is the trap: net profit actually rose (38→45) because the previous year's 減損損失 disappeared. The Southeast Asian frozen-food business was 好調, not weak, and the dividend is 2円増配."
+    },
+    {
+      "id": "B3-3-04",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["report", "training", "HR"],
+      "passage": "新入社員研修 実施報告\n\n1．概要\n4月7日から4月25日までの3週間、新入社員24名を対象に集合研修を実施した。前半はビジネスマナーと社内規程、後半は部署別の業務実習とした。\n2．結果\n研修後のアンケートでは、満足度は5段階評価で平均4.3と昨年度を上回った。特に、先輩社員と少人数で議論するグループワークの評価が高かった。一方、「業務実習の期間が短く、実際の仕事の流れがつかめなかった」という声が全体の約4割から寄せられた。\n3．今後の課題\nマナー研修は内容を精査し、eラーニングで事前に学習できるようにすることで、集合研修の日数を短縮できると考える。その分を業務実習に充て、配属先の部署と連携して実習内容を見直すことを提案したい。",
+      "prompt": "報告書の書き手は、来年度の研修をどうすべきだと考えていますか。",
+      "choices": [
+        "グループワークの時間を減らし、マナー研修を充実させる",
+        "研修期間全体を3週間より長くする",
+        "先輩社員との少人数の議論をeラーニングに置き換える",
+        "マナー研修の一部をeラーニングに移し、業務実習の期間を増やす"
+      ],
+      "answer": 3,
+      "explanation": "Section 3 says manners training can move to e-learning (eラーニングで事前に学習できるようにする) to shorten classroom days, and その分を業務実習に充て — i.e. reallocate the time to on-the-job practice. Choice 2 is tempting because trainees said practice was too short, but the writer proposes redistributing time within the programme, not extending it. Group work was rated highly, so there is no proposal to cut or replace it."
+    },
+    {
+      "id": "B3-3-05",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["notice", "HR", "flextime"],
+      "passage": "フレックスタイム制の導入について\n\n来年1月1日より、本社勤務の全社員を対象にフレックスタイム制を導入します。\n・コアタイムは11時から15時とし、この時間帯は原則として勤務してください。\n・始業・終業時刻は、7時から22時の間で各自が決定できます。\n・清算期間は1か月とし、月の所定労働時間に満たない場合、不足分を翌月に繰り越すことはできません。不足した時間は欠勤扱いとなります。\n・顧客との打ち合わせや会議がコアタイム外に設定された場合は、業務を優先してください。\nなお、工場勤務の社員については、生産ラインの稼働時間との調整が必要なため、導入を見送ります。導入時期は来年度中に改めてお知らせします。\n\n人事部",
+      "prompt": "この案内の内容と合わないものはどれですか。",
+      "choices": [
+        "月の労働時間が不足した場合は、翌月に補うことができる",
+        "コアタイムには原則として勤務しなければならない",
+        "工場勤務の社員は、当面は対象外である",
+        "始業時刻は朝7時以降で各自が決められる"
+      ],
+      "answer": 0,
+      "explanation": "This asks for the statement that does NOT match. The notice says 不足分を翌月に繰り越すことはできません and the shortfall is treated as 欠勤, so choice 1 contradicts it. Choice 3 might look wrong because factories are 'not included', but 導入を見送ります with a later announcement means they are excluded for now — exactly what 当面は対象外 says."
+    },
+    {
+      "id": "B3-3-06",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 3,
+      "tags": ["contract", "legal", "outsourcing"],
+      "passage": "第8条（再委託）\n1．受託者は、委託者の事前の書面による承諾を得た場合に限り、本業務の全部または一部を第三者に再委託することができる。\n2．前項に基づき再委託を行った場合であっても、受託者は、再委託先の行為について自らの行為と同様の責任を負うものとする。\n\n第9条（秘密保持）\n1．受託者は、本業務の遂行上知り得た委託者の情報を、本業務以外の目的に使用し、または第三者に開示してはならない。\n2．前項の義務は、本契約終了後も3年間存続する。ただし、受託者が委託者から開示を受ける前に既に保有していた情報については、この限りではない。",
+      "prompt": "この契約の内容と合っているものはどれですか。",
+      "choices": [
+        "受託者は、口頭で承諾を得れば業務を再委託できる",
+        "再委託先の行為によって問題が生じた場合、受託者が責任を負う",
+        "秘密保持の義務は、契約終了と同時になくなる",
+        "受託者がもともと保有していた情報も、秘密保持の対象となる"
+      ],
+      "answer": 1,
+      "explanation": "第8条2 states 再委託を行った場合であっても、受託者は再委託先の行為について自らの行為と同様の責任を負う — the contractor stays liable. Choice 1 is the closest distractor, but approval must be 事前の書面による (prior and in writing), not verbal. The confidentiality duty survives 3 years after termination, and ただし…この限りではない excludes information the contractor already held."
+    },
+    {
+      "id": "B3-3-07",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["news", "logistics", "main-idea"],
+      "passage": "トラック運転手の時間外労働に上限が設けられたことで、物流業界では輸送力の不足が深刻さを増している。こうした中、大手物流各社の間で、競合関係を超えた「共同配送」の動きが広がっている。\n共同配送とは、複数の企業の荷物を1台のトラックにまとめて運ぶ仕組みである。これまでは各社が自前の車両で配送していたため、積載率が5割に満たないトラックも少なくなかった。共同化によって車両の台数を減らせれば、運転手1人当たりの負担も軽くなる。\nただし、課題もある。各社の荷物の大きさや伝票の形式が統一されていないため、積み替えの際に手間がかかるのだ。業界団体は来年度中に伝票の標準化を進める方針を示しているが、各社のシステム改修には相当の費用がかかるとみられ、普及には時間を要しそうだ。",
+      "prompt": "この記事で最も言いたいことは何ですか。",
+      "choices": [
+        "運転手の時間外労働の上限規制は撤廃すべきだ",
+        "物流各社は自前の車両を増やして輸送力を確保している",
+        "共同配送は輸送力不足への対策として広がりつつあるが、普及には課題もある",
+        "伝票の標準化が来年度中に完了し、共同配送が一気に普及する"
+      ],
+      "answer": 2,
+      "explanation": "The article introduces 共同配送 as a growing response to the driver shortage, then turns with ただし、課題もある and ends 普及には時間を要しそうだ — choice 3 covers both halves. Choice 4 is the main distractor: the industry body only 標準化を進める方針, and the article predicts slow, costly adoption, not rapid spread. The article does not argue against the overtime cap, and companies are reducing, not adding, vehicles."
+    },
+    {
+      "id": "B3-3-08",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["email", "apology", "delivery"],
+      "passage": "件名：商品誤配送のお詫び\n\n株式会社みどり商店\n購買ご担当 中村様\n\nいつも大変お世話になっております。\n株式会社アオバ物産、営業部の岡田でございます。\nこのたびは、11月10日にご注文いただいたA4コピー用紙50箱に対し、誤ってB5サイズの商品をお届けしてしまい、誠に申し訳ございませんでした。\n出荷時の確認作業に不備があったことが原因です。正しい商品は本日発送の手配をいたしましたので、明日午前中にはお届けできる見込みです。誤ってお届けした商品は、配送業者が正しい商品をお届けする際に引き取らせていただきますので、それまでお手元に保管いただけますと幸いです。\n今後は出荷前の確認を二重に行うなど、再発防止に努めてまいります。\n重ねてお詫び申し上げます。",
+      "prompt": "アオバ物産は、誤って届けた商品をどうしますか。",
+      "choices": [
+        "中村さんに返送してもらう",
+        "本日中に岡田さんが回収に行く",
+        "みどり商店に無償で提供する",
+        "正しい商品を届けるときに引き取る"
+      ],
+      "answer": 3,
+      "explanation": "The email says 配送業者が正しい商品をお届けする際に引き取らせていただきます, so the wrong goods are collected when the correct ones arrive. Choice 1 is the main trap: Nakamura is asked only to keep the items (お手元に保管いただけますと幸いです), not to send them back. What happens 本日 is shipping the correct goods, not a pickup visit, and nothing is offered free of charge."
+    },
+    {
+      "id": "B3-3-09",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["recommendation", "HR", "award"],
+      "passage": "社長賞推薦書\n\n被推薦者：カスタマーサポート課 林 美咲\n推薦者：カスタマーサポート課長 森田 健\n\n林さんを本年度の社長賞に推薦いたします。\n当課では昨年度、問い合わせ件数の増加に対応が追いつかず、回答までに平均3日を要していました。林さんは、問い合わせの約半数が似た内容であることに着目し、過去の対応記録を分析して、よくある質問のページを作成しました。その結果、問い合わせ件数は前年比で3割減少し、平均回答日数も1日以内に短縮されました。\n特筆すべきは、林さんがこの取り組みを通常業務と並行して、上司からの指示を待たずに進めた点です。また、作成したページの更新手順を課員全員で共有し、担当者が替わっても運用が続く仕組みを整えました。\n以上の理由により、林さんは社長賞にふさわしいと考えます。",
+      "prompt": "森田さんが、林さんの取り組みの中で特に評価している点は何ですか。",
+      "choices": [
+        "指示を待たずに、通常業務と並行して自主的に取り組んだこと",
+        "問い合わせ件数を前年の半分に減らしたこと",
+        "課員全員に問い合わせ対応の研修を行ったこと",
+        "上司の指示に従って過去の対応記録を分析したこと"
+      ],
+      "answer": 0,
+      "explanation": "特筆すべきは ('what deserves special mention') signals the point Morita values most: 通常業務と並行して、上司からの指示を待たずに進めた点. Choice 2 is the main trap: 約半数 refers to the share of similar inquiries, while the actual reduction was 3割. Choice 4 directly contradicts 指示を待たずに, and sharing the update procedure is not the same as running training."
+    },
+    {
+      "id": "B3-3-10",
+      "part": 3,
+      "section": 3,
+      "source": "original",
+      "difficulty": 2,
+      "tags": ["notice", "safety", "drill"],
+      "passage": "防災訓練実施のお知らせ\n\n全従業員各位\n\n下記のとおり、ビル全体の合同防災訓練を実施いたします。業務ご多忙の折とは存じますが、全員参加のうえ、ご協力をお願いいたします。\n\n日時：12月4日（金）14:00～14:45（雨天決行）\n内容：避難訓練、消火器の使用体験（希望者のみ）\n\n・14:00に地震発生を想定した館内放送が流れます。放送後、エレベーターは使用せず、階段で1階正面玄関前の広場へ避難してください。\n・各部署の防災担当者は、避難完了後に部署の人数を確認し、総務部の受付に報告してください。\n・当日来客の予定がある方は、事前に訓練実施の旨を先方にお伝えください。\n・外出等でやむを得ず参加できない方は、12月1日までに所属長を通じて総務部へご連絡ください。\n\n総務部",
+      "prompt": "この案内の内容と合っているものはどれですか。",
+      "choices": [
+        "雨が降った場合、訓練は延期される",
+        "消火器の使用体験には全員が参加する",
+        "訓練に参加できない場合は、所属長を通じて事前に連絡する",
+        "避難後、各自が総務部の受付で名前を報告する"
+      ],
+      "answer": 2,
+      "explanation": "The notice says やむを得ず参加できない方は、12月1日までに所属長を通じて総務部へご連絡ください, matching choice 3. Choice 4 is the strongest distractor: reporting to the 総務部 desk is done by each department's 防災担当者 after counting heads, not by every individual. 雨天決行 means the drill goes ahead in rain, and the extinguisher session is 希望者のみ."
+    }
+  ]
+}

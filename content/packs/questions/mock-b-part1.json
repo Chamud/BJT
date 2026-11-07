@@ -1,0 +1,1362 @@
+{
+ "id": "mock-b-part1",
+ "title": "Mock B – Part 1 聴解",
+ "mock": "B",
+ "questions": [
+  {
+   "id": "B1-1-01",
+   "part": 1,
+   "section": 1,
+   "source": "original",
+   "difficulty": 1,
+   "tags": [
+    "photo",
+    "reception"
+   ],
+   "scene": "会社の受付カウンター。カウンターの内側に制服姿の女性が立ち、ストラップの付いたカードを、外側に立つスーツ姿の男性に差し出している。男性は手に何も持っておらず、カウンターの上には電話と記帳用の用紙が置かれている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "写真を見てください。"
+     }
+    ],
+    "question": "写真の内容を表している文はどれですか。"
+   },
+   "choices": [
+    "男性が受付の女性に名刺を差し出しています。",
+    "女性が座ったまま電話を受けています。",
+    "女性が男性に入館証を手渡しています。",
+    "男性がカウンターで用紙に記入しています。"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "The receptionist is holding out a card on a strap (a visitor pass) to the man, so 「女性が男性に入館証を手渡しています」 is correct. The phone and the sign-in form are on the counter but nobody is using them, which rules out choices 2 and 4, and the man's hands are empty, so he is not offering a 名刺 (choice 1)."
+  },
+  {
+   "id": "B1-1-02",
+   "part": 1,
+   "section": 1,
+   "source": "original",
+   "difficulty": 1,
+   "tags": [
+    "photo",
+    "inventory"
+   ],
+   "scene": "倉庫の中。作業服の男性がタブレットを片手に、商品がほとんど残っていない棚を指さしている。男性の横には、段ボール箱が三つ載った台車が止めてある。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "写真を見てください。"
+     }
+    ],
+    "question": "写真の内容を表している文はどれですか。"
+   },
+   "choices": [
+    "棚の在庫が少なくなっています。",
+    "棚に段ボール箱がぎっしり並んでいます。",
+    "男性が台車を押して荷物を運んでいます。",
+    "男性が段ボール箱を棚に入れています。"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "The shelf has almost nothing left on it, so 「棚の在庫が少なくなっています」 describes the photo. The cart with boxes is parked (止めてある), not being pushed, so choice 3 is wrong; the man is pointing at the shelf with a tablet, not loading boxes (choice 4), and the shelf is nearly empty rather than 「ぎっしり」 full (choice 2)."
+  },
+  {
+   "id": "B1-1-03",
+   "part": 1,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "photo",
+    "presentation"
+   ],
+   "scene": "会議室の前方のスクリーンに棒グラフが映っている。その横に立った女性が片手を画面に向けて話しており、テーブルでは男性二人が画面のほうを向いて座っている。男性の一人の前にはノートパソコンが開いてある。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "写真を見てください。"
+     }
+    ],
+    "question": "写真の内容を表している文はどれですか。"
+   },
+   "choices": [
+    "女性が座って資料を読み上げています。",
+    "男性がスクリーンの前で説明しています。",
+    "スクリーンには何も映っていません。",
+    "女性が画面を指しながら説明しています。"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "The woman is standing beside the screen, gesturing at it while speaking: 「女性が画面を指しながら説明しています」. Choice 2 swaps the roles (the men are seated listening), choice 1 has her seated, and choice 3 contradicts the bar chart shown on the screen.",
+   "image": "/images/B1-1-03.jpg"
+  },
+  {
+   "id": "B1-1-04",
+   "part": 1,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "photo",
+    "entertaining"
+   ],
+   "scene": "和室の個室。座卓の上に料理の皿とグラスが並んでいる。奥に年配の男性が二人、手前に若い男性が一人、それぞれ座布団に座っており、手前の男性が両手で瓶を持って、奥の男性のグラスのほうに傾けている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "写真を見てください。"
+     }
+    ],
+    "question": "写真の内容を表している文はどれですか。"
+   },
+   "choices": [
+    "三人が椅子に座って食事をしています。",
+    "手前の男性が相手に飲み物をついでいます。",
+    "奥の男性が料理を取り分けています。",
+    "座卓の上にはまだ何も置かれていません。"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "The younger man is tilting a bottle toward the older man's glass with both hands, i.e. 「飲み物をついでいます」 (pouring a drink, a typical 接待 gesture). They are sitting on the floor of a 和室, not on chairs (choice 1); dishes are already on the table (choice 4); and nobody is serving food (choice 3).",
+   "image": "/images/B1-1-04.jpg"
+  },
+  {
+   "id": "B1-1-05",
+   "part": 1,
+   "section": 1,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "photo",
+    "overtime"
+   ],
+   "scene": "窓の外は暗く、オフィスの照明は半分ほど消えている。一つの島だけ明かりがつき、女性がパソコンに向かってキーボードを打っている。ほかの席に人はおらず、椅子は机の下にしまわれている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "写真を見てください。"
+     }
+    ],
+    "question": "写真の内容を表している文はどれですか。"
+   },
+   "choices": [
+    "大勢の社員が残業しています。",
+    "部屋の明かりがすべて消えています。",
+    "一人だけ残って仕事をしています。",
+    "女性が帰りの支度をしています。"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "Only one woman is still at her desk, typing, while every other seat is empty: 「一人だけ残って仕事をしています」. Choice 1 is wrong because the other desks are empty, choice 2 because one island is still lit (only half the lights are off), and choice 4 because she is still working, not packing up.",
+   "image": "/images/B1-1-05.jpg"
+  },
+  {
+   "id": "B1-2-01",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "phone",
+    "appointment"
+   ],
+   "scene": "男性社員が自分の席で受話器を耳に当て、卓上カレンダーを見ている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "男の人が取引先の担当者に電話をしています。来週、取引先を訪問したいと考えています。"
+     }
+    ],
+    "question": "男の人は何と言いますか。"
+   },
+   "choices": [
+    "来週、御社にお伺いになりたいのですが、ご都合はいかがですか。",
+    "来週、御社にお伺いしたいのですが、ご都合のよろしい日はございますか。",
+    "来週、そちらに行きたいんですけど、いつが空いてますか。",
+    "来週、御社に参られたいのですが、いつがよろしいでしょうか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "Visiting is the speaker's own action, so it takes the humble 伺う: 「お伺いしたいのですが、ご都合のよろしい日はございますか」. Choice 1 wraps the humble verb in the honorific pattern お〜になる (「お伺いになりたい」), which raises the speaker himself. Choice 4's 「参られたい」 mixes humble 参る with respectful -れる, and choice 3 is far too casual for a client.",
+   "image": "/images/B1-2-01.jpg"
+  },
+  {
+   "id": "B1-2-02",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "hourensou",
+    "cushion"
+   ],
+   "scene": "女性社員が書類を持って、パソコンで作業中の上司の席の横に立っている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "女の人は部長に報告したいことがあります。部長は忙しそうにしています。"
+     }
+    ],
+    "question": "女の人は何と言いますか。"
+   },
+   "choices": [
+    "部長、ちょっといい？報告があるんだけど。",
+    "部長、あいにくですが、ご報告したいことがあるのですが。",
+    "部長、ご報告になりたいことがあるのですが、今よろしいですか。",
+    "部長、お忙しいところすみません。ご報告したいことがあるのですが、五分ほどよろしいでしょうか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "Interrupting a busy superior calls for the cushion 「お忙しいところすみません」 plus a polite request for time: 「五分ほどよろしいでしょうか」. Choice 2 uses the wrong cushion word — 「あいにく」 is for delivering bad news or declining, not for asking for time. Choice 3's 「ご報告になりたい」 puts the honorific form on the speaker's own action, and choice 1 is plain-form speech to a 部長.",
+   "image": "/images/B1-2-02.jpg"
+  },
+  {
+   "id": "B1-2-03",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "reception"
+   ],
+   "scene": "受付カウンターで、女性の受付係がスーツ姿の来客の男性と向かい合っている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社の受付に男性が来て、営業部の田中さんに会いたいと言いました。受付の女の人は、来客の名前を確認したいと思っています。"
+     }
+    ],
+    "question": "受付の女の人は何と言いますか。"
+   },
+   "choices": [
+    "恐れ入りますが、お名前を伺ってもよろしいでしょうか。",
+    "恐れ入りますが、お名前をお伺いになってもよろしいでしょうか。",
+    "すみませんが、お名前を申していただけますか。",
+    "お名前は何ですか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "The receptionist is the one hearing (asking), so the humble 伺う is correct: 「お名前を伺ってもよろしいでしょうか」. Choice 2 turns her own action into honorific お〜になる, which is wrong. Choice 3 applies the humble 申す to the visitor's action, and choice 4 is too blunt for a guest.",
+   "image": "/images/B1-2-03.jpg"
+  },
+  {
+   "id": "B1-2-04",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "complaint",
+    "phone"
+   ],
+   "scene": "女性社員がヘッドセットをつけ、パソコンの画面を見ながら電話で話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "客から、注文した商品が壊れた状態で届いたという電話がありました。女の人は、まず謝って、注文の内容を確認したいと思っています。"
+     }
+    ],
+    "question": "女の人は何と言いますか。"
+   },
+   "choices": [
+    "そうですか。こちらでは分かりかねますので、メーカーに直接お問い合わせください。",
+    "それは配送業者のミスだと思われますので、私どもには責任がございません。",
+    "ご迷惑をおかけして、大変申し訳ございません。恐れ入りますが、ご注文番号をお教えいただけますでしょうか。",
+    "大変申し訳ございません。それでは、ご注文番号を申し上げてください。"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "The right first response to a complaint is an apology followed by a polite request for information: 「ご迷惑をおかけして、大変申し訳ございません…ご注文番号をお教えいただけますでしょうか」. Choice 4 also apologizes, but 「申し上げてください」 asks the customer to use a humble verb about their own action, which is a keigo error. Choices 1 and 2 deflect responsibility and are inappropriate.",
+   "image": "/images/B1-2-04.jpg"
+  },
+  {
+   "id": "B1-2-05",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "keigo",
+    "entertaining",
+    "client"
+   ],
+   "scene": "応接室で、男性社員が取引先の年配の男性と向かい合って座り、手帳を開いている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "男の人は、取引先の山本部長を食事に招待することになりました。店を決める前に、山本部長に苦手な食べ物があるかどうか聞きたいと思っています。"
+     }
+    ],
+    "question": "男の人は何と言いますか。"
+   },
+   "choices": [
+    "山本部長、何か嫌いな食べ物ある？",
+    "山本部長、苦手な食べ物がございましたら、お申し付けしてください。",
+    "山本部長、お店はこちらで決めましたので、苦手なものがあってもご了承いただけますか。",
+    "山本部長、お店選びの参考にさせていただきたいのですが、苦手な食べ物などはおありでしょうか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "「参考にさせていただきたいのですが」 explains the reason, and 「おありでしょうか」 is the correct honorific for asking whether the client has something. Choice 2 sounds polite but 「お申し付けしてください」 uses the humble お〜する for the client's action; the correct form is 「お申し付けください」. Choice 3 is rude in content (and the restaurant hasn't been chosen yet), and choice 1 is casual.",
+   "image": "/images/B1-2-05.jpg"
+  },
+  {
+   "id": "B1-2-06",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "overtime",
+    "request"
+   ],
+   "scene": "夕方のオフィス。男性社員が課長の席の前に立って話しかけている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "男の人は、明日提出する報告書を仕上げるため、今日残業したいと思っています。課長に許可を求めます。"
+     }
+    ],
+    "question": "男の人は何と言いますか。"
+   },
+   "choices": [
+    "課長、今日は残業しますので、よろしく。",
+    "課長、明日提出の報告書を仕上げたいので、本日二時間ほど残業させていただけないでしょうか。",
+    "課長、報告書が終わらないので、本日残業してさしあげてもよろしいでしょうか。",
+    "課長、本日残業なさってもよろしいでしょうか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "Asking permission is done with 〜させていただけないでしょうか, along with the reason and expected length: 「本日二時間ほど残業させていただけないでしょうか」. Choice 4 uses the honorific なさる for the speaker's own overtime, and choice 3's 「してさしあげる」 sounds as if he is doing the boss a favor. Choice 1 just announces the decision without asking.",
+   "image": "/images/B1-2-06.jpg"
+  },
+  {
+   "id": "B1-2-07",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "leave",
+    "cushion"
+   ],
+   "scene": "女性社員が上司の席の横に立ち、カレンダーを手に話しかけている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "女の人は、来週の金曜日に有給休暇を取りたいと思っています。上司にお願いします。"
+     }
+    ],
+    "question": "女の人は何と言いますか。"
+   },
+   "choices": [
+    "来週の金曜日、私用でお休みをいただきたいのですが、よろしいでしょうか。",
+    "来週の金曜日、私用でお休みになりたいのですが、よろしいでしょうか。",
+    "来週の金曜日は休みますので、ご了承ください。",
+    "あいにくですが、来週の金曜日にお休みをいただけますか。"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "Taking leave is something received from the company, so 「お休みをいただきたいのですが、よろしいでしょうか」 is the standard request. Choice 2's 「お休みになりたい」 is the honorific of 休む (also meaning 'go to bed') applied to herself. Choice 4 misuses 「あいにく」, which signals unfortunate news to the listener, and choice 3 informs rather than asks.",
+   "image": "/images/B1-2-07.jpg"
+  },
+  {
+   "id": "B1-2-08",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "keigo",
+    "new-employee",
+    "request"
+   ],
+   "scene": "若い女性社員が書類を両手で持ち、隣の席の先輩の男性社員に話しかけている。先輩はパソコンで作業をしている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "新入社員の女の人が、初めて作った資料を先輩に確認してもらいたいと思っています。先輩は今、別の仕事をしています。"
+     }
+    ],
+    "question": "女の人は何と言いますか。"
+   },
+   "choices": [
+    "先輩、この資料、チェックしといてもらえる？",
+    "先輩、この資料を拝見していただけますか。",
+    "先輩、お手すきの際に、この資料に目を通していただけないでしょうか。",
+    "先輩、お手数ですが、この資料をご覧してください。"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "Because the senior is busy, 「お手すきの際に」 ('when you have a moment') is the fitting cushion, and 「目を通していただけないでしょうか」 is a polite request. Choice 2 uses the humble 拝見する for the senior's action, and choice 4's 「ご覧してください」 is ungrammatical (it should be ご覧ください / ご覧いただけますか). Choice 1 is too casual for a new employee speaking to a 先輩.",
+   "image": "/images/B1-2-08.jpg"
+  },
+  {
+   "id": "B1-2-09",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "keigo",
+    "presentation",
+    "request"
+   ],
+   "scene": "男性社員がノートパソコンを抱えて、部長室の入口で部長に話しかけている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "男の人は明日、取引先でプレゼンテーションをします。今日の夕方に行うリハーサルを部長に見てもらい、意見をもらいたいと思っています。"
+     }
+    ],
+    "question": "男の人は何と言いますか。"
+   },
+   "choices": [
+    "部長、今日のリハーサルを見てあげてください。",
+    "部長、今日のリハーサルをご覧いただき、ご意見をいただけないでしょうか。",
+    "部長、今日のリハーサルを拝見して、ご意見をくださいませんか。",
+    "部長、今日のリハーサル、もしよかったら見に来てよ。"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "The 部長's watching is expressed with the honorific ご覧になる → 「ご覧いただき」, followed by 「ご意見をいただけないでしょうか」. Choice 3 uses the humble 拝見する for the 部長's action. Choice 1's 「見てあげてください」 implies the 部長 would be doing someone else a favor, and choice 4 is casual.",
+   "image": "/images/B1-2-09.jpg"
+  },
+  {
+   "id": "B1-2-10",
+   "part": 1,
+   "section": 2,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "keigo",
+    "inventory",
+    "phone",
+    "bad-news"
+   ],
+   "scene": "男性社員が在庫表を手元に置き、電話で取引先と話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "取引先から注文を受けた商品の在庫が足りません。男の人は、相手の希望する納期には届けられないことを電話で伝えます。"
+     }
+    ],
+    "question": "男の人は何と言いますか。"
+   },
+   "choices": [
+    "ご注文の商品ですが、在庫がないので、その納期は無理です。",
+    "ご注文の商品ですが、あいにく在庫が不足しておりまして、ご希望の納期にお届けいただくことが難しい状況です。",
+    "ご注文の商品ですが、あいにく在庫が不足していらっしゃいまして、ご希望の納期にお届けするのは難しいかと存じます。",
+    "ご注文の商品ですが、あいにく在庫が不足しておりまして、ご希望の納期にお届けするのが難しい状況でございます。"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "Here 「あいにく」 is the right cushion for bad news, 「不足しておりまして」 humbly describes his own company's stock, and 「お届けする」 is the humble form for his company's delivery. Choice 2 says 「お届けいただく」, which would mean the client does the delivering. Choice 3 uses the honorific 「いらっしゃる」 for his own company's stock, and choice 1 is blunt.",
+   "image": "/images/B1-2-10.jpg"
+  },
+  {
+   "id": "B1-3-01",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "phone",
+    "appointment",
+    "schedule"
+   ],
+   "scene": "男性社員が受話器を持ち、手帳にペンで書き込もうとしている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "営業担当"
+     },
+     "B": {
+      "gender": "f",
+      "role": "取引先の担当者"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "男の人が取引先に電話をしています。"
+     },
+     {
+      "spk": "A",
+      "text": "いつもお世話になっております。みなと商事の佐藤です。新製品のご案内で、来週一度お伺いしたいのですが、火曜日の午前中はいかがでしょうか。"
+     },
+     {
+      "spk": "B",
+      "text": "火曜日の午前は社内の会議が入っておりまして……。午後でしたら、三時以降は空いております。"
+     },
+     {
+      "spk": "A",
+      "text": "三時以降ですね。実は今回、課長の木村も同行したいと申しておりまして、木村が火曜日の午後は外出の予定なんです。"
+     },
+     {
+      "spk": "B",
+      "text": "そうですか。でしたら、水曜日はいかがですか。水曜日は一日空いております。"
+     },
+     {
+      "spk": "A",
+      "text": "ありがとうございます。水曜日でしたら木村も大丈夫です。では、水曜日の十時でいかがでしょう。"
+     },
+     {
+      "spk": "B",
+      "text": "すみません、十時ですと、こちらの会議室が埋まっていたと思います。十一時からでしたら確実にお取りできます。"
+     },
+     {
+      "spk": "A",
+      "text": "承知しました。では、水曜日の十一時にお伺いいたします。"
+     },
+     {
+      "spk": "B",
+      "text": "お待ちしております。"
+     }
+    ],
+    "question": "男の人はいつ取引先を訪問しますか。"
+   },
+   "choices": [
+    "水曜日の十一時",
+    "水曜日の十時",
+    "火曜日の三時",
+    "火曜日の十時"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "Tuesday is ruled out because the client has a meeting in the morning and 課長の木村 is out in the afternoon. On Wednesday the man proposes 十時, but the meeting room is taken, so they settle on 「水曜日の十一時にお伺いいたします」. Choice 2 (水曜日の十時) is the strongest distractor, but it was superseded by the client's correction.",
+   "image": "/images/B1-3-01.jpg"
+  },
+  {
+   "id": "B1-3-02",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "hourensou",
+    "delivery",
+    "next-action"
+   ],
+   "scene": "課長の席の前で、女性社員が手帳を持って立って話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "社員"
+     },
+     "B": {
+      "gender": "m",
+      "role": "課長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "女の人が課長に相談しています。"
+     },
+     {
+      "spk": "A",
+      "text": "課長、今よろしいでしょうか。ご相談したいことがあるんですが。"
+     },
+     {
+      "spk": "B",
+      "text": "うん、どうした？"
+     },
+     {
+      "spk": "A",
+      "text": "東和電機さんから、来月十日の納品を一週間早められないかとご連絡がありまして。"
+     },
+     {
+      "spk": "B",
+      "text": "一週間か。工場のほうには確認した？"
+     },
+     {
+      "spk": "A",
+      "text": "いえ、まだです。先に東和電機さんに、難しいかもしれないとお伝えしておこうかと思ったんですが。"
+     },
+     {
+      "spk": "B",
+      "text": "いや、返事はまだしないほうがいい。できるかどうか分からないうちに答えると、あとで話がこじれるから。"
+     },
+     {
+      "spk": "A",
+      "text": "はい。"
+     },
+     {
+      "spk": "B",
+      "text": "まず工場の生産スケジュールを確認して、間に合うかどうか、結果を僕に知らせて。東和さんへの返事は、そのあと一緒に考えよう。"
+     },
+     {
+      "spk": "A",
+      "text": "分かりました。すぐ確認します。"
+     }
+    ],
+    "question": "女の人はこのあとまず何をしますか。"
+   },
+   "choices": [
+    "取引先に、納品を早めるのは難しいと伝える",
+    "課長と一緒に取引先に返事をする",
+    "工場に生産スケジュールを確認する",
+    "取引先に、納品日を一週間早めると伝える"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "The 課長 tells her 「まず工場の生産スケジュールを確認して」 and to report back before anyone answers the client. Choice 1 is what she originally planned, but he stopped it with 「返事はまだしないほうがいい」. Choice 2 does happen, but only later (「そのあと一緒に考えよう」), so it is not her first step.",
+   "image": "/images/B1-3-02.jpg"
+  },
+  {
+   "id": "B1-3-03",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "reception",
+    "visitor",
+    "next-action"
+   ],
+   "scene": "会社の受付で、紙袋を持ったスーツ姿の男性が受付の女性と話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "来客"
+     },
+     "B": {
+      "gender": "f",
+      "role": "受付"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "会社の受付で、来客と受付の人が話しています。"
+     },
+     {
+      "spk": "B",
+      "text": "いらっしゃいませ。"
+     },
+     {
+      "spk": "A",
+      "text": "北山印刷の森と申します。営業部の中村様と、二時にお約束をしているのですが。"
+     },
+     {
+      "spk": "B",
+      "text": "北山印刷の森様でいらっしゃいますね。少々お待ちくださいませ。……お待たせいたしました。申し訳ございません、中村はただいま前の会議が長引いておりまして、二時半ごろになりそうだと申しております。"
+     },
+     {
+      "spk": "A",
+      "text": "そうですか。二時半ですか……。"
+     },
+     {
+      "spk": "B",
+      "text": "よろしければ、あちらのロビーでお待ちいただけますが。"
+     },
+     {
+      "spk": "A",
+      "text": "うーん、実は三時に別の約束がありまして。今日はこちらの見本をお渡しするだけでしたので、中村様にお渡しいただけますか。"
+     },
+     {
+      "spk": "B",
+      "text": "かしこまりました。確かにお預かりいたします。"
+     },
+     {
+      "spk": "A",
+      "text": "それから、内容については改めてこちらからお電話しますと、お伝えください。"
+     },
+     {
+      "spk": "B",
+      "text": "承知いたしました。申し伝えます。"
+     }
+    ],
+    "question": "来客はこのあとどうしますか。"
+   },
+   "choices": [
+    "ロビーで二時半まで待つ",
+    "中村さんからの電話を待つ",
+    "三時にもう一度来る",
+    "見本を預けて帰る"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "Because he has another appointment at three, the visitor declines to wait and asks the receptionist to pass on the sample: 「こちらの見本を…お渡しいただけますか」, so he leaves it and goes. Choice 2 reverses who calls: he says 「こちらからお電話します」, so he will call 中村, not wait for 中村's call. Choice 1 was offered but turned down.",
+   "image": "/images/B1-3-03.jpg"
+  },
+  {
+   "id": "B1-3-04",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "complaint",
+    "phone",
+    "delivery"
+   ],
+   "scene": "女性社員が電話を受けながら、パソコンで出荷記録の画面を確認している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "客"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "客から会社に電話がかかってきました。"
+     },
+     {
+      "spk": "A",
+      "text": "もしもし、先日コピー用紙を五十箱注文した青葉商会の川口ですが、今日届いたのが三十箱しかないんですよ。"
+     },
+     {
+      "spk": "B",
+      "text": "大変申し訳ございません。すぐにお調べいたしますので、少々お待ちいただけますか。……お待たせいたしました。確認いたしましたところ、在庫の都合で二回に分けて発送しておりまして、残りの二十箱は明日の午前中に届く予定でございます。"
+     },
+     {
+      "spk": "A",
+      "text": "分けるなら、先に言ってもらわないと困りますよ。明日じゃ間に合わないんです。今日の夕方から使う予定なので。"
+     },
+     {
+      "spk": "B",
+      "text": "ご連絡が行き届かず、誠に申し訳ございません。それでしたら、近くの倉庫に在庫がございますので、本日の三時までに私どもが直接お届けいたします。"
+     },
+     {
+      "spk": "A",
+      "text": "三時ですか。それなら何とかなります。"
+     },
+     {
+      "spk": "B",
+      "text": "では、明日届く予定だった二十箱は、発送を止めておきます。"
+     },
+     {
+      "spk": "A",
+      "text": "お願いします。"
+     }
+    ],
+    "question": "会社はこのあとどうしますか。"
+   },
+   "choices": [
+    "明日の午前中に、残りの二十箱を配送する",
+    "今日の三時までに、二十箱を直接届ける",
+    "今日の夕方に、五十箱をまとめて届け直す",
+    "明日の午前中に、二十箱を直接届ける"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "The staff member offers 「本日の三時までに私どもが直接お届けいたします」 from a nearby warehouse, and the customer accepts. Choice 1 was the original plan, but she then cancels that shipment (「発送を止めておきます」). Choice 3 mixes in 「夕方」, which is when the customer needs the paper, not the delivery time, and only the missing twenty boxes are being sent.",
+   "image": "/images/B1-3-04.jpg"
+  },
+  {
+   "id": "B1-3-05",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "entertaining",
+    "restaurant",
+    "decision"
+   ],
+   "scene": "オフィスで、男性の課長と女性社員がパソコンの画面に映った飲食店のページを一緒に見ている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "課長と女の人が、接待に使う店について話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "来週の接待の店、候補は見つかった？"
+     },
+     {
+      "spk": "B",
+      "text": "はい、三つ考えました。会社の近くの和食の「松風」、イタリアンの「ルーチェ」、それから新橋駅前の和食の「つばき」です。"
+     },
+     {
+      "spk": "A",
+      "text": "先方の部長は和食がお好きだそうだから、和食がいいね。松風なら前にも使ったし、安心だな。"
+     },
+     {
+      "spk": "B",
+      "text": "それが、松風に問い合わせたところ、当日は個室がもう埋まっていると言われまして。"
+     },
+     {
+      "spk": "A",
+      "text": "そうか。個室じゃないと落ち着いて話ができないからなあ。ルーチェは？"
+     },
+     {
+      "spk": "B",
+      "text": "ルーチェは個室がありますが、パスタが中心で……。"
+     },
+     {
+      "spk": "A",
+      "text": "うーん、やっぱり和食にしたいね。つばきはどう？"
+     },
+     {
+      "spk": "B",
+      "text": "つばきは個室が空いています。会社からは少し遠いですが、先方の会社からは歩いてすぐです。"
+     },
+     {
+      "spk": "A",
+      "text": "それならむしろ先方には便利だね。そこにしよう。"
+     }
+    ],
+    "question": "二人はどの店に決めましたか。"
+   },
+   "choices": [
+    "新橋駅前にある和食の店",
+    "以前にも使った、会社の近くの和食の店",
+    "個室のあるイタリア料理の店",
+    "会社から歩いてすぐの和食の店"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "The 課長 wants Japanese food in a private room. 松風 has no private room free, and ルーチェ is Italian, so they choose 「新橋駅前の和食の『つばき』」. Choice 2 is the 課長's first preference but is ruled out by the full private rooms. Choice 4 mixes up the details: つばき is close to the client's office (「先方の会社からは歩いてすぐ」), not to their own.",
+   "image": "/images/B1-3-05.jpg"
+  },
+  {
+   "id": "B1-3-06",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "leave",
+    "schedule",
+    "negotiation"
+   ],
+   "scene": "女性社員が課長の席の横に立ち、休暇の申請書を手に話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "社員"
+     },
+     "B": {
+      "gender": "m",
+      "role": "課長"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "女の人が課長に休暇の相談をしています。"
+     },
+     {
+      "spk": "A",
+      "text": "課長、来週の水曜日から金曜日まで、三日間お休みをいただきたいのですが。家族で旅行に行く予定でして。"
+     },
+     {
+      "spk": "B",
+      "text": "来週か。木曜日の午後、大和商事さんとの打ち合わせがあったよね。"
+     },
+     {
+      "spk": "A",
+      "text": "はい。その件は、田村さんに代わりに出ていただけないかと思っていたんですが。"
+     },
+     {
+      "spk": "B",
+      "text": "うーん、先方が、担当の君から直接説明を聞きたいとおっしゃってるんだよ。"
+     },
+     {
+      "spk": "A",
+      "text": "そうですか……。では、旅行の日程を後ろにずらして、木曜日の打ち合わせが終わってから出発するようにします。"
+     },
+     {
+      "spk": "B",
+      "text": "悪いね。それだと、休みはいつになる？"
+     },
+     {
+      "spk": "A",
+      "text": "金曜日と、その次の週の月曜日をいただけますか。"
+     },
+     {
+      "spk": "B",
+      "text": "分かった。それでいいよ。申請しておいて。"
+     }
+    ],
+    "question": "女の人はいつ休みを取りますか。"
+   },
+   "choices": [
+    "来週の水曜日から金曜日まで",
+    "来週の木曜日と金曜日",
+    "来週の水曜日と金曜日",
+    "来週の金曜日と、その次の週の月曜日"
+   ],
+   "choicesSpoken": true,
+   "answer": 3,
+   "explanation": "Her original request was Wednesday to Friday, but she has to attend Thursday's meeting herself, so she shifts the trip and asks for 「金曜日と、その次の週の月曜日」, which the 課長 approves. Choice 1 is the superseded original request. Choice 3 skips only Thursday, but she says she will leave after the meeting, which means moving the whole trip later.",
+   "image": "/images/B1-3-06.jpg"
+  },
+  {
+   "id": "B1-3-07",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 2,
+   "tags": [
+    "new-employee",
+    "phone",
+    "instruction"
+   ],
+   "scene": "オフィスで、男性の先輩社員が、隣の席の若い女性社員に話をしている。女性の机の上には電話とメモ用紙がある。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "先輩社員"
+     },
+     "B": {
+      "gender": "f",
+      "role": "新入社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "先輩の社員と新入社員が話しています。"
+     },
+     {
+      "spk": "B",
+      "text": "先輩、さっきの電話なんですが、鈴木さんあての電話で、鈴木さんは外出中だとお伝えしました。"
+     },
+     {
+      "spk": "A",
+      "text": "うん。それで？"
+     },
+     {
+      "spk": "B",
+      "text": "急ぎだとおっしゃったので、鈴木さんの携帯の番号をお教えしようかと思ったんですが……。"
+     },
+     {
+      "spk": "A",
+      "text": "あ、それはしないでね。社員の携帯番号は、社外の人には教えないことになってるから。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。なので、お名前と電話番号を伺って、メモを鈴木さんの机に置いておきました。"
+     },
+     {
+      "spk": "A",
+      "text": "うん、それはいいんだけど、急ぎの用件なら、机に置くだけだと鈴木さんが戻るまで気づかないよね。"
+     },
+     {
+      "spk": "B",
+      "text": "あ、そうですね。"
+     },
+     {
+      "spk": "A",
+      "text": "こういうときは、メモを置いたうえで、社内チャットで鈴木さんに直接知らせておいて。外出先でも見られるから。"
+     },
+     {
+      "spk": "B",
+      "text": "分かりました。すぐ送ります。"
+     }
+    ],
+    "question": "先輩は新入社員に、何をするように言いましたか。"
+   },
+   "choices": [
+    "電話の相手に、鈴木さんの携帯番号を教える",
+    "鈴木さんの携帯に電話をかける",
+    "社内チャットで鈴木さんに知らせる",
+    "メモを鈴木さんの机に置き直す"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "The senior's instruction is 「メモを置いたうえで、社内チャットで鈴木さんに直接知らせておいて」. Choice 1 is what the new employee considered, but it was explicitly forbidden (社外の人には教えない). The memo is already on the desk and the senior approved it, so choice 4 isn't the instruction, and calling Suzuki's mobile (choice 2) was never mentioned.",
+   "image": "/images/B1-3-07.jpg"
+  },
+  {
+   "id": "B1-3-08",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "presentation",
+    "rehearsal",
+    "feedback"
+   ],
+   "scene": "会議室で、女性の部長がテーブルに座り、スクリーンの前に立つ男性社員に話しかけている。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "f",
+      "role": "部長"
+     },
+     "B": {
+      "gender": "m",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "社外プレゼンのリハーサルのあとで、部長と男の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "お疲れさま。全体的に分かりやすかったよ。ただ、二十五分かかってたね。持ち時間は二十分でしょう？"
+     },
+     {
+      "spk": "B",
+      "text": "はい。どこか削らないといけませんね。導入事例のところを短くしようかと思っているんですが。"
+     },
+     {
+      "spk": "A",
+      "text": "うーん、事例は先方がいちばん聞きたいところだから、そこは残したほうがいい。むしろ最初の会社紹介が長すぎるかな。先方はうちのことをよくご存じだから、一枚で十分だと思う。"
+     },
+     {
+      "spk": "B",
+      "text": "分かりました。会社紹介は一枚にまとめます。"
+     },
+     {
+      "spk": "A",
+      "text": "それから、価格の説明は最後に回すって言ってたよね。"
+     },
+     {
+      "spk": "B",
+      "text": "はい、最後にまとめてご説明しようと思っています。"
+     },
+     {
+      "spk": "A",
+      "text": "うん、それでいいと思う。じゃあ、直したらもう一度通してみて。"
+     }
+    ],
+    "question": "男の人はプレゼンをどのように直しますか。"
+   },
+   "choices": [
+    "導入事例の部分を短くする",
+    "会社紹介を短くまとめる",
+    "価格の説明を最初に移す",
+    "導入事例と会社紹介の両方を削る"
+   ],
+   "choicesSpoken": true,
+   "answer": 1,
+   "explanation": "The 部長 says the case studies should stay and that 「最初の会社紹介が長すぎる」, and the man agrees: 「会社紹介は一枚にまとめます」. Choice 1 was his own idea, but the 部長 rejected it. The pricing explanation stays at the end (「それでいいと思う」), so choice 3 is wrong too.",
+   "image": "/images/B1-3-08.jpg"
+  },
+  {
+   "id": "B1-3-09",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "negotiation",
+    "price",
+    "terms"
+   ],
+   "scene": "取引先の会議室で、女性の営業担当者と男性の購買担当者がテーブルをはさんで話している。テーブルには見積書が置いてある。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "f",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "取引先の購買担当者"
+     },
+     "B": {
+      "gender": "f",
+      "role": "営業担当者"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "取引先の担当者と、営業担当の女の人が話しています。"
+     },
+     {
+      "spk": "A",
+      "text": "先日お願いした単価の件ですが、ご検討いただけましたか。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。社内で検討いたしましたが、申し訳ございません、五パーセントの値下げは難しいという結論になりました。"
+     },
+     {
+      "spk": "A",
+      "text": "そうですか……。こちらも原材料費が上がって厳しいんですよ。"
+     },
+     {
+      "spk": "B",
+      "text": "お察しいたします。そこでご提案なのですが、一回のご注文数を、現在の千個から千五百個に増やしていただけるのであれば、単価を三パーセント下げることができます。"
+     },
+     {
+      "spk": "A",
+      "text": "千五百個ですか。うーん、月に一回の注文なら、千五百でも在庫は置けるかな……。"
+     },
+     {
+      "spk": "B",
+      "text": "納品も月一回にまとめさせていただければ、配送の費用も抑えられますので。"
+     },
+     {
+      "spk": "A",
+      "text": "分かりました。では来月の注文から、千五百個でお願いします。"
+     },
+     {
+      "spk": "B",
+      "text": "ありがとうございます。それでは、来月分から新しい単価でお見積もりをお送りいたします。"
+     }
+    ],
+    "question": "来月からの取引条件はどうなりましたか。"
+   },
+   "choices": [
+    "一回の注文を千五百個にし、単価を三パーセント下げる",
+    "一回の注文は千個のままで、単価を三パーセント下げる",
+    "一回の注文を千五百個にし、単価を五パーセント下げる",
+    "一回の注文は千個のままで、単価を五パーセント下げる"
+   ],
+   "choicesSpoken": true,
+   "answer": 0,
+   "explanation": "The 5% cut was refused, and the counter-offer was a 3% cut on condition that each order goes up from 1,000 to 1,500 units; the buyer accepts with 「来月の注文から、千五百個でお願いします」. Choice 3 wrongly pairs the larger order with the rejected 5% figure. Choice 2 drops the condition that made the 3% cut possible.",
+   "image": "/images/B1-3-09.jpg"
+  },
+  {
+   "id": "B1-3-10",
+   "part": 1,
+   "section": 3,
+   "source": "original",
+   "difficulty": 3,
+   "tags": [
+    "inventory",
+    "shortage",
+    "decision"
+   ],
+   "scene": "オフィスで、男性の課長の席に女性社員が在庫表を持ってきて、二人で画面を見ながら話している。",
+   "audio": {
+    "speakers": {
+     "N": {
+      "gender": "m",
+      "role": "ナレーター"
+     },
+     "A": {
+      "gender": "m",
+      "role": "課長"
+     },
+     "B": {
+      "gender": "f",
+      "role": "社員"
+     }
+    },
+    "lines": [
+     {
+      "spk": "N",
+      "text": "課長と女の人が、商品の在庫について話しています。"
+     },
+     {
+      "spk": "B",
+      "text": "課長、プリンター用トナーのTX-20ですが、注文が急に増えて、こちらの倉庫の在庫がほぼなくなりました。"
+     },
+     {
+      "spk": "A",
+      "text": "次の入荷はいつ？"
+     },
+     {
+      "spk": "B",
+      "text": "メーカーに確認したところ、二週間後だそうです。"
+     },
+     {
+      "spk": "A",
+      "text": "二週間か。まだ出荷できていない注文はどのくらい？"
+     },
+     {
+      "spk": "B",
+      "text": "八百個です。大阪の倉庫に五百個ありますので、それをこちらに回してもらえば三日で届きます。"
+     },
+     {
+      "spk": "A",
+      "text": "じゃあ、大阪の分はこっちに回してもらおう。ただ、五百じゃ全部には足りないね。"
+     },
+     {
+      "spk": "B",
+      "text": "はい。後継品のTX-30をご案内するという手もありますが……。"
+     },
+     {
+      "spk": "A",
+      "text": "TX-30は機種によっては使えないから、勝手に送るわけにはいかないな。大阪の五百個は、急ぎだとおっしゃっているお客様の分に優先して充てて、ほかのお客様には、入荷まで待っていただけるか連絡しよう。"
+     },
+     {
+      "spk": "B",
+      "text": "分かりました。"
+     }
+    ],
+    "question": "大阪の倉庫の在庫はどうすることになりましたか。"
+   },
+   "choices": [
+    "注文を受けた順に、すべての客に分けて送る",
+    "後継品と一緒に客に送る",
+    "急いでいる客の注文に優先して使う",
+    "二週間後の入荷まで大阪に置いておく"
+   ],
+   "choicesSpoken": true,
+   "answer": 2,
+   "explanation": "The 課長 decides 「大阪の五百個は、急ぎだとおっしゃっているお客様の分に優先して充てて」, and the other customers will be asked to wait for the restock. Choice 2 brings in the successor model TX-30, which he rejected (「勝手に送るわけにはいかない」). Choice 1 is wrong because 500 units can't cover all 800, and choice 4 contradicts his decision to bring the Osaka stock over.",
+   "image": "/images/B1-3-10.jpg"
+  }
+ ]
+}

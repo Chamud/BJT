@@ -1,0 +1,16 @@
+# dependencies & builds
+node_modules/
+app/dist/
+*.tsbuildinfo
+
+# YOUR purchased book (copyrighted) — never commit
+content/private/
+docs/*.pdf
+
+# machine-specific
+*.lnk
+.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.log
