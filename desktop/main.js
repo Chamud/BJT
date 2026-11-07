@@ -1,13 +1,22 @@
 // BJT Trainer desktop app: tray icon + always-available flashcard widget + full trainer window.
-// Serves the built app (app/dist) and live content (content/, incl. your private book) on 127.0.0.1 only.
+// Serves the trainer and its content on 127.0.0.1 only (never reachable from other machines).
 const { app, BrowserWindow, Tray, Menu, ipcMain, screen, nativeImage, shell } = require('electron')
 const http = require('node:http')
 const fs = require('node:fs')
 const path = require('node:path')
 
+// Same data folder for the installed app and the dev checkout, so progress (browser storage), widget
+// position and the private book are shared: %APPDATA%\bjt-desktop
+app.setPath('userData', path.join(app.getPath('appData'), 'bjt-desktop'))
+
+const PACKAGED = app.isPackaged
 const ROOT = path.resolve(__dirname, '..')
-const DIST = path.join(ROOT, 'app', 'dist')
-const CONTENT = path.join(ROOT, 'content')
+// Installed: the built trainer + all content ship in resources/web.
+// Dev checkout: serve live content/ first (new packs work without rebuilding), then app/dist.
+const WEB_DIRS = PACKAGED ? [path.join(process.resourcesPath, 'web')] : [path.join(ROOT, 'content'), path.join(ROOT, 'app', 'dist')]
+const INDEX = path.join(WEB_DIRS[WEB_DIRS.length - 1], 'index.html')
+// Your purchased book is never bundled. Installed app: %APPDATA%\bjt-desktop\private. Dev: content/private.
+const PRIVATE = PACKAGED ? path.join(app.getPath('userData'), 'private') : path.join(ROOT, 'content', 'private')
 const PORT = 5190 // separate from the dev server (5180) so both can run
 const ORIGIN = `http://127.0.0.1:${PORT}`
 const STATE_FILE = path.join(app.getPath('userData'), 'desktop-state.json')
@@ -25,13 +34,15 @@ const persist = () => { try { fs.writeFileSync(STATE_FILE, JSON.stringify(saved)
 
 // ---------- local static server (with Range support so book audio can seek) ----------
 function resolveFile(urlPath) {
-  const rel = decodeURIComponent(urlPath).replace(/^\/+/, '')
-  for (const base of [CONTENT, DIST]) { // live content first, so new packs work without rebuilding
+  let rel = decodeURIComponent(urlPath).replace(/^\/+/, '')
+  let bases = WEB_DIRS
+  if (rel.startsWith('private/')) { bases = [PRIVATE]; rel = rel.slice('private/'.length) }
+  for (const base of bases) {
     const p = path.resolve(base, rel || 'index.html')
     if (!p.startsWith(base + path.sep) && p !== base) continue // block path traversal
     try { if (fs.statSync(p).isFile()) return p } catch { /* next */ }
   }
-  return path.join(DIST, 'index.html')
+  return bases === WEB_DIRS ? INDEX : null
 }
 
 function startServer() {
@@ -39,6 +50,7 @@ function startServer() {
     const srv = http.createServer((req, res) => {
       let file
       try { file = resolveFile(new URL(req.url, ORIGIN).pathname) } catch { res.writeHead(400).end(); return }
+      if (!file) { res.writeHead(404).end(); return }
       fs.stat(file, (err, st) => {
         if (err) { res.writeHead(404).end(); return }
         const type = MIME[path.extname(file).toLowerCase()] ?? 'application/octet-stream'
@@ -154,6 +166,10 @@ function bringWidget() {
   setTimeout(() => { if (widget && !raisedByNag) widget.setAlwaysOnTop(false) }, 400)
 }
 
+// ---------- autostart ----------
+// installed: just the app's exe; dev checkout: electron.exe + this folder
+const loginOpts = () => (PACKAGED ? { path: process.execPath } : { path: process.execPath, args: [__dirname] })
+
 // ---------- tray ----------
 function iconImage() {
   const p = path.join(__dirname, 'icon.png')
@@ -172,7 +188,7 @@ function buildTray() {
     tray.on('double-click', () => { clearTimeout(clickTimer); clickTimer = null; openMain() })
   }
   const paused = saved.pausedUntil > Date.now()
-  const login = app.getLoginItemSettings({ path: process.execPath, args: [__dirname] }).openAtLogin
+  const login = app.getLoginItemSettings(loginOpts()).openAtLogin
   tray.setContextMenu(Menu.buildFromTemplate([
     { label: 'Open', click: () => openMain() },
     { label: widget?.isVisible() ? 'Hide' : 'Show', click: () => {
@@ -189,8 +205,9 @@ function buildTray() {
           { label: 'Tomorrow', click: pauseTomorrow },
         ] },
     { type: 'separator' },
+    { label: 'Book folder', click: () => { fs.mkdirSync(path.join(PRIVATE, 'book'), { recursive: true }); shell.openPath(path.join(PRIVATE, 'book')) } },
     { label: 'Autostart', type: 'checkbox', checked: login, click: item => {
-      app.setLoginItemSettings({ openAtLogin: item.checked, path: process.execPath, args: [__dirname] })
+      app.setLoginItemSettings({ ...loginOpts(), openAtLogin: item.checked })
     } },
     { type: 'separator' },
     { label: 'Quit', click: () => { quitting = true; app.quit() } },
@@ -239,8 +256,15 @@ else {
   app.on('second-instance', () => openMain())
   app.setAppUserModelId('BJT Trainer')
   app.whenReady().then(async () => {
-    if (!fs.existsSync(path.join(DIST, 'index.html'))) {
-      console.error('app/dist is missing — run start-desktop.bat (it builds the app first).'); app.quit(); return
+    if (!fs.existsSync(INDEX)) {
+      console.error('Trainer build is missing — run BJT Trainer.vbs (it builds the app first).'); app.quit(); return
+    }
+    if (PACKAGED && !saved.autostartDefaulted) {
+      app.setLoginItemSettings({ ...loginOpts(), openAtLogin: true })
+      saved.autostartDefaulted = true; persist()
+    }
+    if (PACKAGED) {
+      try { require('electron-updater').autoUpdater.checkForUpdatesAndNotify().catch(() => {}) } catch { /* offline etc. */ }
     }
     try { await startServer() } catch (e) { console.error('Could not start local server on port ' + PORT, e); app.quit(); return }
     createWidget()

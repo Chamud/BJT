@@ -4,10 +4,77 @@
   "description": "BJT Trainer desktop widget and tray app",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "dist": "npm --prefix ../app run build && electron-builder --win nsis --publish never"
   },
   "devDependencies": {
-    "electron": "^45.2.3"
+    "electron": "^45.2.3",
+    "electron-builder": "^26.18.0"
   },
-  "private": true
+  "private": true,
+  "dependencies": {
+    "electron-updater": "^6.8.11"
+  },
+  "productName": "BJT Trainer",
+  "author": "Chamud",
+  "homepage": "https://github.com/Chamud/BJT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chamud/BJT.git"
+  },
+  "build": {
+    "appId": "com.chamud.bjttrainer",
+    "productName": "BJT Trainer",
+    "copyright": "© 2026 Chamud",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "main.js",
+      "preload.js",
+      "icon.png",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../app/dist",
+        "to": "web",
+        "filter": [
+          "**/*",
+          "!private/**",
+          "!images/candidates/**"
+        ]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "BJT Trainer",
+      "runAfterFinish": true,
+      "artifactName": "BJT-Trainer-Setup-${version}.${ext}",
+      "uninstallDisplayName": "BJT Trainer"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "Chamud",
+        "repo": "BJT",
+        "releaseType": "release"
+      }
+    ]
+  }
 }
