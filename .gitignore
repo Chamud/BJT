@@ -15,3 +15,4 @@ Thumbs.db
 __pycache__/
 *.log
 release/
+content/images/candidates/
