@@ -37,7 +37,8 @@
    ],
    "choicesSpoken": true,
    "answer": 2,
-   "explanation": "The receptionist is holding out a card on a strap (a visitor pass) to the man, so 「女性が男性に入館証を手渡しています」 is correct. The phone and the sign-in form are on the counter but nobody is using them, which rules out choices 2 and 4, and the man's hands are empty, so he is not offering a 名刺 (choice 1)."
+   "explanation": "The receptionist is holding out a card on a strap (a visitor pass) to the man, so 「女性が男性に入館証を手渡しています」 is correct. The phone and the sign-in form are on the counter but nobody is using them, which rules out choices 2 and 4, and the man's hands are empty, so he is not offering a 名刺 (choice 1).",
+   "image": "/images/B1-1-01.jpg"
   },
   {
    "id": "B1-1-02",
@@ -73,7 +74,8 @@
    ],
    "choicesSpoken": true,
    "answer": 0,
-   "explanation": "The shelf has almost nothing left on it, so 「棚の在庫が少なくなっています」 describes the photo. The cart with boxes is parked (止めてある), not being pushed, so choice 3 is wrong; the man is pointing at the shelf with a tablet, not loading boxes (choice 4), and the shelf is nearly empty rather than 「ぎっしり」 full (choice 2)."
+   "explanation": "The shelf has almost nothing left on it, so 「棚の在庫が少なくなっています」 describes the photo. The cart with boxes is parked (止めてある), not being pushed, so choice 3 is wrong; the man is pointing at the shelf with a tablet, not loading boxes (choice 4), and the shelf is nearly empty rather than 「ぎっしり」 full (choice 2).",
+   "image": "/images/B1-1-02.jpg"
   },
   {
    "id": "B1-1-03",

@@ -38,7 +38,8 @@
    ],
    "choicesSpoken": true,
    "answer": 2,
-   "explanation": "The receptionist is handing a card (a visitor pass) to the guest, so 「来客に入館証が手渡されています」 matches. Choice 1 reverses the direction of the handover (the man is not giving a 名刺). Choice 2 describes guiding him to a room, and choice 4 is wrong because the bag is still on his shoulder."
+   "explanation": "The receptionist is handing a card (a visitor pass) to the guest, so 「来客に入館証が手渡されています」 matches. Choice 1 reverses the direction of the handover (the man is not giving a 名刺). Choice 2 describes guiding him to a room, and choice 4 is wrong because the bag is still on his shoulder.",
+   "image": "/images/A1-1-01.jpg"
   },
   {
    "id": "A1-1-02",

@@ -86,7 +86,7 @@
  },
  "A1-3-07": {
   "style": "lineart",
-  "prompt": "male employee standing beside his section chief's desk holding a printed training flyer, consulting him"
+  "prompt": "a male employee standing beside his section chief's desk, holding a plain blank sheet of paper with no writing on it, asking for advice; the section chief sits at the desk and looks up at him"
  },
  "A1-3-08": {
   "style": "lineart",
@@ -114,11 +114,11 @@
  },
  "B1-1-04": {
   "style": "photo",
-  "prompt": "private tatami room in a Japanese izakaya, a young Japanese businessman kneeling on a floor cushion pouring beer from a bottle into the glass held by an older Japanese businessman across a low table with food dishes, a second older man seated beside him, close-up of the pouring"
+  "prompt": "private tatami room in a Japanese restaurant, low table with dishes. In the FOREGROUND, closest to the camera, a young Japanese businessman kneels with his back partly to the camera and pours beer from a bottle into the glass held by an older Japanese businessman seated across the table in the background; a second older man sits beside him. The pouring hands are clearly visible"
  },
  "B1-1-05": {
   "style": "photo",
-  "prompt": "Japanese office at night, dark windows, half of the ceiling lights turned off, only one desk island lit where a Japanese woman is typing at a computer, all other chairs empty and pushed under the desks"
+  "prompt": "large Japanese open-plan office late at night, dark windows, most ceiling lights switched off and most desks empty with chairs pushed in. Only ONE person in the whole office: a single Japanese woman typing at a computer at one lit desk. Nobody else is present"
  },
  "B1-2-01": {
   "style": "photo",
@@ -142,7 +142,7 @@
  },
  "B1-2-06": {
   "style": "photo",
-  "prompt": "Japanese office in the evening, male employee standing in front of his section chief's desk speaking to him"
+  "prompt": "Japanese office in the early evening, orange sunset light through the windows. A young male employee STANDS in front of his section chief's desk and speaks to him; the older section chief sits behind the desk looking up at him"
  },
  "B1-2-07": {
   "style": "photo",
